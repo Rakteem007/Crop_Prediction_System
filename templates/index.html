@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Crop and Yield Prediction</title>
+    <link rel="stylesheet" href="./static/styles.css" />
+  </head>
+
+  <style>
+    body {
+      display: flex;
+      justify-content: space-between;
+      background-image: url("https://images.pexels.com/photos/1227513/pexels-photo-1227513.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+    }
+
+    .header {
+      width: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .crop-form {
+      width: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    form {
+      display: flex;
+      flex-direction: column;
+    }
+  </style>
+  <body>
+    <div class="header">
+      <h1>Crop and Yield Prediction Form</h1>
+    </div>
+    <div class="crop-form">
+      <form action="/predict" method="post">
+        <input type="text" name="N" placeholder="Nitrogen (N)" required />
+        <input type="text" name="P" placeholder="Phosphorus (P)" required />
+        <input type="text" name="K" placeholder="Potassium (K)" required />
+        <input type="text" name="pH" placeholder="Soil pH" />
+        <input type="text" name="Humidity" placeholder="Humidity (%)" />
+        <input type="text" name="Temperature" placeholder="Temperature (°C)" />
+        <input type="text" name="Rainfall" placeholder="Rainfall (mm)" />
+        <input type="text" name="District" placeholder="District" />
+        <input type="text" name="SoilType" placeholder="Soil Type" />
+        <button type="submit">Predict</button>
+      </form>
+      {% if prediction_text %}
+      <h3>Prediction Results:</h3>
+      <p>
+        Best Fit Crop: {{ prediction_text[0][0] }}, Expected Yield: {{
+        prediction_text[0][1] }} kg/ha
+      </p>
+      {% for crop, yield in prediction_text[1:] %}
+      <p>Alternative Crop: {{ crop }}, Expected Yield: {{ yield }} kg/ha</p>
+      {% endfor %} {% endif %}
+    </div>
+  </body>
+</html>

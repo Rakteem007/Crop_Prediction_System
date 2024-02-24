@@ -1,0 +1,97 @@
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
+from sklearn.pipeline import Pipeline
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.impute import SimpleImputer
+
+# Sample dataset for demonstration purposes
+data = {
+    'N': [50, 20, 30, 40, 45],
+    'P': [30, 20, 40, 20, 35],
+    'K': [20, 40, 30, 30, 25],
+    'pH': [6.5, 7.0, 6.8, 6.5, 7.2],
+    'Humidity': [80, 70, 75, 85, 80],
+    'Temperature': [25, 30, 28, 26, 27],
+    'Rainfall': [200, 100, 150, 180, 160],
+    'District': ['DistrictA', 'DistrictB', 'DistrictA', 'DistrictB', 'DistrictA'],
+    'SoilType': ['SoilType1', 'SoilType2', 'SoilType1', 'SoilType2', 'SoilType1'],
+    'CropYield': [40, 30, 35, 45, 42],
+    'CropName': ['Crop1', 'Crop2', 'Crop3', 'Crop4', 'Crop5']
+}
+df = pd.DataFrame(data)
+
+# Define features and target variables
+features = ['N', 'P', 'K', 'pH', 'Humidity', 'Temperature', 'Rainfall', 'District', 'SoilType']
+X = df[features]
+y_crop = df['CropName']
+y_yield = df['CropYield']
+
+# Preprocessing pipeline for numeric and categorical features
+numeric_features = ['N', 'P', 'K', 'pH', 'Humidity', 'Temperature', 'Rainfall']
+numeric_transformer = Pipeline(steps=[
+    ('imputer', SimpleImputer(strategy='mean')),
+    ('scaler', StandardScaler())])
+
+categorical_features = ['District', 'SoilType']
+categorical_transformer = Pipeline(steps=[
+    ('imputer', SimpleImputer(strategy='most_frequent')),
+    ('onehot', OneHotEncoder(handle_unknown='ignore'))])
+
+preprocessor = ColumnTransformer(
+    transformers=[
+        ('num', numeric_transformer, numeric_features),
+        ('cat', categorical_transformer, categorical_features)])
+
+# Crop prediction and yield prediction models
+model_crop = Pipeline([
+    ('preprocessor', preprocessor),
+    ('classifier', RandomForestClassifier(random_state=42))
+])
+
+model_yield = Pipeline([
+    ('preprocessor', preprocessor),
+    ('regressor', RandomForestRegressor(random_state=42))
+])
+
+# Splitting the dataset into training and testing sets
+X_train, X_test, y_train_crop, y_test_crop = train_test_split(X, y_crop, test_size=0.2, random_state=42)
+X_train_yield, X_test_yield, y_train_yield, y_test_yield = train_test_split(X, y_yield, test_size=0.2, random_state=42)
+
+# Training the models
+model_crop.fit(X_train, y_train_crop)
+model_yield.fit(X_train, y_train_yield)
+
+def predict_with_balanced_view(input_data, top_n=3):
+    sample_input = pd.DataFrame([input_data])
+    # Predict the probability of each crop
+    probabilities = model_crop.predict_proba(sample_input)[0]
+    crops = model_crop.classes_
+    
+    # Getting yield predictions for all crops
+    yields = model_yield.predict(sample_input.repeat(len(crops), axis=0))
+    
+    # Combining probabilities and yields to form a score
+    scores = probabilities * yields  # Simple heuristic for demonstration
+    
+    # Ranking crops based on the combined score
+    ranked_indices = np.argsort(scores)[::-1][:top_n]
+    top_crops_scores = [(crops[i], yields[i]) for i in ranked_indices]
+    
+    return top_crops_scores
+
+# Example input
+input_data = {
+    'N': 25, 'P': 30, 'K': 20, 'pH': 6.8, 'Humidity': 80, 'Temperature': 26, 'Rainfall': 120,
+    'District': 'DistrictA', 'SoilType': 'SoilType1'
+}
+
+# Making predictions
+top_crops_scores = predict_with_balanced_view(input_data, top_n=3)
+
+# Displaying the predictions
+for crop, score in top_crops_scores:
+    print(f"Crop: {crop}, Score: {score}")
+
