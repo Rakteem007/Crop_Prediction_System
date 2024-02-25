@@ -12,51 +12,6 @@ with open('model_crop.pkl', 'rb') as file:
 with open('model_yield.pkl', 'rb') as file:
     model_yield = pickle.load(file)
 
-# def predict_with_missing_data(input_data, top_n=2):
-#     sample_input_crop = pd.DataFrame([input_data])
-#     # Predict the probability of each crop
-#     crop_probabilities = model_crop.predict_proba(sample_input_crop)[0]
-#     top_crop_indices = np.argsort(crop_probabilities)[::-1][:top_n]
-#     top_crops = np.array(model_crop.classes_)[top_crop_indices]
-    
-#     top_crops_with_yield = []
-#     for crop in top_crops:
-#         # Adjust input data to include the predicted 'CropName' for yield prediction
-#         input_data_with_crop = input_data.copy()
-#         input_data_with_crop['CropName'] = crop
-#         sample_input_yield = pd.DataFrame([input_data_with_crop])
-        
-#         yield_prediction = model_yield.predict(sample_input_yield)[0]
-#         top_crops_with_yield.append((crop, yield_prediction))
-    
-#     return top_crops_with_yield
-
-# def predict_with_adjusted_yield(input_data, top_n=2):
-#     sample_input_crop = pd.DataFrame([input_data])
-#     # Predict the probability of each crop
-#     crop_probabilities = model_crop.predict_proba(sample_input_crop)[0]
-#     top_crop_indices = np.argsort(crop_probabilities)[::-1][:top_n]
-#     top_crops = np.array(model_crop.classes_)[top_crop_indices]
-    
-#     top_crops_with_yield = []
-#     for crop in top_crops:
-#         # Adjust input data to include the predicted 'CropName' for yield prediction
-#         input_data_with_crop = input_data.copy()
-#         input_data_with_crop['CropName'] = crop
-#         sample_input_yield = pd.DataFrame([input_data_with_crop])
-        
-#         yield_prediction = model_yield.predict(sample_input_yield)[0]
-#         top_crops_with_yield.append((crop, yield_prediction))
-    
-#     # Ensure the yield of the second best fit is not more than the best fit
-#     if top_n > 1 and top_crops_with_yield[1][1] > top_crops_with_yield[0][1]:
-#         print("Adjusting the yield of the second best fit crop to not exceed the best fit crop's yield.")
-#         # Here we adjust the second best fit's yield to match the best fit's yield for demonstration
-#         # In practice, more sophisticated logic would be applied
-#         top_crops_with_yield[1] = (top_crops_with_yield[1][0], top_crops_with_yield[0][1])
-    
-#     return top_crops_with_yield
-
 def predict_with_adjusted_yield(input_data, top_n=2):
     sample_input_crop = pd.DataFrame([input_data])
     # Predict the probability of each crop
