@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8" />
@@ -62,5 +62,330 @@
       <p>Alternative Crop: {{ crop }}, Expected Yield: {{ yield }} kg/ha</p>
       {% endfor %} {% endif %}
     </div>
+  </body>
+</html> -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Crop and Yield Prediction</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap"
+    />
+    <style>
+      body {
+        font-family: "Source Code Pro", monospace;
+        background-color: #1e1e1e;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: row;
+        height: 100vh;
+        color: #ffffff;
+        background-image: url(../static/demo5.jpg);
+        background-size: cover;
+        overflow: hidden;
+      }
+
+      .container {
+        display: flex;
+        flex-direction: row;
+        /* justify-content: space-between; */
+        height: 90%;
+        margin-right: 30px;
+        margin-top: 35px;
+        max-width: 1000px;
+        width: 110%;
+        background-color: #333333;
+        border-radius: 8px;
+        overflow: hidden;
+        background-size: cover;
+      }
+
+      .Heading {
+        padding-top: 5%;
+        padding-left: 30%;
+        /* padding-bottom: 7%; */
+        font-size: 50px;
+        color: green;
+        text-shadow: 2px 0.5px;
+        font-weight: bold;
+        opacity: 0;
+      }
+
+      .form-container {
+        width: 50%;
+        padding: 20px;
+        box-sizing: border-box;
+      }
+
+      .result-container {
+        width: 50%;
+        padding: 20px;
+        box-sizing: border-box;
+        overflow-y: auto;
+      }
+
+      form {
+        max-width: 400px;
+        width: 100%;
+        margin: 0 auto;
+      }
+
+      h2 {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+
+      input[type="text"] {
+        width: 94%;
+        margin-bottom: 10px;
+        padding: 10px;
+        border: 1px solid #cccccc;
+        border-radius: 4px;
+      }
+
+      select {
+        width: 100%;
+        margin-bottom: 10px;
+        padding: 10px;
+        border: 1px solid #cccccc;
+        border-radius: 4px;
+      }
+
+      button[type="submit"] {
+        width: 100%;
+        background-color: #444444;
+        color: whitesmoke;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: 2px solid #008000;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+
+      button[type="submit"]:hover {
+        background-color: #45a049;
+      }
+
+      .btn-close {
+        width: 95%;
+        background-color: #444444;
+        color: whitesmoke;
+        padding: 14px 20px;
+        margin: 15% 0;
+        margin-left: 3%;
+        border: 2px solid #e54132;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+
+      .btn-close:hover {
+        background-color: #de4c4c;
+      }
+
+      h3 {
+        margin-top: 20px;
+      }
+
+      p {
+        font-size: 16px;
+        margin-bottom: 8px;
+      }
+
+      .resultdiv {
+        background-color: #444444;
+        padding: 20px;
+        border-radius: 8px;
+        height: 600px;
+      }
+
+      .glowing-bar-loader {
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        height: 300px;
+        /* Adjust height as needed */
+      }
+
+      .bar {
+        padding: 10px;
+        width: 20px;
+        /* Adjust width as needed */
+        height: 60px;
+        /* Minimum height of bars */
+        background-color: #3498db;
+        margin: 0 5px;
+        animation: bar-glow 1.5s infinite alternate ease-in-out;
+      }
+
+      .bar:nth-child(2) {
+        animation-delay: 0.25s;
+      }
+
+      .bar:nth-child(3) {
+        animation-delay: 0.5s;
+      }
+
+      .bar:nth-child(4) {
+        animation-delay: 0.75s;
+      }
+
+      @keyframes bar-glow {
+        0% {
+          background-color: #3498db;
+          /* Original color */
+          box-shadow: 0 0 10px #3498db;
+          /* Initial shadow */
+        }
+
+        100% {
+          background-color: #1abc9c;
+          /* New color */
+          box-shadow: 0 0 10px #1abc9c, 0 0 20px #1abc9c, 0 0 30px #1abc9c;
+          /* Bigger shadow */
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="Context">
+      <div class="Heading">
+        Optimize Farming
+        <hr style="width: 470px; border: 1px solid green" />
+      </div>
+      <div
+        class="Intro"
+        style="
+          font-size: 3rem;
+          padding-left: 60px;
+          color: white;
+          font-weight: bold;
+          padding-bottom: 40px;
+        "
+      >
+        <span style="font-size: 2rem"
+          ><span style="color: green; font-size: 4rem">C</span>rop Yield
+          Prediction</span
+        >
+        <br />
+        Nurturing Tomorrow's Harvest with Precision Insights.
+      </div>
+    </div>
+    <div class="container">
+      <div class="form-container">
+        <form id="prediction-form" action="/predict" method="post">
+          <h2>Crop and Yield Prediction Form</h2>
+          <input type="text" name="N" placeholder="Nitrogen (N)" required />
+          <input type="text" name="P" placeholder="Phosphorus (P)" required />
+          <input type="text" name="K" placeholder="Potassium (K)" required />
+          <input type="text" name="pH" placeholder="Soil pH" />
+          <input type="text" name="Humidity" placeholder="Humidity (%)" />
+          <input
+            type="text"
+            name="Temperature"
+            placeholder="Temperature (°C)"
+          />
+          <input type="text" name="Rainfall" placeholder="Rainfall (mm)" />
+          <!-- <input type="text" name="District" placeholder="District" />
+          <input type="text" name="SoilType" placeholder="Soil Type" /> -->
+          <select
+            id="SoilType"
+            name="SoilType"
+            onchange="changeDropDownValue(this.value)"
+            required
+          >
+            <option value="0">Select type of soil</option>
+            <option value="1">Alluvial Soil</option>
+            <option value="2">Alluvial & Red/Yellow Soil</option>
+            <option value="8">Black Soil</option>
+            <option value="3">Coastal Alluvial Soil</option>
+            <option value="9">Laterite</option>
+            <option value="4">Mountainous Soil</option>
+            <option value="5">Red Soil</option>
+            <option value="6">Red and Laterite Soil</option>
+            <option value="7">Sandy Soil</option>
+            <option value="10">Terai Alluvial Soil</option>
+          </select>
+
+          <select id="option" name="District" required>
+            <option value="none" selected disabled hidden>
+              Select District
+            </option>
+          </select>
+          <button id="predict-button" type="submit">PREDICT</button>
+        </form>
+      </div>
+      <div class="result-container">
+        {% if prediction_text %}
+        <div class="resultdiv">
+          <h3>Prediction Results:</h3>
+          <p>
+            Best Fit Crop: {{ prediction_text[0][0] }}, Expected Yield: {{
+            prediction_text[0][1] }} kg/ha
+          </p>
+          {% for crop, yield in prediction_text[1:] %}
+          <p>Alternative Crop: {{ crop }}, Expected Yield: {{ yield }} kg/ha</p>
+          {% endfor %}
+
+          <button class="btn-close" onclick="nav()">CLOSE&nbsp;</button>
+        </div>
+        {% else %}
+        <div class="glowing-bar-loader">
+          <div class="bar"></div>
+          <div class="bar"></div>
+          <div class="bar"></div>
+          <div class="bar"></div>
+          <div class="bar"></div>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+
+    <script>
+      let commonValues = {
+        1: [
+          "Alipurduar",
+          "Murshidabad",
+          "Purba Medinipur (East Medinipur)",
+          "Hooghly",
+          "Kolkata",
+          "Nadia",
+          "Howrah",
+          "Dakshin Dinajpur",
+        ],
+        2: ["Jalpaiguri", "North 24 Parganas"],
+        3: ["South 24 Parganas"],
+        4: ["Kalimpong", "Darjeeling"],
+        5: ["Paschim Medinipur (West Medinipur)", "Purulia"],
+        6: ["Siliguri", "Birbhum", "Malda", "Purulia"],
+        7: ["Paschim Bardhaman (West Bardhaman)", "Cooch Behar"],
+        8: ["Bankura"],
+        9: ["Jhargram"],
+        10: ["Uttar Dinajpur"],
+      };
+
+      function changeDropDownValue(value) {
+        if (value == 0) {
+          document.getElementById("option").innerHTML =
+            "<option>" + Please_select_a_crop + "</option> ";
+        } else {
+          let commonOptions = "";
+          for (categoryID in commonValues[value]) {
+            commonOptions +=
+              "<option>" + commonValues[value][categoryID] + "</option>";
+          }
+          document.getElementById("option").innerHTML = commonOptions;
+        }
+      }
+
+      function nav() {
+        window.location.href = "http://127.0.0.1:8000";
+      }
+    </script>
   </body>
 </html>

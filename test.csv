@@ -1,0 +1,2523 @@
+N,P,K,pH,Humidity,Temperature,Rainfall,CropYield,District,SoilType,CropName
+115,58,78,5.6,32,21,600,1900,Cooch Behar,Sandy Soil,Potato
+110,55,75,5.7,42,15,750,1850,Cooch Behar,Sandy Soil,Potato
+125,62,85,5.8,62,19,850,1950,Cooch Behar,Sandy Soil,Potato
+120,60,80,5.7,42,20,660,1920,Cooch Behar,Sandy Soil,Potato
+130,65,90,6,83,16,800,2000,Cooch Behar,Sandy Soil,Potato
+80,38,48,5.2,69,18,1750,1520,Cooch Behar,Sandy Soil,Pulses
+85,42,52,5.3,71,17,1800,1580,Cooch Behar,Sandy Soil,Pulses
+78,36,46,5.1,68,21,1680,1420,Cooch Behar,Sandy Soil,Pulses
+90,44,54,5.4,72,15,1850,1660,Cooch Behar,Sandy Soil,Pulses
+95,48,60,5.5,74,19,1920,1720,Cooch Behar,Sandy Soil,Pulses
+102,50,70,5.8,77,28,2080,1960,Cooch Behar,Sandy Soil,Maize
+95,48,68,5.7,76,27,2020,1900,Cooch Behar,Sandy Soil,Maize
+108,52,72,5.9,78,26,2100,2000,Cooch Behar,Sandy Soil,Maize
+98,46,66,5.6,75,25,1950,1850,Cooch Behar,Sandy Soil,Maize
+105,54,74,6,80,29,2150,2100,Cooch Behar,Sandy Soil,Maize
+102,50,70,5.8,77,28,2080,1960,Cooch Behar,Sandy Soil,Maize
+95,48,68,5.7,76,27,2020,1900,Cooch Behar,Sandy Soil,Maize
+108,52,72,5.9,78,26,2100,2000,Cooch Behar,Sandy Soil,Maize
+98,46,66,5.6,75,25,1950,1850,Cooch Behar,Sandy Soil,Maize
+105,54,74,6,80,29,2150,2100,Cooch Behar,Sandy Soil,Maize
+80,38,58,5.4,71,25,720,1620,Cooch Behar,Sandy Soil,Wheat
+82,40,60,5.5,73,27,750,1680,Cooch Behar,Sandy Soil,Wheat
+85,42,62,5.6,75,28,680,1740,Cooch Behar,Sandy Soil,Wheat
+78,36,56,5.3,70,24,580,1560,Cooch Behar,Sandy Soil,Wheat
+88,44,64,5.7,76,26,520,1800,Cooch Behar,Sandy Soil,Wheat
+70,35,46,5,68,23,1850,1350,Cooch Behar,Sandy Soil,Jute
+68,33,44,4.9,67,25,1800,1300,Cooch Behar,Sandy Soil,Jute
+72,36,48,5.2,70,26,1950,1400,Cooch Behar,Sandy Soil,Jute
+75,38,50,5.3,72,24,2000,1450,Cooch Behar,Sandy Soil,Jute
+78,40,52,5.4,74,23,2050,1500,Cooch Behar,Sandy Soil,Jute
+115,58,78,5.6,73,26,2000,1800,Cooch Behar,Sandy Soil,Rice
+105,52,72,5.5,75,28,1900,1700,Cooch Behar,Sandy Soil,Rice
+120,60,80,5.7,74,27,1950,1850,Cooch Behar,Sandy Soil,Rice
+125,62,85,5.8,76,25,2050,1900,Cooch Behar,Sandy Soil,Rice
+110,55,75,5.6,72,24,1980,1750,Cooch Behar,Sandy Soil,Rice
+48,24,35,6.7,68,28,1550,700,Bankura,Black Soil,Cashew
+45,22,32,6.5,70,26,1450,680,Bankura,Black Soil,Cashew
+50,26,38,6.8,67,29,1600,720,Bankura,Black Soil,Cashew
+46,23,34,6.6,69,27,1500,700,Bankura,Black Soil,Cashew
+52,28,40,7,66,30,1650,750,Bankura,Black Soil,Cashew
+28,14,20,6.1,80,23,1450,180,Bankura,Black Soil,Summer Til
+30,15,22,6.3,77,25,1500,200,Bankura,Black Soil,Summer Til
+26,12,18,5.9,82,24,1400,160,Bankura,Black Soil,Summer Til
+32,16,25,6.2,78,26,1550,220,Bankura,Black Soil,Summer Til
+34,18,27,6.5,75,24,1650,240,Bankura,Black Soil,Summer Til
+32,16,25,6.2,78,26,1600,300,Bankura,Black Soil,Mustard
+30,15,22,6.1,79,27,1550,280,Bankura,Black Soil,Mustard
+34,18,27,6.3,77,25,1650,320,Bankura,Black Soil,Mustard
+28,14,20,6,80,23,1500,260,Bankura,Black Soil,Mustard
+36,20,30,6.5,75,24,1700,340,Bankura,Black Soil,Mustard
+60,30,42,6.6,74,23,1320,550,Bankura,Black Soil,Cucumbers
+65,35,46,6.8,72,22,1400,580,Bankura,Black Soil,Cucumbers
+58,28,40,6.5,76,25,1250,520,Bankura,Black Soil,Cucumbers
+62,32,44,6.7,73,24,1360,560,Bankura,Black Soil,Cucumbers
+68,34,48,7,70,26,1450,600,Bankura,Black Soil,Cucumbers
+80,40,55,6.1,78,26,1650,800,Bankura,Black Soil,Jackfruit
+85,43,58,6.3,77,25,1700,820,Bankura,Black Soil,Jackfruit
+78,38,52,6,80,23,1600,780,Bankura,Black Soil,Jackfruit
+82,42,56,6.2,79,24,1750,800,Bankura,Black Soil,Jackfruit
+88,45,60,6.5,76,27,1850,850,Bankura,Black Soil,Jackfruit
+40,20,30,6.4,76,25,1180,400,Bankura,Black Soil,Guava
+38,18,28,6.3,78,24,1160,380,Bankura,Black Soil,Guava
+42,22,32,6.5,74,26,1200,420,Bankura,Black Soil,Guava
+45,25,35,6.7,72,27,1250,450,Bankura,Black Soil,Guava
+40,20,30,6.4,76,25,1180,400,Bankura,Black Soil,Guava
+55,28,38,6.3,72,25,1450,600,Bankura,Black Soil,Papaya
+58,30,40,6.5,70,26,1500,620,Bankura,Black Soil,Papaya
+52,26,36,6.1,75,24,1400,580,Bankura,Black Soil,Papaya
+60,32,42,6.7,68,28,1550,650,Bankura,Black Soil,Papaya
+65,35,46,7,66,29,1600,700,Bankura,Black Soil,Papaya
+70,35,48,6.8,75,24,1500,1000,Bankura,Black Soil,Banana
+75,38,52,7,74,25,1550,1050,Bankura,Black Soil,Banana
+68,34,46,6.6,76,23,1450,950,Bankura,Black Soil,Banana
+80,40,55,7.2,72,26,1600,1100,Bankura,Black Soil,Banana
+85,43,58,7.5,70,28,1650,1150,Bankura,Black Soil,Banana
+90,45,62,6.1,80,27,1750,800,Bankura,Black Soil,Mango
+95,48,65,6,79,28,1800,820,Bankura,Black Soil,Mango
+88,42,58,6.2,82,25,1700,780,Bankura,Black Soil,Mango
+92,46,62,5.9,81,24,1850,800,Bankura,Black Soil,Mango
+98,50,68,6.3,78,26,1900,850,Bankura,Black Soil,Mango
+120,60,80,5.8,82,26,1850,1750,Bankura,Black Soil,Potatoe
+110,55,75,5.7,81,25,1820,1680,Bankura,Black Soil,Potatoe
+125,62,85,6,80,23,1900,1800,Bankura,Black Soil,Potatoe
+105,52,72,5.9,83,24,1750,1620,Bankura,Black Soil,Potatoe
+115,58,78,5.6,85,26,1880,1700,Bankura,Black Soil,Potatoe
+55,28,38,6.8,70,26,1500,1100,Bankura,Black Soil,Oilseeds
+58,30,40,7,68,27,1550,1150,Bankura,Black Soil,Oilseeds
+52,26,36,6.6,72,25,1450,1050,Bankura,Black Soil,Oilseeds
+60,32,42,7.2,66,28,1600,1200,Bankura,Black Soil,Oilseeds
+65,35,46,7.5,64,30,1650,1250,Bankura,Black Soil,Oilseeds
+40,20,30,6.5,75,24,1200,800,Bankura,Black Soil,Pulses
+38,18,28,6.4,76,25,1180,780,Bankura,Black Soil,Pulses
+42,22,32,6.6,74,23,1220,820,Bankura,Black Soil,Pulses
+45,25,35,6.8,72,22,1280,860,Bankura,Black Soil,Pulses
+40,20,30,6.5,75,24,1200,800,Bankura,Black Soil,Pulses
+85,40,55,6.2,78,26,1650,1200,Bankura,Black Soil,Wheat
+90,45,60,6,80,25,1600,1300,Bankura,Black Soil,Wheat
+88,42,58,6.1,79,27,1700,1250,Bankura,Black Soil,Wheat
+92,48,62,5.9,81,23,1750,1350,Bankura,Black Soil,Wheat
+95,46,65,6,79,27,1720,1300,Bankura,Black Soil,Wheat
+98,48,68,5.6,85,26,1880,1900,Bankura,Black Soil,Rice
+105,52,72,5.7,84,25,1900,1950,Bankura,Black Soil,Rice
+92,45,62,5.5,82,27,1950,1850,Bankura,Black Soil,Rice
+110,55,75,5.7,86,28,2000,2000,Bankura,Black Soil,Rice
+100,50,70,5.8,83,24,1820,1920,Bankura,Black Soil,Rice
+100,50,70,5.9,81,23,1750,2000,Howrah,Alluvial Soil,Sugarcane
+98,48,68,5.8,82,24,1700,1950,Howrah,Alluvial Soil,Sugarcane
+105,52,75,6.2,78,25,1800,2100,Howrah,Alluvial Soil,Sugarcane
+95,47,65,5.6,83,22,1600,1900,Howrah,Alluvial Soil,Sugarcane
+110,55,80,6.3,77,26,1900,2200,Howrah,Alluvial Soil,Sugarcane
+60,30,40,5.9,79,25,1600,1200,Howrah,Alluvial Soil,Potato
+58,29,38,5.8,80,24,1500,1150,Howrah,Alluvial Soil,Potato
+62,31,42,6.2,76,26,1700,1300,Howrah,Alluvial Soil,Potato
+55,28,35,5.6,82,23,1400,1100,Howrah,Alluvial Soil,Potato
+65,32,45,6.3,75,27,1800,1400,Howrah,Alluvial Soil,Potato
+80,40,60,5.5,81,23,1200,500,Howrah,Alluvial Soil,Jute
+78,39,58,5.6,80,24,1300,480,Howrah,Alluvial Soil,Jute
+82,41,62,5.8,78,25,1400,550,Howrah,Alluvial Soil,Jute
+76,38,56,5.3,82,22,1100,450,Howrah,Alluvial Soil,Jute
+85,42,65,6,77,26,1500,600,Howrah,Alluvial Soil,Jute
+50,25,35,5.9,79,25,1600,900,Howrah,Alluvial Soil,Maize
+48,24,32,5.8,80,24,1500,850,Howrah,Alluvial Soil,Maize
+52,26,38,6.2,76,26,1700,950,Howrah,Alluvial Soil,Maize
+45,22,30,5.6,82,23,1400,800,Howrah,Alluvial Soil,Maize
+55,28,40,6.3,75,27,1800,1050,Howrah,Alluvial Soil,Maize
+30,15,22,5.7,80,24,1300,400,Howrah,Alluvial Soil,Pulses
+28,14,20,5.5,82,23,1200,380,Howrah,Alluvial Soil,Pulses
+32,16,24,6,77,26,1400,450,Howrah,Alluvial Soil,Pulses
+26,13,18,5.4,83,22,1100,350,Howrah,Alluvial Soil,Pulses
+35,18,28,6.2,75,27,1500,500,Howrah,Alluvial Soil,Pulses
+40,20,30,5.5,81,23,1200,500,Howrah,Alluvial Soil,Mustard
+38,19,28,5.6,80,24,1300,480,Howrah,Alluvial Soil,Mustard
+42,21,32,5.8,78,25,1400,550,Howrah,Alluvial Soil,Mustard
+36,18,26,5.3,82,22,1100,450,Howrah,Alluvial Soil,Mustard
+45,22,35,6,77,26,1500,600,Howrah,Alluvial Soil,Mustard
+85,42,58,6,78,25,1600,1900,Howrah,Alluvial Soil,Wheat
+80,40,55,5.8,80,24,1500,1800,Howrah,Alluvial Soil,Wheat
+90,45,60,6.2,76,26,1700,2000,Howrah,Alluvial Soil,Wheat
+75,38,52,5.5,82,23,1400,1700,Howrah,Alluvial Soil,Wheat
+95,48,65,6.3,75,27,1800,2100,Howrah,Alluvial Soil,Wheat
+80,40,50,5.9,79,25,1600,900,Jhargram,Laterite Soil,Tapioca (Cassava)
+78,38,48,5.8,80,24,1500,850,Jhargram,Laterite Soil,Tapioca (Cassava)
+82,42,55,6.2,76,26,1700,1000,Jhargram,Laterite Soil,Tapioca (Cassava)
+75,37,45,5.6,82,23,1400,800,Jhargram,Laterite Soil,Tapioca (Cassava)
+85,43,60,6.3,75,27,1800,1100,Jhargram,Laterite Soil,Tapioca (Cassava)
+90,45,60,5.9,79,25,1600,1200,Jhargram,Laterite Soil,Rubber
+88,44,58,5.8,80,24,1500,1150,Jhargram,Laterite Soil,Rubber
+92,46,62,6.2,76,26,1700,1300,Jhargram,Laterite Soil,Rubber
+85,42,55,5.6,82,23,1400,1100,Jhargram,Laterite Soil,Rubber
+95,48,65,6.3,75,27,1800,1400,Jhargram,Laterite Soil,Rubber
+50,25,35,5.9,79,25,1600,700,Jhargram,Laterite Soil,Cashew
+48,24,32,5.8,80,24,1500,650,Jhargram,Laterite Soil,Cashew
+52,26,38,6.2,76,26,1700,750,Jhargram,Laterite Soil,Cashew
+45,22,30,5.6,82,23,1400,600,Jhargram,Laterite Soil,Cashew
+55,28,40,6.3,75,27,1800,800,Jhargram,Laterite Soil,Cashew
+20,10,15,5.9,78,25,1600,300,Jhargram,Laterite Soil,Pulses (Green Gram)
+18,9,14,5.8,80,24,1500,275,Jhargram,Laterite Soil,Pulses (Green Gram)
+22,11,16,6.2,76,26,1700,325,Jhargram,Laterite Soil,Pulses (Green Gram)
+16,8,12,5.6,82,23,1400,250,Jhargram,Laterite Soil,Pulses (Green Gram)
+25,12,18,6.3,75,27,1800,350,Jhargram,Laterite Soil,Pulses (Green Gram)
+35,15,25,5.9,79,25,1600,600,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+32,14,22,5.8,80,24,1500,550,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+38,17,28,6.2,76,26,1700,650,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+30,13,20,5.6,82,23,1400,500,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+40,18,30,6.3,75,27,1800,700,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+40,20,30,5.9,78,25,1600,800,Jhargram,Laterite Soil,Sorghum (Jowar)
+38,19,28,5.8,80,24,1500,750,Jhargram,Laterite Soil,Sorghum (Jowar)
+42,21,32,6.2,76,26,1700,900,Jhargram,Laterite Soil,Sorghum (Jowar)
+36,18,26,5.6,82,23,1400,700,Jhargram,Laterite Soil,Sorghum (Jowar)
+45,22,35,6.3,75,27,1800,950,Jhargram,Laterite Soil,Sorghum (Jowar)
+55,28,40,5.9,79,25,1600,1050,Jhargram,Laterite Soil,Maize
+52,26,38,5.8,80,24,1500,950,Jhargram,Laterite Soil,Maize
+58,30,45,6.2,76,26,1700,1100,Jhargram,Laterite Soil,Maize
+50,25,35,5.6,82,23,1400,900,Jhargram,Laterite Soil,Maize
+60,32,50,6.3,75,27,1800,1200,Jhargram,Laterite Soil,Maize
+45,22,30,5.9,79,25,1600,800,Jhargram,Laterite Soil,Rice
+42,20,28,5.8,80,24,1500,750,Jhargram,Laterite Soil,Rice
+48,24,32,6.2,76,26,1700,900,Jhargram,Laterite Soil,Rice
+40,18,26,5.6,82,23,1400,700,Jhargram,Laterite Soil,Rice
+50,26,35,6.3,75,27,1800,950,Jhargram,Laterite Soil,Rice
+110,55,75,5.6,83,26,1880,2000,Malda,Red & Laterite Soil,Rice
+108,52,72,5.6,83,26,1880,1950,Malda,Red & Laterite Soil,Rice
+112,58,78,5.6,83,26,1880,2050,Malda,Red & Laterite Soil,Rice
+106,50,70,5.6,83,26,1880,1900,Malda,Red & Laterite Soil,Rice
+114,60,80,5.6,83,26,1880,2100,Malda,Red & Laterite Soil,Rice
+75,38,50,5.8,80,28,1800,3500,Malda,Red & Laterite Soil,Maize
+78,40,52,5.8,80,28,1800,3600,Malda,Red & Laterite Soil,Maize
+72,36,48,5.8,80,28,1800,3400,Malda,Red & Laterite Soil,Maize
+80,42,54,5.8,80,28,1800,3700,Malda,Red & Laterite Soil,Maize
+76,39,51,5.8,80,28,1800,3550,Malda,Red & Laterite Soil,Maize
+40,20,30,6.2,75,27,1600,800,Malda,Red & Laterite Soil,Pulses (Pigeon Pea)
+42,22,32,6.2,75,27,1600,850,Malda,Red & Laterite Soil,Pulses (Black Gram)
+38,18,28,6.2,75,27,1600,780,Malda,Red & Laterite Soil,Pulses (Mung Bean)
+44,24,34,6.2,75,27,1600,900,Malda,Red & Laterite Soil,Pulses (Pigeon Pea)
+41,21,31,6.2,75,27,1600,820,Malda,Red & Laterite Soil,Pulses (Black Gram)
+45,23,33,6.2,75,27,1600,920,Malda,Red & Laterite Soil,Pulses (Mung Bean)
+46,25,35,6.2,75,27,1600,950,Malda,Red & Laterite Soil,Pulses (Pigeon Pea)
+43,22,32,6.2,75,27,1600,870,Malda,Red & Laterite Soil,Pulses (Black Gram)
+39,19,29,6.2,75,27,1600,800,Malda,Red & Laterite Soil,Pulses (Mung Bean)
+48,26,36,6.2,75,27,1600,980,Malda,Red & Laterite Soil,Pulses (Pigeon Pea)
+60,30,40,5.7,82,25,1750,1200,Malda,Red & Laterite Soil,Sorghum (Jowar)
+62,32,42,5.7,82,25,1750,1250,Malda,Red & Laterite Soil,Sorghum (Jowar)
+58,28,38,5.7,82,25,1750,1150,Malda,Red & Laterite Soil,Sorghum (Jowar)
+64,34,44,5.7,82,25,1750,1300,Malda,Red & Laterite Soil,Sorghum (Jowar)
+59,29,39,5.7,82,25,1750,1170,Malda,Red & Laterite Soil,Sorghum (Jowar)
+65,35,45,5.7,82,25,1750,1320,Malda,Red & Laterite Soil,Sorghum (Jowar)
+61,31,41,5.7,82,25,1750,1220,Malda,Red & Laterite Soil,Sorghum (Jowar)
+63,33,43,5.7,82,25,1750,1270,Malda,Red & Laterite Soil,Sorghum (Jowar)
+57,27,37,5.7,82,25,1750,1100,Malda,Red & Laterite Soil,Sorghum (Jowar)
+68,38,48,5.7,82,25,1750,1380,Malda,Red & Laterite Soil,Sorghum (Jowar)
+45,25,35,6,78,26,1680,1500,Malda,Red & Laterite Soil,Groundnut
+47,27,37,6,78,26,1680,1550,Malda,Red & Laterite Soil,Groundnut
+43,23,33,6,78,26,1680,1450,Malda,Red & Laterite Soil,Groundnut
+49,29,39,6,78,26,1680,1600,Malda,Red & Laterite Soil,Groundnut
+46,26,36,6,78,26,1680,1520,Malda,Red & Laterite Soil,Groundnut
+50,30,40,6,78,26,1680,1650,Malda,Red & Laterite Soil,Groundnut
+48,28,38,6,78,26,1680,1580,Malda,Red & Laterite Soil,Groundnut
+52,32,42,6,78,26,1680,1700,Malda,Red & Laterite Soil,Groundnut
+44,24,34,6,78,26,1680,1480,Malda,Red & Laterite Soil,Groundnut
+55,35,45,6,78,26,1680,1750,Malda,Red & Laterite Soil,Groundnut
+80,40,60,5.8,85,23,1800,8000,Malda,Red & Laterite Soil,Sugarcane
+82,42,62,5.8,85,23,1800,8200,Malda,Red & Laterite Soil,Sugarcane
+78,38,58,5.8,85,23,1800,7800,Malda,Red & Laterite Soil,Sugarcane
+84,44,64,5.8,85,23,1800,8400,Malda,Red & Laterite Soil,Sugarcane
+79,39,59,5.8,85,23,1800,7900,Malda,Red & Laterite Soil,Sugarcane
+40,20,30,5.5,78,24,1200,800,Purulia,Red Soil,Pearl Millet
+45,25,35,5.7,80,26,1300,850,Purulia,Red Soil,Pearl Millet
+38,18,28,5.3,76,23,1150,780,Purulia,Red Soil,Pearl Millet
+42,22,32,5.6,79,25,1250,820,Purulia,Red Soil,Pearl Millet
+37,17,27,5.2,75,22,1100,750,Purulia,Red Soil,Pearl Millet
+35,15,25,5.8,80,23,1100,600,Purulia,Red Soil,Finger Millet
+40,18,28,6,82,25,1200,650,Purulia,Red Soil,Finger Millet
+32,12,22,5.6,78,24,1050,580,Purulia,Red Soil,Finger Millet
+38,16,24,5.9,81,23,1150,620,Purulia,Red Soil,Finger Millet
+30,10,20,5.5,77,22,1000,550,Purulia,Red Soil,Finger Millet
+30,15,25,5.5,75,24,1000,500,Purulia,Red Soil,Sorghum (Jowar)
+35,20,30,5.7,77,26,1100,550,Purulia,Red Soil,Sorghum (Jowar)
+28,13,23,5.3,74,23,950,480,Purulia,Red Soil,Sorghum (Jowar)
+32,18,27,5.6,76,25,1050,520,Purulia,Red Soil,Sorghum (Jowar)
+26,12,22,5.2,73,22,900,450,Purulia,Red Soil,Sorghum (Jowar)
+40,20,30,5.8,78,26,1200,900,Purulia,Red Soil,Groundnut
+45,25,35,6,80,28,1300,950,Purulia,Red Soil,Groundnut
+38,18,28,5.6,76,25,1150,870,Purulia,Red Soil,Groundnut
+42,22,32,5.9,79,25,1250,920,Purulia,Red Soil,Groundnut
+37,17,27,5.5,75,24,1100,850,Purulia,Red Soil,Groundnut
+25,12,20,5.5,80,28,950,400,Purulia,Red Soil,Pigeon Pea
+30,15,25,5.7,82,24,1000,420,Purulia,Red Soil,Pigeon Pea
+22,10,18,5.3,78,26,900,380,Purulia,Red Soil,Pigeon Pea
+28,14,22,5.6,81,23,980,400,Purulia,Red Soil,Pigeon Pea
+20,8,16,5.2,77,25,850,350,Purulia,Red Soil,Pigeon Pea
+50,20,30,5.8,82,28,1800,1380,Purulia,Red & Laterite Soil,Sorghum (Jowar)
+55,22,33,5.8,82,28,1800,1420,Purulia,Red & Laterite Soil,Sorghum (Jowar)
+48,18,28,5.8,82,28,1800,1350,Purulia,Red & Laterite Soil,Sorghum (Jowar)
+58,24,36,5.8,82,28,1800,1450,Purulia,Red & Laterite Soil,Sorghum (Jowar)
+52,21,32,5.8,82,28,1800,1400,Purulia,Red & Laterite Soil,Sorghum (Jowar)
+25,12,20,5.5,80,28,950,400,Purulia,Red Soil,Mung Bean
+30,15,25,5.7,82,24,1000,420,Purulia,Red Soil,Mung Bean
+22,10,18,5.3,78,26,900,380,Purulia,Red Soil,Mung Bean
+28,14,22,5.6,81,23,980,400,Purulia,Red Soil,Mung Bean
+20,8,16,5.2,77,25,850,350,Purulia,Red Soil,Mung Bean
+25,12,20,5.5,80,28,950,400,Purulia,Red Soil,Black Gram
+30,15,25,5.7,82,24,1000,420,Purulia,Red Soil,Black Gram
+22,10,18,5.3,78,26,900,380,Purulia,Red Soil,Black Gram
+28,14,22,5.6,81,23,980,400,Purulia,Red Soil,Black Gram
+20,8,16,5.2,77,25,850,350,Purulia,Red Soil,Black Gram
+30,15,25,5.5,80,28,1000,700,Purulia,Red Soil,Tomatoes
+35,20,30,5.7,82,24,1100,750,Purulia,Red Soil,Tomatoes
+28,13,23,5.3,78,26,950,680,Purulia,Red Soil,Tomatoes
+32,18,27,5.6,81,23,1050,720,Purulia,Red Soil,Tomatoes
+26,12,22,5.2,77,25,900,670,Purulia,Red Soil,Tomatoes
+35,18,28,5.8,78,26,1150,800,Purulia,Red Soil,Beans
+40,23,33,6,80,28,1250,850,Purulia,Red Soil,Beans
+32,15,25,5.6,76,25,1100,780,Purulia,Red Soil,Beans
+37,20,30,5.9,79,25,1200,820,Purulia,Red Soil,Beans
+30,13,23,5.5,75,24,1050,750,Purulia,Red Soil,Beans
+45,27,38,5.8,82,28,1800,1400,Purulia,Red & Laterite Soil,Beans
+50,30,42,5.8,82,28,1800,1450,Purulia,Red & Laterite Soil,Beans
+42,24,34,5.8,82,28,1800,1350,Purulia,Red & Laterite Soil,Beans
+48,29,39,5.8,82,28,1800,1420,Purulia,Red & Laterite Soil,Beans
+40,22,32,5.8,82,28,1800,1300,Purulia,Red & Laterite Soil,Beans
+50,25,35,6,85,28,1300,1000,Purulia,Red Soil,Mango
+55,30,40,6.2,87,26,1400,1100,Purulia,Red Soil,Mango
+48,23,33,5.8,83,27,1250,950,Purulia,Red Soil,Mango
+52,28,38,6.1,86,25,1350,1050,Purulia,Red Soil,Mango
+45,20,30,5.7,82,24,1200,900,Purulia,Red Soil,Mango
+60,35,45,6.1,82,28,1800,1700,Purulia,Red & Laterite Soil,Mango
+65,40,50,6.3,84,28,1900,1800,Purulia,Red & Laterite Soil,Mango
+58,32,42,6,83,28,1800,1650,Purulia,Red & Laterite Soil,Mango
+62,37,47,6.2,85,28,1800,1750,Purulia,Red & Laterite Soil,Mango
+55,29,39,5.9,82,28,1800,1600,Purulia,Red & Laterite Soil,Mango
+45,20,30,5.7,82,24,1200,900,Purulia,Red Soil,Guava
+50,25,35,6,85,26,1300,950,Purulia,Red Soil,Guava
+42,18,28,5.6,81,25,1150,870,Purulia,Red Soil,Guava
+48,23,33,5.9,84,23,1250,920,Purulia,Red Soil,Guava
+40,17,27,5.5,80,22,1100,850,Purulia,Red Soil,Guava
+55,27,37,6,82,28,1800,1500,Purulia,Red & Laterite Soil,Guava
+60,30,40,6.2,84,28,1900,1600,Purulia,Red & Laterite Soil,Guava
+52,24,34,5.8,83,28,1800,1450,Purulia,Red & Laterite Soil,Guava
+58,29,39,6.1,85,28,1800,1550,Purulia,Red & Laterite Soil,Guava
+50,22,32,5.9,82,28,1800,1400,Purulia,Red & Laterite Soil,Guava
+28,14,22,5.6,81,23,980,400,Purulia,Red Soil,Sesame
+32,18,27,5.9,84,23,1050,420,Purulia,Red Soil,Sesame
+25,12,20,5.5,80,24,950,380,Purulia,Red Soil,Sesame
+30,15,25,5.8,83,22,1000,400,Purulia,Red Soil,Sesame
+22,10,18,5.3,78,25,900,350,Purulia,Red Soil,Sesame
+45,22,32,5.8,82,28,1800,700,Purulia,Red & Laterite Soil,Sesame
+50,25,35,5.8,82,28,1800,750,Purulia,Red & Laterite Soil,Sesame
+42,20,30,5.8,82,28,1800,680,Purulia,Red & Laterite Soil,Sesame
+48,24,34,5.8,82,28,1800,720,Purulia,Red & Laterite Soil,Sesame
+40,18,28,5.8,82,28,1800,670,Purulia,Red & Laterite Soil,Sesame
+32,18,27,5.7,82,24,1050,500,Purulia,Red Soil,Sunflower
+37,23,33,6,84,26,1150,550,Purulia,Red Soil,Sunflower
+30,15,25,5.6,80,25,1000,480,Purulia,Red Soil,Sunflower
+35,20,30,5.9,83,23,1100,520,Purulia,Red Soil,Sunflower
+28,13,23,5.5,79,22,950,450,Purulia,Red Soil,Sunflower
+45,25,35,5.8,82,28,1800,800,Purulia,Red & Laterite Soil,Sunflower
+50,30,40,5.8,82,28,1800,850,Purulia,Red & Laterite Soil,Sunflower
+42,22,32,5.8,82,28,1800,780,Purulia,Red & Laterite Soil,Sunflower
+48,28,38,5.8,82,28,1800,820,Purulia,Red & Laterite Soil,Sunflower
+40,20,30,5.8,82,28,1800,770,Purulia,Red & Laterite Soil,Sunflower
+40,20,30,5.8,78,26,1200,600,Purulia,Red Soil,Cotton
+45,25,35,6,80,28,1300,650,Purulia,Red Soil,Cotton
+38,18,28,5.6,76,25,1150,580,Purulia,Red Soil,Cotton
+42,22,32,5.9,79,25,1250,620,Purulia,Red Soil,Cotton
+37,17,27,5.5,75,24,1100,550,Purulia,Red Soil,Cotton
+50,28,38,5.8,82,28,800,900,Purulia,Red & Laterite Soil,Cotton
+55,32,42,5.8,82,28,800,950,Purulia,Red & Laterite Soil,Cotton
+48,24,34,5.8,82,28,800,880,Purulia,Red & Laterite Soil,Cotton
+52,30,40,5.8,82,28,800,920,Purulia,Red & Laterite Soil,Cotton
+45,22,32,5.8,82,28,800,850,Purulia,Red & Laterite Soil,Cotton
+100,50,70,5.9,81,23,1750,2050,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+105,52,72,5.6,85,23,1800,2100,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+98,48,66,6,79,27,1700,2000,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+110,55,75,5.7,82,24,1700,1900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+92,46,62,5.9,77,24,1550,1950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+80,40,60,6.1,79,27,1600,1800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+85,42,55,6,76,25,1500,1900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+78,38,58,6.2,80,26,1550,1750,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+82,40,62,6.3,78,28,1650,1700,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+81,39,61,6.35,78.5,27.5,1625,1675,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+90,45,65,6.1,79,27,1550,2000,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+95,48,60,6,82,25,1600,2100,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+88,42,58,6.2,78,26,1500,1900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+92,46,62,6.3,80,28,1650,1950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+85,40,60,6,77,24,1450,1800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+50,25,40,6.5,85,23,1200,900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+55,28,43,6.6,86,27,1250,950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+48,22,38,6.4,83,26,1100,850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+52,30,45,6.7,88,24,1300,800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+45,20,35,6.9,89,24,1150,950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+40,20,35,6.9,88,24,850,800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+45,25,40,6.5,85,23,900,850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+38,18,32,7.1,90,25,800,750,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+42,22,38,6.4,83,26,880,900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+35,15,30,7.3,91,24,750,700,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+25,10,20,7.5,92,22,600,450,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+28,12,22,7.4,91,21,650,500,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+22,8,18,7.7,93,23,550,400,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+30,15,25,7.2,89,20,700,550,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+20,6,15,7.9,94,24,500,350,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+22,10,18,7.8,93,23,600,400,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+25,12,20,7.7,92,22,650,450,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+20,8,15,8,94,24,550,350,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+28,15,25,7.5,91,21,700,500,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+18,6,12,8.2,95,25,500,300,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+81,39,49,5.2,70,23,1755,1525,Cooch Behar,Sandy Soil,Pulses
+86,43,53,5.3,72,24,1805,1585,Cooch Behar,Sandy Soil,Pulses
+79,37,47,5.1,69,22,1685,1425,Cooch Behar,Sandy Soil,Pulses
+91,45,55,5.4,73,25,1855,1665,Cooch Behar,Sandy Soil,Pulses
+96,49,61,5.5,75,26,1925,1725,Cooch Behar,Sandy Soil,Pulses
+82,40,50,5.2,71,23,1760,1530,Cooch Behar,Sandy Soil,Pulses
+87,44,54,5.3,73,24,1810,1590,Cooch Behar,Sandy Soil,Pulses
+80,38,48,5.1,70,22,1690,1430,Cooch Behar,Sandy Soil,Pulses
+92,46,56,5.4,74,25,1860,1670,Cooch Behar,Sandy Soil,Pulses
+97,50,62,5.6,76,27,1930,1730,Cooch Behar,Sandy Soil,Pulses
+83,41,51,5.2,72,23,1765,1535,Cooch Behar,Sandy Soil,Pulses
+88,45,55,5.3,74,25,1815,1595,Cooch Behar,Sandy Soil,Pulses
+81,39,49,5.1,71,22,1695,1435,Cooch Behar,Sandy Soil,Pulses
+93,47,57,5.5,73,25,1865,1675,Cooch Behar,Sandy Soil,Pulses
+98,51,63,5.7,77,28,1945,1740,Cooch Behar,Sandy Soil,Pulses
+84,40,50,5.3,70,23,1760,1525,Cooch Behar,Sandy Soil,Pulses
+89,46,56,5.4,72,24,1810,1585,Cooch Behar,Sandy Soil,Pulses
+82,39,49,5.2,69,22,1690,1435,Cooch Behar,Sandy Soil,Pulses
+94,48,58,5.6,74,26,1870,1680,Cooch Behar,Sandy Soil,Pulses
+99,52,64,5.8,78,29,1950,1750,Cooch Behar,Sandy Soil,Pulses
+85,41,51,5.3,70,23,1765,1530,Cooch Behar,Sandy Soil,Pulses
+90,46,56,5.4,72,24,1815,1595,Cooch Behar,Sandy Soil,Pulses
+83,40,50,5.2,69,22,1695,1435,Cooch Behar,Sandy Soil,Pulses
+95,49,59,5.6,75,26,1875,1685,Cooch Behar,Sandy Soil,Pulses
+90,45,55,5.9,79,30,1955,1760,Cooch Behar,Sandy Soil,Pulses
+86,42,52,5.3,71,23,1770,1540,Cooch Behar,Sandy Soil,Pulses
+91,47,57,5.5,73,24,1820,1600,Cooch Behar,Sandy Soil,Pulses
+84,39,49,5.2,70,22,1695,1435,Cooch Behar,Sandy Soil,Pulses
+96,50,60,5.7,76,27,1880,1690,Cooch Behar,Sandy Soil,Pulses
+95,54,66,6,80,31,1960,1770,Cooch Behar,Sandy Soil,Pulses
+87,43,53,5.3,71,23,1775,1545,Cooch Behar,Sandy Soil,Pulses
+92,48,58,5.5,73,25,1825,1605,Cooch Behar,Sandy Soil,Pulses
+85,42,52,5.3,70,23,1775,1530,Cooch Behar,Sandy Soil,Pulses
+97,51,61,5.7,76,27,1885,1695,Cooch Behar,Sandy Soil,Pulses
+100,55,67,6.1,81,32,1965,1780,Cooch Behar,Sandy Soil,Pulses
+88,44,54,5.4,72,24,1780,1550,Cooch Behar,Sandy Soil,Pulses
+93,49,59,5.5,74,25,1830,1610,Cooch Behar,Sandy Soil,Pulses
+86,41,51,5.3,71,23,1785,1545,Cooch Behar,Sandy Soil,Pulses
+98,52,62,5.8,77,28,1890,1700,Cooch Behar,Sandy Soil,Pulses
+103,56,68,6.2,82,33,1970,1790,Cooch Behar,Sandy Soil,Pulses
+89,45,55,5.4,73,24,1785,1555,Cooch Behar,Sandy Soil,Pulses
+94,50,60,5.6,74,26,1835,1615,Cooch Behar,Sandy Soil,Pulses
+87,42,52,5.3,71,23,1790,1555,Cooch Behar,Sandy Soil,Pulses
+99,53,63,5.9,78,29,1895,1705,Cooch Behar,Sandy Soil,Pulses
+104,57,69,6.3,83,34,1975,1800,Cooch Behar,Sandy Soil,Pulses
+91,44,60,6,80,27,1775,810,Bankura,Black Soil,Mango
+96,49,66,6.1,79,28,1825,830,Bankura,Black Soil,Mango
+89,43,59,6.2,82,25,1725,790,Bankura,Black Soil,Mango
+93,47,63,5.9,81,24,1875,810,Bankura,Black Soil,Mango
+99,51,69,6.3,78,26,1925,860,Bankura,Black Soil,Mango
+90,45,62,6.1,80,27,1750,800,Bankura,Black Soil,Mango
+95,48,65,6,79,28,1800,820,Bankura,Black Soil,Mango
+88,42,58,6.2,82,25,1700,780,Bankura,Black Soil,Mango
+92,46,62,5.9,81,24,1850,800,Bankura,Black Soil,Mango
+98,50,68,6.3,78,26,1900,850,Bankura,Black Soil,Mango
+91,44,60,6,80,27,1775,810,Bankura,Black Soil,Mango
+96,49,66,6.1,79,28,1825,830,Bankura,Black Soil,Mango
+89,43,59,6.2,82,25,1725,790,Bankura,Black Soil,Mango
+93,47,63,5.9,81,24,1875,810,Bankura,Black Soil,Mango
+99,51,69,6.3,78,26,1925,860,Bankura,Black Soil,Mango
+90,45,62,6.1,80,27,1750,800,Bankura,Black Soil,Mango
+95,48,65,6,79,28,1800,820,Bankura,Black Soil,Mango
+88,42,58,6.2,82,25,1700,780,Bankura,Black Soil,Mango
+92,46,62,5.9,81,24,1850,800,Bankura,Black Soil,Mango
+98,50,68,6.3,78,26,1900,850,Bankura,Black Soil,Mango
+91,44,60,6,80,27,1775,810,Bankura,Black Soil,Mango
+96,49,66,6.1,79,28,1825,830,Bankura,Black Soil,Mango
+89,43,59,6.2,82,25,1725,790,Bankura,Black Soil,Mango
+93,47,63,5.9,81,24,1875,810,Bankura,Black Soil,Mango
+99,51,69,6.3,78,26,1925,860,Bankura,Black Soil,Mango
+90,45,62,6.1,80,27,1750,800,Bankura,Black Soil,Mango
+95,48,65,6,79,28,1800,820,Bankura,Black Soil,Mango
+88,42,58,6.2,82,25,1700,780,Bankura,Black Soil,Mango
+92,46,62,5.9,81,24,1850,800,Bankura,Black Soil,Mango
+98,50,68,6.3,78,26,1900,850,Bankura,Black Soil,Mango
+91,44,60,6,80,27,1775,810,Bankura,Black Soil,Mango
+96,49,66,6.1,79,28,1825,830,Bankura,Black Soil,Mango
+89,43,59,6.2,82,25,1725,790,Bankura,Black Soil,Mango
+93,47,63,5.9,81,24,1875,810,Bankura,Black Soil,Mango
+99,51,69,6.3,78,26,1925,860,Bankura,Black Soil,Mango
+90,45,62,6.1,80,27,1750,800,Bankura,Black Soil,Mango
+95,48,65,6,79,28,1800,820,Bankura,Black Soil,Mango
+88,42,58,6.2,82,25,1700,780,Bankura,Black Soil,Mango
+92,46,62,5.9,81,24,1850,800,Bankura,Black Soil,Mango
+98,50,68,6.3,78,26,1900,850,Bankura,Black Soil,Mango
+91,44,60,6,80,27,1775,810,Bankura,Black Soil,Mango
+96,49,66,6.1,79,28,1825,830,Bankura,Black Soil,Mango
+89,43,59,6.2,82,25,1725,790,Bankura,Black Soil,Mango
+93,47,63,5.9,81,24,1875,810,Bankura,Black Soil,Mango
+99,51,69,6.3,78,26,1925,860,Bankura,Black Soil,Mango
+90,45,62,6.1,80,27,1750,800,Bankura,Black Soil,Mango
+95,48,65,6,79,28,1800,820,Bankura,Black Soil,Mango
+88,42,58,6.2,82,25,1700,780,Bankura,Black Soil,Mango
+92,46,62,5.9,81,24,1850,800,Bankura,Black Soil,Mango
+98,50,68,6.3,78,26,1900,850,Bankura,Black Soil,Mango
+118,59,79,5.8,82,26,1855,1760,Bankura,Black Soil,Potato
+112,56,76,5.7,81,25,1825,1690,Bankura,Black Soil,Potato
+123,61,83,6,80,23,1905,1810,Bankura,Black Soil,Potato
+107,53,73,5.9,83,24,1755,1630,Bankura,Black Soil,Potato
+117,58,78,5.6,85,26,1885,1710,Bankura,Black Soil,Potato
+120,60,80,5.8,82,26,1850,1750,Bankura,Black Soil,Potato
+110,55,75,5.7,81,25,1820,1680,Bankura,Black Soil,Potato
+125,62,85,6,80,23,1900,1800,Bankura,Black Soil,Potato
+105,52,72,5.9,83,24,1750,1620,Bankura,Black Soil,Potato
+115,58,78,5.6,85,26,1880,1700,Bankura,Black Soil,Potato
+118,59,79,5.8,82,26,1855,1760,Bankura,Black Soil,Potato
+112,56,76,5.7,81,25,1825,1690,Bankura,Black Soil,Potato
+123,61,83,6,80,23,1905,1810,Bankura,Black Soil,Potato
+107,53,73,5.9,83,24,1755,1630,Bankura,Black Soil,Potato
+117,58,78,5.6,85,26,1885,1710,Bankura,Black Soil,Potato
+120,60,80,5.8,82,26,1850,1750,Bankura,Black Soil,Potato
+110,55,75,5.7,81,25,1820,1680,Bankura,Black Soil,Potato
+125,62,85,6,80,23,1900,1800,Bankura,Black Soil,Potato
+105,52,72,5.9,83,24,1750,1620,Bankura,Black Soil,Potato
+115,58,78,5.6,85,26,1880,1700,Bankura,Black Soil,Potato
+118,59,79,5.8,82,26,1855,1760,Bankura,Black Soil,Potato
+112,56,76,5.7,81,25,1825,1690,Bankura,Black Soil,Potato
+123,61,83,6,80,23,1905,1810,Bankura,Black Soil,Potato
+107,53,73,5.9,83,24,1755,1630,Bankura,Black Soil,Potato
+117,58,78,5.6,85,26,1885,1710,Bankura,Black Soil,Potato
+120,60,80,5.8,82,26,1850,1750,Bankura,Black Soil,Potato
+110,55,75,5.7,81,25,1820,1680,Bankura,Black Soil,Potato
+125,62,85,6,80,23,1900,1800,Bankura,Black Soil,Potato
+105,52,72,5.9,83,24,1750,1620,Bankura,Black Soil,Potato
+115,58,78,5.6,85,26,1880,1700,Bankura,Black Soil,Potato
+118,59,79,5.8,82,26,1855,1760,Bankura,Black Soil,Potato
+112,56,76,5.7,81,25,1825,1690,Bankura,Black Soil,Potato
+123,61,83,6,80,23,1905,1810,Bankura,Black Soil,Potato
+107,53,73,5.9,83,24,1700,1630,Bankura,Black Soil,Potato
+117,58,78,5.6,85,26,1885,1710,Bankura,Black Soil,Potato
+120,60,80,5.8,82,26,1850,1750,Bankura,Black Soil,Potato
+110,55,75,5.7,81,25,1820,1680,Bankura,Black Soil,Potato
+125,62,85,6,80,23,1700,1800,Bankura,Black Soil,Potato
+105,52,72,5.9,83,24,1750,1620,Bankura,Black Soil,Potato
+115,58,78,5.6,85,26,1880,1700,Bankura,Black Soil,Potato
+118,59,79,5.8,82,26,1855,1760,Bankura,Black Soil,Potato
+112,56,76,5.7,81,25,1825,1690,Bankura,Black Soil,Potato
+123,61,83,6,80,23,1800,1810,Bankura,Black Soil,Potato
+107,53,73,5.9,83,24,1755,1630,Bankura,Black Soil,Potato
+117,58,78,5.6,85,26,1885,1710,Bankura,Black Soil,Potato
+120,60,80,5.8,82,26,1850,1750,Bankura,Black Soil,Potato
+110,55,75,5.7,81,25,1820,1680,Bankura,Black Soil,Potato
+125,62,85,6,80,23,1850,1800,Bankura,Black Soil,Potato
+105,52,72,5.9,83,24,1750,1620,Bankura,Black Soil,Potato
+115,58,78,5.6,85,26,1880,1700,Bankura,Black Soil,Potato
+56,29,39,6.9,70,26,1510,1110,Bankura,Black Soil,Oilseeds
+59,31,41,7.1,68,27,1560,1160,Bankura,Black Soil,Oilseeds
+53,27,37,6.7,72,25,1460,1060,Bankura,Black Soil,Oilseeds
+61,33,43,7.3,66,28,1610,1210,Bankura,Black Soil,Oilseeds
+66,36,47,7.6,64,30,1660,1260,Bankura,Black Soil,Oilseeds
+57,30,40,7,70,26,1520,1120,Bankura,Black Soil,Oilseeds
+60,32,42,7.2,68,27,1570,1170,Bankura,Black Soil,Oilseeds
+54,28,38,6.8,72,25,1470,1070,Bankura,Black Soil,Oilseeds
+62,34,44,7.4,66,28,1620,1220,Bankura,Black Soil,Oilseeds
+67,37,48,7.7,64,30,1670,1270,Bankura,Black Soil,Oilseeds
+58,31,41,7,70,26,1530,1130,Bankura,Black Soil,Oilseeds
+61,33,43,7.2,68,27,1580,1180,Bankura,Black Soil,Oilseeds
+55,29,39,6.9,72,25,1480,1080,Bankura,Black Soil,Oilseeds
+63,35,45,7.5,66,28,1630,1230,Bankura,Black Soil,Oilseeds
+68,38,49,7.8,64,30,1680,1280,Bankura,Black Soil,Oilseeds
+59,32,42,7.1,70,26,1540,1140,Bankura,Black Soil,Oilseeds
+62,34,44,7.3,68,27,1590,1190,Bankura,Black Soil,Oilseeds
+56,30,40,7,72,25,1490,1090,Bankura,Black Soil,Oilseeds
+64,36,46,7.6,66,28,1640,1240,Bankura,Black Soil,Oilseeds
+69,39,50,7.9,64,30,1690,1290,Bankura,Black Soil,Oilseeds
+57,31,41,7,70,26,1525,1125,Bankura,Black Soil,Oilseeds
+60,33,43,7.2,68,27,1575,1175,Bankura,Black Soil,Oilseeds
+54,29,39,6.8,72,25,1475,1075,Bankura,Black Soil,Oilseeds
+62,35,45,7.4,66,28,1625,1225,Bankura,Black Soil,Oilseeds
+67,38,48,7.7,64,30,1675,1275,Bankura,Black Soil,Oilseeds
+58,32,42,7.1,70,26,1535,1135,Bankura,Black Soil,Oilseeds
+61,34,44,7.3,68,27,1585,1185,Bankura,Black Soil,Oilseeds
+55,30,40,6.9,72,25,1485,1085,Bankura,Black Soil,Oilseeds
+63,36,46,7.5,66,28,1635,1235,Bankura,Black Soil,Oilseeds
+68,39,49,7.8,64,30,1685,1285,Bankura,Black Soil,Oilseeds
+59,33,43,7.1,70,26,1545,1145,Bankura,Black Soil,Oilseeds
+62,35,45,7.3,68,27,1595,1195,Bankura,Black Soil,Oilseeds
+56,31,41,7,72,25,1495,1095,Bankura,Black Soil,Oilseeds
+64,37,47,7.6,66,28,1645,1245,Bankura,Black Soil,Oilseeds
+69,40,51,7.9,64,30,1695,1295,Bankura,Black Soil,Oilseeds
+57,32,42,7,70,26,1530,1130,Bankura,Black Soil,Oilseeds
+60,34,44,7.2,68,27,1580,1180,Bankura,Black Soil,Oilseeds
+54,30,40,6.8,72,25,1480,1080,Bankura,Black Soil,Oilseeds
+62,36,46,7.4,66,28,1630,1230,Bankura,Black Soil,Oilseeds
+67,39,49,7.7,64,30,1680,1280,Bankura,Black Soil,Oilseeds
+58,33,43,7.1,70,26,1540,1140,Bankura,Black Soil,Oilseeds
+61,35,45,7.3,68,27,1590,1190,Bankura,Black Soil,Oilseeds
+55,31,41,6.9,72,25,1490,1090,Bankura,Black Soil,Oilseeds
+63,37,47,7.5,66,28,1640,1240,Bankura,Black Soil,Oilseeds
+68,40,50,7.8,64,30,1690,1290,Bankura,Black Soil,Oilseeds
+51,25,36,6,79,25,1610,910,Howrah,Alluvial Soil,Maize
+49,24,33,5.9,80,24,1510,860,Howrah,Alluvial Soil,Maize
+53,26,39,6.3,76,26,1710,960,Howrah,Alluvial Soil,Maize
+46,23,31,5.7,82,23,1410,810,Howrah,Alluvial Soil,Maize
+56,29,41,6.4,75,27,1810,1060,Howrah,Alluvial Soil,Maize
+50,25,35,5.9,79,25,1605,905,Howrah,Alluvial Soil,Maize
+48,24,32,5.8,80,24,1505,855,Howrah,Alluvial Soil,Maize
+52,26,38,6.2,76,26,1705,955,Howrah,Alluvial Soil,Maize
+45,22,30,5.6,82,23,1405,805,Howrah,Alluvial Soil,Maize
+55,28,40,6.3,75,27,1805,1055,Howrah,Alluvial Soil,Maize
+51,25,36,6,79,25,1615,915,Howrah,Alluvial Soil,Maize
+49,24,33,5.9,80,24,1515,865,Howrah,Alluvial Soil,Maize
+53,26,39,6.3,76,26,1715,965,Howrah,Alluvial Soil,Maize
+46,23,31,5.7,82,23,1415,815,Howrah,Alluvial Soil,Maize
+56,29,41,6.4,75,27,1815,1065,Howrah,Alluvial Soil,Maize
+50,25,35,5.9,79,25,1610,910,Howrah,Alluvial Soil,Maize
+48,24,32,5.8,80,24,1510,860,Howrah,Alluvial Soil,Maize
+52,26,38,6.2,76,26,1710,960,Howrah,Alluvial Soil,Maize
+45,22,30,5.6,82,23,1410,810,Howrah,Alluvial Soil,Maize
+55,28,40,6.3,75,27,1810,1060,Howrah,Alluvial Soil,Maize
+51,25,36,6,79,25,1615,915,Howrah,Alluvial Soil,Maize
+49,24,33,5.9,80,24,1515,865,Howrah,Alluvial Soil,Maize
+53,26,39,6.3,76,26,1715,965,Howrah,Alluvial Soil,Maize
+46,23,31,5.7,82,23,1415,815,Howrah,Alluvial Soil,Maize
+56,29,41,6.4,75,27,1815,1065,Howrah,Alluvial Soil,Maize
+50,25,35,5.9,79,25,1610,910,Howrah,Alluvial Soil,Maize
+48,24,32,5.8,80,24,1510,860,Howrah,Alluvial Soil,Maize
+52,26,38,6.2,76,26,1710,960,Howrah,Alluvial Soil,Maize
+45,22,30,5.6,82,23,1410,810,Howrah,Alluvial Soil,Maize
+55,28,40,6.3,75,27,1810,1060,Howrah,Alluvial Soil,Maize
+51,25,36,6,79,25,1615,915,Howrah,Alluvial Soil,Maize
+49,24,33,5.9,80,24,1515,865,Howrah,Alluvial Soil,Maize
+53,26,39,6.3,76,26,1715,965,Howrah,Alluvial Soil,Maize
+46,23,31,5.7,82,23,1415,815,Howrah,Alluvial Soil,Maize
+56,29,41,6.4,75,27,1815,1065,Howrah,Alluvial Soil,Maize
+50,25,35,5.9,79,25,1610,910,Howrah,Alluvial Soil,Maize
+48,24,32,5.8,80,24,1510,860,Howrah,Alluvial Soil,Maize
+52,26,38,6.2,76,26,1710,960,Howrah,Alluvial Soil,Maize
+45,22,30,5.6,82,23,1410,810,Howrah,Alluvial Soil,Maize
+55,28,40,6.3,75,27,1810,1060,Howrah,Alluvial Soil,Maize
+51,25,36,6,79,25,1615,915,Howrah,Alluvial Soil,Maize
+49,24,33,5.9,80,24,1515,865,Howrah,Alluvial Soil,Maize
+53,26,39,6.3,76,26,1715,965,Howrah,Alluvial Soil,Maize
+46,23,31,5.7,82,23,1415,815,Howrah,Alluvial Soil,Maize
+56,29,41,6.4,75,27,1815,1065,Howrah,Alluvial Soil,Maize
+50,25,35,5.9,79,25,1610,910,Howrah,Alluvial Soil,Maize
+48,24,32,5.8,80,24,1510,860,Howrah,Alluvial Soil,Maize
+52,26,38,6.2,76,26,1710,960,Howrah,Alluvial Soil,Maize
+45,22,30,5.6,82,23,1410,810,Howrah,Alluvial Soil,Maize
+55,28,40,6.3,75,27,1810,1060,Howrah,Alluvial Soil,Maize
+51,25,36,6,79,25,1615,915,Howrah,Alluvial Soil,Maize
+49,24,33,5.9,80,24,1515,865,Howrah,Alluvial Soil,Maize
+53,26,39,6.3,76,26,1715,965,Howrah,Alluvial Soil,Maize
+46,23,31,5.7,82,23,1415,815,Howrah,Alluvial Soil,Maize
+56,29,41,6.4,75,27,1815,1065,Howrah,Alluvial Soil,Maize
+50,25,35,5.9,79,25,1610,910,Howrah,Alluvial Soil,Maize
+48,24,32,5.8,80,24,1510,860,Howrah,Alluvial Soil,Maize
+52,26,38,6.2,76,26,1710,960,Howrah,Alluvial Soil,Maize
+45,22,30,5.6,82,23,1410,810,Howrah,Alluvial Soil,Maize
+55,28,40,6.3,75,27,1810,1060,Howrah,Alluvial Soil,Maize
+31,15,23,5.8,80,24,1310,410,Howrah,Alluvial Soil,Pulses
+29,14,21,5.6,82,23,1210,390,Howrah,Alluvial Soil,Pulses
+33,16,25,6.1,77,26,1410,460,Howrah,Alluvial Soil,Pulses
+27,13,19,5.5,83,22,1110,360,Howrah,Alluvial Soil,Pulses
+36,18,29,6.3,75,27,1510,510,Howrah,Alluvial Soil,Pulses
+30,15,22,5.7,80,24,1305,405,Howrah,Alluvial Soil,Pulses
+28,14,20,5.5,82,23,1205,385,Howrah,Alluvial Soil,Pulses
+32,16,24,6,77,26,1405,455,Howrah,Alluvial Soil,Pulses
+26,13,18,5.4,83,22,1105,355,Howrah,Alluvial Soil,Pulses
+35,18,28,6.2,75,27,1505,505,Howrah,Alluvial Soil,Pulses
+31,15,23,5.8,80,24,1315,415,Howrah,Alluvial Soil,Pulses
+29,14,21,5.6,82,23,1215,395,Howrah,Alluvial Soil,Pulses
+33,16,25,6.1,77,26,1415,465,Howrah,Alluvial Soil,Pulses
+27,13,19,5.5,83,22,1115,365,Howrah,Alluvial Soil,Pulses
+36,18,29,6.3,75,27,1515,515,Howrah,Alluvial Soil,Pulses
+30,15,22,5.7,80,24,1310,410,Howrah,Alluvial Soil,Pulses
+28,14,20,5.5,82,23,1210,390,Howrah,Alluvial Soil,Pulses
+32,16,24,6,77,26,1410,460,Howrah,Alluvial Soil,Pulses
+26,13,18,5.4,83,22,1110,360,Howrah,Alluvial Soil,Pulses
+35,18,28,6.2,75,27,1510,510,Howrah,Alluvial Soil,Pulses
+31,15,23,5.8,80,24,1320,420,Howrah,Alluvial Soil,Pulses
+29,14,21,5.6,82,23,1220,400,Howrah,Alluvial Soil,Pulses
+33,16,25,6.1,77,26,1420,470,Howrah,Alluvial Soil,Pulses
+27,13,19,5.5,83,22,1120,370,Howrah,Alluvial Soil,Pulses
+36,18,29,6.3,75,27,1520,520,Howrah,Alluvial Soil,Pulses
+30,15,22,5.7,80,24,1305,405,Howrah,Alluvial Soil,Pulses
+28,14,20,5.5,82,23,1205,385,Howrah,Alluvial Soil,Pulses
+32,16,24,6,77,26,1405,455,Howrah,Alluvial Soil,Pulses
+26,13,18,5.4,83,22,1105,355,Howrah,Alluvial Soil,Pulses
+35,18,28,6.2,75,27,1505,505,Howrah,Alluvial Soil,Pulses
+31,15,23,5.8,80,24,1315,415,Howrah,Alluvial Soil,Pulses
+29,14,21,5.6,82,23,1215,395,Howrah,Alluvial Soil,Pulses
+33,16,25,6.1,77,26,1415,465,Howrah,Alluvial Soil,Pulses
+27,13,19,5.5,83,22,1115,365,Howrah,Alluvial Soil,Pulses
+36,18,29,6.3,75,27,1515,515,Howrah,Alluvial Soil,Pulses
+41,20,31,5.6,81,23,1210,510,Howrah,Alluvial Soil,Mustard
+39,19,29,5.7,80,24,1310,490,Howrah,Alluvial Soil,Mustard
+43,21,33,5.9,78,25,1410,560,Howrah,Alluvial Soil,Mustard
+37,18,27,5.4,82,22,1110,460,Howrah,Alluvial Soil,Mustard
+46,22,36,6.1,77,26,1510,610,Howrah,Alluvial Soil,Mustard
+40,20,30,5.5,81,23,1205,505,Howrah,Alluvial Soil,Mustard
+38,19,28,5.6,80,24,1305,485,Howrah,Alluvial Soil,Mustard
+42,21,32,5.8,78,25,1405,555,Howrah,Alluvial Soil,Mustard
+36,18,26,5.3,82,22,1105,455,Howrah,Alluvial Soil,Mustard
+45,22,35,6,77,26,1505,605,Howrah,Alluvial Soil,Mustard
+41,20,31,5.6,81,23,1215,515,Howrah,Alluvial Soil,Mustard
+39,19,29,5.7,80,24,1315,495,Howrah,Alluvial Soil,Mustard
+43,21,33,5.9,78,25,1415,565,Howrah,Alluvial Soil,Mustard
+37,18,27,5.4,82,22,1115,465,Howrah,Alluvial Soil,Mustard
+46,22,36,6.1,77,26,1515,615,Howrah,Alluvial Soil,Mustard
+40,20,30,5.5,81,23,1210,510,Howrah,Alluvial Soil,Mustard
+38,19,28,5.6,80,24,1310,490,Howrah,Alluvial Soil,Mustard
+42,21,32,5.8,78,25,1410,560,Howrah,Alluvial Soil,Mustard
+36,18,26,5.3,82,22,1110,460,Howrah,Alluvial Soil,Mustard
+45,22,35,6,77,26,1510,610,Howrah,Alluvial Soil,Mustard
+41,20,31,5.6,81,23,1215,515,Howrah,Alluvial Soil,Mustard
+39,19,29,5.7,80,24,1315,495,Howrah,Alluvial Soil,Mustard
+43,21,33,5.9,78,25,1415,565,Howrah,Alluvial Soil,Mustard
+37,18,27,5.4,82,22,1115,465,Howrah,Alluvial Soil,Mustard
+46,22,36,6.1,77,26,1515,615,Howrah,Alluvial Soil,Mustard
+41,20,31,5.6,81,23,1210,510,Howrah,Alluvial Soil,Mustard
+39,19,29,5.7,80,24,1310,490,Howrah,Alluvial Soil,Mustard
+43,21,33,5.9,78,25,1410,560,Howrah,Alluvial Soil,Mustard
+37,18,27,5.4,82,22,1110,460,Howrah,Alluvial Soil,Mustard
+46,22,36,6.1,77,26,1510,610,Howrah,Alluvial Soil,Mustard
+87,43,59,6.1,78,25,1610,1910,Howrah,Alluvial Soil,Wheat
+82,41,56,5.9,80,24,1510,1810,Howrah,Alluvial Soil,Wheat
+92,46,61,6.3,76,26,1710,2010,Howrah,Alluvial Soil,Wheat
+77,39,53,5.6,82,23,1410,1710,Howrah,Alluvial Soil,Wheat
+97,49,66,6.4,75,27,1810,2110,Howrah,Alluvial Soil,Wheat
+86,42,58,6,78,25,1605,1905,Howrah,Alluvial Soil,Wheat
+81,40,55,5.8,80,24,1505,1805,Howrah,Alluvial Soil,Wheat
+91,45,60,6.2,76,26,1705,2005,Howrah,Alluvial Soil,Wheat
+76,38,52,5.5,82,23,1405,1705,Howrah,Alluvial Soil,Wheat
+96,48,65,6.3,75,27,1805,2105,Howrah,Alluvial Soil,Wheat
+85,42,58,6,78,25,1605,1905,Howrah,Alluvial Soil,Wheat
+80,40,55,5.8,80,24,1505,1805,Howrah,Alluvial Soil,Wheat
+90,45,60,6.2,76,26,1705,2005,Howrah,Alluvial Soil,Wheat
+75,38,52,5.5,82,23,1405,1705,Howrah,Alluvial Soil,Wheat
+95,48,65,6.3,75,27,1805,2105,Howrah,Alluvial Soil,Wheat
+88,44,60,6.1,78,25,1615,1915,Howrah,Alluvial Soil,Wheat
+83,41,57,5.9,80,24,1515,1815,Howrah,Alluvial Soil,Wheat
+93,47,62,6.3,76,26,1715,2015,Howrah,Alluvial Soil,Wheat
+78,39,54,5.6,82,23,1415,1715,Howrah,Alluvial Soil,Wheat
+98,50,67,6.4,75,27,1815,2115,Howrah,Alluvial Soil,Wheat
+87,43,59,6,78,25,1610,1910,Howrah,Alluvial Soil,Wheat
+82,41,56,5.8,80,24,1510,1810,Howrah,Alluvial Soil,Wheat
+92,46,61,6.2,76,26,1710,2010,Howrah,Alluvial Soil,Wheat
+77,39,53,5.5,82,23,1410,1710,Howrah,Alluvial Soil,Wheat
+97,49,66,6.3,75,27,1810,2110,Howrah,Alluvial Soil,Wheat
+81,41,51,6,79,25,1610,910,Jhargram,Laterite Soil,Tapioca (Cassava)
+79,39,49,5.9,80,24,1510,860,Jhargram,Laterite Soil,Tapioca (Cassava)
+83,43,56,6.3,76,26,1710,1010,Jhargram,Laterite Soil,Tapioca (Cassava)
+76,38,46,5.7,82,23,1410,810,Jhargram,Laterite Soil,Tapioca (Cassava)
+86,44,61,6.4,75,27,1810,1110,Jhargram,Laterite Soil,Tapioca (Cassava)
+80,40,50,5.9,79,25,1605,905,Jhargram,Laterite Soil,Tapioca (Cassava)
+78,38,48,5.8,80,24,1505,855,Jhargram,Laterite Soil,Tapioca (Cassava)
+82,42,55,6.2,76,26,1705,1005,Jhargram,Laterite Soil,Tapioca (Cassava)
+75,37,45,5.6,82,23,1405,805,Jhargram,Laterite Soil,Tapioca (Cassava)
+85,43,60,6.3,75,27,1805,1105,Jhargram,Laterite Soil,Tapioca (Cassava)
+81,41,51,6,79,25,1615,915,Jhargram,Laterite Soil,Tapioca (Cassava)
+79,39,49,5.9,80,24,1515,865,Jhargram,Laterite Soil,Tapioca (Cassava)
+83,43,56,6.3,76,26,1715,1015,Jhargram,Laterite Soil,Tapioca (Cassava)
+76,38,46,5.7,82,23,1415,815,Jhargram,Laterite Soil,Tapioca (Cassava)
+86,44,61,6.4,75,27,1815,1115,Jhargram,Laterite Soil,Tapioca (Cassava)
+84,42,54,6.1,79,25,1608,908,Jhargram,Laterite Soil,Tapioca (Cassava)
+77,39,47,5.7,81,23,1508,858,Jhargram,Laterite Soil,Tapioca (Cassava)
+87,45,62,6.5,76,27,1708,1008,Jhargram,Laterite Soil,Tapioca (Cassava)
+74,37,44,5.5,83,22,1408,808,Jhargram,Laterite Soil,Tapioca (Cassava)
+88,46,63,6.6,75,28,1808,1108,Jhargram,Laterite Soil,Tapioca (Cassava)
+85,42,54,6.1,79,25,1608,908,Jhargram,Laterite Soil,Tapioca (Cassava)
+77,39,47,5.7,81,23,1508,858,Jhargram,Laterite Soil,Tapioca (Cassava)
+87,45,62,6.5,76,27,1708,1008,Jhargram,Laterite Soil,Tapioca (Cassava)
+74,37,44,5.5,83,22,1408,808,Jhargram,Laterite Soil,Tapioca (Cassava)
+88,46,63,6.6,75,28,1808,1108,Jhargram,Laterite Soil,Tapioca (Cassava)
+82,41,53,6,79,25,1603,903,Jhargram,Laterite Soil,Tapioca (Cassava)
+76,38,46,5.8,81,24,1503,853,Jhargram,Laterite Soil,Tapioca (Cassava)
+86,44,61,6.4,76,26,1703,1003,Jhargram,Laterite Soil,Tapioca (Cassava)
+73,36,43,5.4,83,23,1403,803,Jhargram,Laterite Soil,Tapioca (Cassava)
+89,47,64,6.7,75,27,1803,1103,Jhargram,Laterite Soil,Tapioca (Cassava)
+83,41,54,6.1,79,25,1607,907,Jhargram,Laterite Soil,Tapioca (Cassava)
+77,39,47,5.7,81,23,1507,857,Jhargram,Laterite Soil,Tapioca (Cassava)
+87,45,62,6.5,76,27,1707,1007,Jhargram,Laterite Soil,Tapioca (Cassava)
+74,37,44,5.5,83,22,1407,807,Jhargram,Laterite Soil,Tapioca (Cassava)
+88,46,63,6.6,75,28,1807,1107,Jhargram,Laterite Soil,Tapioca (Cassava)
+91,45,61,6,79,25,1605,1205,Jhargram,Laterite Soil,Rubber
+89,44,59,5.9,80,24,1505,1155,Jhargram,Laterite Soil,Rubber
+93,46,63,6.3,76,26,1705,1305,Jhargram,Laterite Soil,Rubber
+86,42,56,5.7,82,23,1405,1105,Jhargram,Laterite Soil,Rubber
+96,48,66,6.4,75,27,1805,1405,Jhargram,Laterite Soil,Rubber
+90,45,60,5.9,79,25,1605,1205,Jhargram,Laterite Soil,Rubber
+88,44,58,5.8,80,24,1505,1155,Jhargram,Laterite Soil,Rubber
+92,46,62,6.2,76,26,1705,1305,Jhargram,Laterite Soil,Rubber
+85,42,55,5.6,82,23,1405,1105,Jhargram,Laterite Soil,Rubber
+95,48,65,6.3,75,27,1805,1405,Jhargram,Laterite Soil,Rubber
+91,45,61,6,79,25,1610,1210,Jhargram,Laterite Soil,Rubber
+89,44,59,5.9,80,24,1510,1160,Jhargram,Laterite Soil,Rubber
+93,46,63,6.3,76,26,1710,1310,Jhargram,Laterite Soil,Rubber
+86,42,56,5.7,82,23,1410,1110,Jhargram,Laterite Soil,Rubber
+96,48,66,6.4,75,27,1810,1410,Jhargram,Laterite Soil,Rubber
+90,45,60,5.9,79,25,1610,1210,Jhargram,Laterite Soil,Rubber
+88,44,58,5.8,80,24,1510,1160,Jhargram,Laterite Soil,Rubber
+92,46,62,6.2,76,26,1710,1310,Jhargram,Laterite Soil,Rubber
+85,42,55,5.6,82,23,1410,1110,Jhargram,Laterite Soil,Rubber
+95,48,65,6.3,75,27,1810,1410,Jhargram,Laterite Soil,Rubber
+91,45,61,6,79,25,1615,1215,Jhargram,Laterite Soil,Rubber
+89,44,59,5.9,80,24,1515,1165,Jhargram,Laterite Soil,Rubber
+93,46,63,6.3,76,26,1715,1315,Jhargram,Laterite Soil,Rubber
+86,42,56,5.7,82,23,1415,1115,Jhargram,Laterite Soil,Rubber
+96,48,66,6.4,75,27,1815,1415,Jhargram,Laterite Soil,Rubber
+94,47,64,6.1,79,25,1608,1208,Jhargram,Laterite Soil,Rubber
+92,46,62,6,80,24,1508,1158,Jhargram,Laterite Soil,Rubber
+96,48,66,6.2,76,26,1708,1308,Jhargram,Laterite Soil,Rubber
+89,44,60,5.8,82,23,1408,1108,Jhargram,Laterite Soil,Rubber
+98,49,67,6.3,75,27,1808,1408,Jhargram,Laterite Soil,Rubber
+95,47,65,6.2,79,25,1610,1210,Jhargram,Laterite Soil,Rubber
+93,46,63,6.1,80,24,1510,1160,Jhargram,Laterite Soil,Rubber
+97,48,66,6.3,76,26,1710,1310,Jhargram,Laterite Soil,Rubber
+90,44,61,5.9,82,23,1410,1110,Jhargram,Laterite Soil,Rubber
+99,50,68,6.4,75,27,1810,1410,Jhargram,Laterite Soil,Rubber
+51,25,36,6,79,25,1605,705,Jhargram,Laterite Soil,Cashew
+49,24,33,5.9,80,24,1505,655,Jhargram,Laterite Soil,Cashew
+53,26,39,6.3,76,26,1705,755,Jhargram,Laterite Soil,Cashew
+46,22,31,5.7,82,23,1405,605,Jhargram,Laterite Soil,Cashew
+56,28,41,6.4,75,27,1805,805,Jhargram,Laterite Soil,Cashew
+50,25,35,5.9,79,25,1605,705,Jhargram,Laterite Soil,Cashew
+48,24,32,5.8,80,24,1505,655,Jhargram,Laterite Soil,Cashew
+52,26,38,6.2,76,26,1705,755,Jhargram,Laterite Soil,Cashew
+45,22,30,5.6,82,23,1405,605,Jhargram,Laterite Soil,Cashew
+55,28,40,6.3,75,27,1805,805,Jhargram,Laterite Soil,Cashew
+51,25,36,6,79,25,1610,710,Jhargram,Laterite Soil,Cashew
+49,24,33,5.9,80,24,1510,660,Jhargram,Laterite Soil,Cashew
+53,26,39,6.3,76,26,1710,760,Jhargram,Laterite Soil,Cashew
+46,22,31,5.7,82,23,1410,610,Jhargram,Laterite Soil,Cashew
+56,28,41,6.4,75,27,1810,810,Jhargram,Laterite Soil,Cashew
+54,27,37,6.1,79,25,1608,708,Jhargram,Laterite Soil,Cashew
+52,26,38,6,80,24,1508,658,Jhargram,Laterite Soil,Cashew
+56,28,41,6.4,76,26,1708,758,Jhargram,Laterite Soil,Cashew
+47,23,32,5.8,82,23,1408,608,Jhargram,Laterite Soil,Cashew
+57,29,42,6.5,75,27,1808,808,Jhargram,Laterite Soil,Cashew
+55,27,38,6.2,79,25,1610,710,Jhargram,Laterite Soil,Cashew
+53,26,39,6.1,80,24,1510,660,Jhargram,Laterite Soil,Cashew
+57,28,43,6.5,76,26,1710,760,Jhargram,Laterite Soil,Cashew
+48,23,33,5.9,82,23,1410,610,Jhargram,Laterite Soil,Cashew
+58,30,44,6.6,75,27,1810,810,Jhargram,Laterite Soil,Cashew
+56,28,39,6.3,79,25,1612,712,Jhargram,Laterite Soil,Cashew
+54,27,40,6.2,80,24,1512,662,Jhargram,Laterite Soil,Cashew
+58,29,45,6.6,76,26,1712,762,Jhargram,Laterite Soil,Cashew
+49,23,34,5.8,82,23,1412,612,Jhargram,Laterite Soil,Cashew
+59,31,46,6.7,75,27,1812,812,Jhargram,Laterite Soil,Cashew
+21,10,15,6,78,25,1605,305,Jhargram,Laterite Soil,Pulses (Green Gram)
+19,9,14,5.9,80,24,1505,280,Jhargram,Laterite Soil,Pulses (Green Gram)
+23,11,16,6.3,76,26,1705,330,Jhargram,Laterite Soil,Pulses (Green Gram)
+17,8,12,5.7,82,23,1405,255,Jhargram,Laterite Soil,Pulses (Green Gram)
+26,12,18,6.4,75,27,1805,355,Jhargram,Laterite Soil,Pulses (Green Gram)
+20,10,15,6,78,25,1610,310,Jhargram,Laterite Soil,Pulses (Green Gram)
+18,9,14,5.9,80,24,1510,285,Jhargram,Laterite Soil,Pulses (Green Gram)
+22,11,16,6.3,76,26,1710,335,Jhargram,Laterite Soil,Pulses (Green Gram)
+16,8,12,5.7,82,23,1410,260,Jhargram,Laterite Soil,Pulses (Green Gram)
+25,12,18,6.4,75,27,1810,360,Jhargram,Laterite Soil,Pulses (Green Gram)
+21,10,15,6,78,25,1615,315,Jhargram,Laterite Soil,Pulses (Green Gram)
+19,9,14,5.9,80,24,1515,290,Jhargram,Laterite Soil,Pulses (Green Gram)
+23,11,16,6.3,76,26,1715,340,Jhargram,Laterite Soil,Pulses (Green Gram)
+17,8,12,5.7,82,23,1415,265,Jhargram,Laterite Soil,Pulses (Green Gram)
+26,12,18,6.4,75,27,1815,365,Jhargram,Laterite Soil,Pulses (Green Gram)
+22,10,16,6.1,78,25,1612,312,Jhargram,Laterite Soil,Pulses (Green Gram)
+20,9,15,6,80,24,1512,287,Jhargram,Laterite Soil,Pulses (Green Gram)
+24,11,17,6.4,76,26,1712,337,Jhargram,Laterite Soil,Pulses (Green Gram)
+18,8,13,5.8,82,23,1412,262,Jhargram,Laterite Soil,Pulses (Green Gram)
+27,13,19,6.5,75,27,1812,367,Jhargram,Laterite Soil,Pulses (Green Gram)
+23,10,16,6.2,78,25,1614,314,Jhargram,Laterite Soil,Pulses (Green Gram)
+21,9,15,6.1,80,24,1514,289,Jhargram,Laterite Soil,Pulses (Green Gram)
+25,11,17,6.5,76,26,1714,339,Jhargram,Laterite Soil,Pulses (Green Gram)
+19,8,13,5.9,82,23,1414,264,Jhargram,Laterite Soil,Pulses (Green Gram)
+28,13,19,6.6,75,27,1814,369,Jhargram,Laterite Soil,Pulses (Green Gram)
+36,16,26,6,79,25,1605,605,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+33,15,23,5.9,80,24,1505,555,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+39,17,29,6.3,76,26,1705,655,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+31,14,21,5.7,82,23,1405,505,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+41,18,31,6.4,75,27,1805,705,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+35,15,25,6,79,25,1610,610,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+32,14,22,5.9,80,24,1510,560,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+38,17,28,6.3,76,26,1710,660,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+30,13,20,5.7,82,23,1410,510,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+40,18,30,6.4,75,27,1810,710,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+36,16,26,6,79,25,1615,615,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+33,15,23,5.9,80,24,1515,565,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+39,17,29,6.3,76,26,1715,665,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+31,14,21,5.7,82,23,1415,515,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+41,18,31,6.4,75,27,1815,715,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+37,16,27,6.1,79,25,1612,612,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+34,15,24,6,80,24,1512,562,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+40,17,30,6.4,76,26,1712,662,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+32,14,22,5.8,82,23,1412,512,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+42,18,32,6.5,75,27,1812,712,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+38,16,28,6.2,79,25,1614,614,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+35,15,25,6.1,80,24,1514,564,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+41,17,31,6.5,76,26,1714,664,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+33,14,23,5.9,82,23,1414,514,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+43,18,33,6.6,75,27,1814,714,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+39,16,29,6.3,79,25,1616,616,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+36,15,26,6.2,80,24,1516,566,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+42,17,32,6.6,76,26,1716,666,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+34,14,24,6,82,23,1416,516,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+44,18,34,6.7,75,27,1816,716,Jhargram,Laterite Soil,Pearl Millet (Bajra)
+41,20,31,6,78,25,1605,805,Jhargram,Laterite Soil,Sorghum (Jowar)
+39,19,29,5.9,80,24,1505,755,Jhargram,Laterite Soil,Sorghum (Jowar)
+43,21,33,6.4,76,26,1705,905,Jhargram,Laterite Soil,Sorghum (Jowar)
+37,18,27,5.7,82,23,1405,705,Jhargram,Laterite Soil,Sorghum (Jowar)
+46,23,36,6.4,75,27,1805,955,Jhargram,Laterite Soil,Sorghum (Jowar)
+40,20,30,6,78,25,1610,810,Jhargram,Laterite Soil,Sorghum (Jowar)
+38,19,28,5.9,80,24,1510,760,Jhargram,Laterite Soil,Sorghum (Jowar)
+42,21,32,6.4,76,26,1710,910,Jhargram,Laterite Soil,Sorghum (Jowar)
+36,18,26,5.7,82,23,1410,710,Jhargram,Laterite Soil,Sorghum (Jowar)
+47,23,37,6.5,75,27,1810,960,Jhargram,Laterite Soil,Sorghum (Jowar)
+41,20,31,6,78,25,1615,815,Jhargram,Laterite Soil,Sorghum (Jowar)
+39,19,29,5.9,80,24,1515,765,Jhargram,Laterite Soil,Sorghum (Jowar)
+43,21,33,6.5,76,26,1715,915,Jhargram,Laterite Soil,Sorghum (Jowar)
+37,18,27,5.7,82,23,1415,715,Jhargram,Laterite Soil,Sorghum (Jowar)
+46,23,36,6.5,75,27,1815,965,Jhargram,Laterite Soil,Sorghum (Jowar)
+44,22,34,6.1,78,25,1612,812,Jhargram,Laterite Soil,Sorghum (Jowar)
+42,21,32,6,80,24,1512,762,Jhargram,Laterite Soil,Sorghum (Jowar)
+46,23,36,6.5,76,26,1712,912,Jhargram,Laterite Soil,Sorghum (Jowar)
+40,19,29,5.8,82,23,1412,712,Jhargram,Laterite Soil,Sorghum (Jowar)
+49,24,38,6.6,75,27,1812,962,Jhargram,Laterite Soil,Sorghum (Jowar)
+45,22,35,6.2,78,25,1614,815,Jhargram,Laterite Soil,Sorghum (Jowar)
+43,21,33,6.1,80,24,1514,765,Jhargram,Laterite Soil,Sorghum (Jowar)
+47,24,37,6.6,76,26,1714,915,Jhargram,Laterite Soil,Sorghum (Jowar)
+41,20,30,5.9,82,23,1414,715,Jhargram,Laterite Soil,Sorghum (Jowar)
+50,25,39,6.7,75,27,1814,965,Jhargram,Laterite Soil,Sorghum (Jowar)
+46,23,36,6.3,78,25,1616,818,Jhargram,Laterite Soil,Sorghum (Jowar)
+44,22,34,6.2,80,24,1516,768,Jhargram,Laterite Soil,Sorghum (Jowar)
+48,24,38,6.7,76,26,1716,918,Jhargram,Laterite Soil,Sorghum (Jowar)
+42,21,32,6.1,82,23,1416,718,Jhargram,Laterite Soil,Sorghum (Jowar)
+47,24,37,6.4,78,25,1618,820,Jhargram,Laterite Soil,Sorghum (Jowar)
+45,23,35,6.3,80,24,1518,770,Jhargram,Laterite Soil,Sorghum (Jowar)
+49,25,39,6.8,76,26,1718,920,Jhargram,Laterite Soil,Sorghum (Jowar)
+43,22,33,6,82,23,1418,720,Jhargram,Laterite Soil,Sorghum (Jowar)
+48,24,38,6.5,78,25,1620,822,Jhargram,Laterite Soil,Sorghum (Jowar)
+46,23,36,6.4,80,24,1520,772,Jhargram,Laterite Soil,Sorghum (Jowar)
+50,25,40,6.9,76,26,1720,922,Jhargram,Laterite Soil,Sorghum (Jowar)
+44,22,34,6.1,82,23,1420,722,Jhargram,Laterite Soil,Sorghum (Jowar)
+49,25,39,6.6,78,25,1622,824,Jhargram,Laterite Soil,Sorghum (Jowar)
+47,24,37,6.5,80,24,1522,774,Jhargram,Laterite Soil,Sorghum (Jowar)
+40,26,41,7,76,26,1722,924,Jhargram,Laterite Soil,Sorghum (Jowar)
+45,23,35,6.2,82,23,1422,724,Jhargram,Laterite Soil,Sorghum (Jowar)
+60,27,39,6,79,25,1605,1055,Jhargram,Laterite Soil,Maize
+61,26,37,5.9,80,24,1505,955,Jhargram,Laterite Soil,Maize
+62,31,46,6.3,76,26,1705,1105,Jhargram,Laterite Soil,Maize
+57,24,34,5.7,82,23,1405,905,Jhargram,Laterite Soil,Maize
+61,32,51,6.4,75,27,1805,1205,Jhargram,Laterite Soil,Maize
+54,28,41,6.1,79,25,1610,1060,Jhargram,Laterite Soil,Maize
+52,27,38,6,80,24,1510,960,Jhargram,Laterite Soil,Maize
+60,31,47,6.4,76,26,1710,1110,Jhargram,Laterite Soil,Maize
+49,25,36,5.8,82,23,1410,910,Jhargram,Laterite Soil,Maize
+62,33,52,6.5,75,27,1810,1210,Jhargram,Laterite Soil,Maize
+56,29,42,6.2,79,25,1615,1065,Jhargram,Laterite Soil,Maize
+53,28,39,6.1,80,24,1515,965,Jhargram,Laterite Soil,Maize
+61,32,48,6.5,76,26,1715,1115,Jhargram,Laterite Soil,Maize
+50,26,37,5.9,82,23,1415,915,Jhargram,Laterite Soil,Maize
+63,33,53,6.6,75,27,1815,1215,Jhargram,Laterite Soil,Maize
+57,30,43,6.3,79,25,1620,1070,Jhargram,Laterite Soil,Maize
+54,29,40,6.2,80,24,1520,970,Jhargram,Laterite Soil,Maize
+62,33,49,6.6,76,26,1720,1120,Jhargram,Laterite Soil,Maize
+51,27,38,5.9,82,23,1420,920,Jhargram,Laterite Soil,Maize
+64,34,54,6.7,75,27,1820,1220,Jhargram,Laterite Soil,Maize
+58,31,44,6.4,79,25,1625,1075,Jhargram,Laterite Soil,Maize
+55,30,41,6.3,80,24,1525,975,Jhargram,Laterite Soil,Maize
+63,34,50,6.7,76,26,1725,1125,Jhargram,Laterite Soil,Maize
+52,28,39,6,82,23,1425,925,Jhargram,Laterite Soil,Maize
+65,35,55,6.8,75,27,1825,1225,Jhargram,Laterite Soil,Maize
+59,32,45,6.5,79,25,1630,1080,Jhargram,Laterite Soil,Maize
+56,31,42,6.4,80,24,1530,980,Jhargram,Laterite Soil,Maize
+64,35,51,6.8,76,26,1730,1130,Jhargram,Laterite Soil,Maize
+53,29,40,6.1,82,23,1430,930,Jhargram,Laterite Soil,Maize
+66,36,56,6.9,75,27,1830,1230,Jhargram,Laterite Soil,Maize
+60,33,46,6.6,79,25,1635,1085,Jhargram,Laterite Soil,Maize
+57,32,43,6.5,80,24,1535,985,Jhargram,Laterite Soil,Maize
+65,36,52,6.9,76,26,1735,1135,Jhargram,Laterite Soil,Maize
+54,30,41,6.2,82,23,1435,935,Jhargram,Laterite Soil,Maize
+67,37,57,7,75,27,1835,1235,Jhargram,Laterite Soil,Maize
+61,34,47,6.7,79,25,1640,1090,Jhargram,Laterite Soil,Maize
+58,33,44,6.6,80,24,1540,990,Jhargram,Laterite Soil,Maize
+66,37,53,7,76,26,1740,1140,Jhargram,Laterite Soil,Maize
+55,31,42,6.3,82,23,1440,940,Jhargram,Laterite Soil,Maize
+68,38,58,7.1,75,27,1840,1240,Jhargram,Laterite Soil,Maize
+62,35,48,6.8,79,25,1645,1095,Jhargram,Laterite Soil,Maize
+59,34,45,6.7,80,24,1545,995,Jhargram,Laterite Soil,Maize
+67,38,54,7.1,76,26,1745,1145,Jhargram,Laterite Soil,Maize
+56,32,43,6.4,82,23,1445,945,Jhargram,Laterite Soil,Maize
+69,39,59,7.2,75,27,1845,1245,Jhargram,Laterite Soil,Maize
+63,36,49,6.9,79,25,1650,1100,Jhargram,Laterite Soil,Maize
+60,35,46,6.8,80,24,1550,1000,Jhargram,Laterite Soil,Maize
+68,39,55,7.2,76,26,1750,1150,Jhargram,Laterite Soil,Maize
+57,33,44,6.5,82,23,1450,950,Jhargram,Laterite Soil,Maize
+61,35,58,7.3,75,27,1850,1250,Jhargram,Laterite Soil,Maize
+46,23,31,6,79,25,1605,805,Jhargram,Laterite Soil,Rice
+43,21,29,5.9,80,24,1505,755,Jhargram,Laterite Soil,Rice
+49,25,33,6.3,76,26,1705,905,Jhargram,Laterite Soil,Rice
+41,19,27,5.7,82,23,1405,705,Jhargram,Laterite Soil,Rice
+51,27,36,6.4,75,27,1805,955,Jhargram,Laterite Soil,Rice
+47,24,32,6.1,79,25,1610,810,Jhargram,Laterite Soil,Rice
+44,22,30,6,80,24,1510,760,Jhargram,Laterite Soil,Rice
+50,26,34,6.4,76,26,1710,910,Jhargram,Laterite Soil,Rice
+42,20,28,5.8,82,23,1410,710,Jhargram,Laterite Soil,Rice
+52,28,37,6.5,75,27,1810,960,Jhargram,Laterite Soil,Rice
+48,25,33,6.2,79,25,1615,815,Jhargram,Laterite Soil,Rice
+45,23,31,6.1,80,24,1515,765,Jhargram,Laterite Soil,Rice
+51,27,35,6.5,76,26,1715,915,Jhargram,Laterite Soil,Rice
+43,21,29,5.9,82,23,1415,715,Jhargram,Laterite Soil,Rice
+53,29,38,6.6,75,27,1815,965,Jhargram,Laterite Soil,Rice
+49,26,34,6.3,79,25,1620,820,Jhargram,Laterite Soil,Rice
+46,24,32,6.2,80,24,1520,770,Jhargram,Laterite Soil,Rice
+52,28,36,6.6,76,26,1720,920,Jhargram,Laterite Soil,Rice
+44,22,30,6,82,23,1420,720,Jhargram,Laterite Soil,Rice
+54,30,39,6.7,75,27,1820,970,Jhargram,Laterite Soil,Rice
+50,27,35,6.4,79,25,1625,825,Jhargram,Laterite Soil,Rice
+47,25,33,6.3,80,24,1525,775,Jhargram,Laterite Soil,Rice
+53,29,37,6.7,76,26,1725,925,Jhargram,Laterite Soil,Rice
+45,23,31,6.2,82,23,1425,725,Jhargram,Laterite Soil,Rice
+55,31,40,6.8,75,27,1825,975,Jhargram,Laterite Soil,Rice
+51,28,36,6.5,79,25,1630,830,Jhargram,Laterite Soil,Rice
+48,26,34,6.4,80,24,1530,780,Jhargram,Laterite Soil,Rice
+54,30,38,6.8,76,26,1730,930,Jhargram,Laterite Soil,Rice
+46,24,32,6.1,82,23,1430,730,Jhargram,Laterite Soil,Rice
+56,32,41,6.9,75,27,1830,980,Jhargram,Laterite Soil,Rice
+52,29,37,6.6,79,25,1635,835,Jhargram,Laterite Soil,Rice
+49,27,35,6.5,80,24,1535,785,Jhargram,Laterite Soil,Rice
+55,30,39,6.9,76,26,1735,935,Jhargram,Laterite Soil,Rice
+47,25,33,6.2,82,23,1435,735,Jhargram,Laterite Soil,Rice
+57,23,42,6.9,75,27,1835,985,Jhargram,Laterite Soil,Rice
+53,30,38,6.7,79,25,1640,840,Jhargram,Laterite Soil,Rice
+50,28,36,6.6,80,24,1540,790,Jhargram,Laterite Soil,Rice
+56,22,40,6.9,76,26,1740,940,Jhargram,Laterite Soil,Rice
+48,26,34,6.3,82,23,1440,740,Jhargram,Laterite Soil,Rice
+58,34,43,6.6,75,27,1840,990,Jhargram,Laterite Soil,Rice
+54,31,39,6.8,79,25,1645,845,Jhargram,Laterite Soil,Rice
+51,29,37,6.7,80,24,1545,795,Jhargram,Laterite Soil,Rice
+57,21,41,6.5,76,26,1745,945,Jhargram,Laterite Soil,Rice
+49,27,35,6.4,82,23,1445,745,Jhargram,Laterite Soil,Rice
+59,25,44,6.9,75,27,1845,995,Jhargram,Laterite Soil,Rice
+60,26,45,6.6,75,27,1850,1000,Jhargram,Laterite Soil,Rice
+61,27,46,6.5,75,27,1855,1005,Jhargram,Laterite Soil,Rice
+62,28,47,5.9,75,27,1860,1010,Jhargram,Laterite Soil,Rice
+63,29,48,6.6,75,27,1865,1015,Jhargram,Laterite Soil,Rice
+64,30,49,6.5,75,27,1870,1020,Jhargram,Laterite Soil,Rice
+65,21,30,6.8,75,27,1875,1025,Jhargram,Laterite Soil,Rice
+66,22,31,5.8,75,27,1880,1030,Jhargram,Laterite Soil,Rice
+67,23,32,6,75,27,1885,1035,Jhargram,Laterite Soil,Rice
+68,24,33,6.1,75,27,1890,1040,Jhargram,Laterite Soil,Rice
+69,25,34,6.2,75,27,1895,1045,Jhargram,Laterite Soil,Rice
+70,26,35,6.3,75,27,1900,1050,Jhargram,Laterite Soil,Rice
+71,27,36,6.4,75,27,1905,1055,Jhargram,Laterite Soil,Rice
+72,28,37,6.5,75,27,1910,1060,Jhargram,Laterite Soil,Rice
+46,29,38,6.6,75,27,1915,1065,Jhargram,Laterite Soil,Rice
+51,30,29,6.7,75,27,1920,1070,Jhargram,Laterite Soil,Rice
+47,21,30,6.8,75,27,1925,1075,Jhargram,Laterite Soil,Rice
+54,22,31,6.9,75,27,1930,1080,Jhargram,Laterite Soil,Rice
+43,23,32,5.9,75,27,1935,1085,Jhargram,Laterite Soil,Rice
+42,19,23,5.8,75,27,1940,1090,Jhargram,Laterite Soil,Rice
+52,25,24,6,75,27,1945,1095,Jhargram,Laterite Soil,Rice
+53,26,25,6.1,75,27,1950,1100,Jhargram,Laterite Soil,Rice
+45,27,26,6.2,75,27,1955,1105,Jhargram,Laterite Soil,Rice
+56,28,27,6.3,75,27,1960,1110,Jhargram,Laterite Soil,Rice
+47,25,28,6.4,75,27,1965,1115,Jhargram,Laterite Soil,Rice
+51,23,29,6.5,75,27,1970,1120,Jhargram,Laterite Soil,Rice
+45,25,30,6.6,75,27,1975,1125,Jhargram,Laterite Soil,Rice
+46,21,31,6.7,75,27,1980,1130,Jhargram,Laterite Soil,Rice
+47,27,32,6.8,75,27,1985,1135,Jhargram,Laterite Soil,Rice
+48,28,33,5.8,75,27,1990,1140,Jhargram,Laterite Soil,Rice
+49,29,34,5.9,75,27,1995,1145,Jhargram,Laterite Soil,Rice
+50,30,35,6,75,27,2000,1150,Jhargram,Laterite Soil,Rice
+116,62,82,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+118,64,84,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+115,66,86,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+122,68,88,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+124,70,90,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+126,72,92,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+128,74,94,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+130,60,96,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+120,61,98,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+119,62,90,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+118,63,89,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+117,64,80,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+116,66,86,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+115,68,87,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+114,70,88,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+113,62,81,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+112,64,80,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+111,66,82,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+120,68,93,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+121,62,92,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+122,60,91,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+111,61,90,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+112,62,89,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+113,63,88,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+114,64,87,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+115,65,86,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+116,66,85,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+117,67,90,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+118,68,89,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+111,69,88,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+119,71,87,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+120,70,91,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+121,64,92,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+122,62,90,5.6,83,26,1880,2150,Malda,Red & Laterite Soil,Rice
+82,44,56,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+84,46,58,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+86,48,60,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+88,50,62,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+90,52,64,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+92,54,66,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+94,56,68,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+96,58,70,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+98,43,72,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+82,42,74,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+84,41,66,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+86,42,68,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+88,43,60,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+90,44,62,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+89,45,68,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+87,46,67,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+85,47,66,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+83,48,65,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+81,49,64,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+80,42,63,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+82,44,62,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+83,46,61,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+86,48,59,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+88,40,58,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+80,42,57,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+82,44,60,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+84,46,58,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+86,46,59,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+88,49,60,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+80,41,64,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+82,42,65,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+84,43,66,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+86,48,67,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+89,40,68,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+85,42,64,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+82,44,66,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+84,46,58,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+86,48,60,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+88,42,62,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+80,44,64,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+82,45,66,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+84,46,54,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+86,50,60,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+88,51,62,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+80,52,66,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+82,53,64,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+79,46,68,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+86,48,66,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+88,40,52,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+80,42,58,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+82,44,56,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+84,46,58,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+86,48,60,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+88,50,62,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+90,52,64,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+92,54,66,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+91,56,68,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+76,58,70,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+79,50,72,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+80,52,74,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+82,44,70,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+84,46,71,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+86,48,60,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+88,50,62,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+80,42,64,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+82,44,66,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+84,46,68,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+86,48,60,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+88,50,62,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+80,52,64,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+82,44,66,5.8,80,28,1800,3800,Malda,Red & Laterite Soil,Maize
+70,40,50,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+66,36,46,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+72,42,52,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+68,38,48,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+74,44,54,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+70,40,50,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+76,46,56,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+72,42,52,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+78,48,58,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+74,44,54,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+80,50,60,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+76,46,56,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+82,52,62,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+78,48,58,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+84,54,64,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+80,50,60,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+86,56,66,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+82,52,62,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+88,58,68,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+84,54,64,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+90,60,70,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+92,62,72,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+88,58,68,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+94,64,74,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+90,60,70,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+96,66,76,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+92,62,72,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+98,68,78,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+94,64,74,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+71,70,80,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+72,66,76,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+73,72,82,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+74,68,78,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+75,74,84,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+76,70,80,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+77,76,86,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+78,72,82,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+79,78,88,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+80,74,84,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+81,80,90,5.7,82,25,1750,1420,Malda,Red & Laterite Soil,Sorghum (Jowar)
+57,37,47,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+59,39,49,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+61,41,51,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+63,43,53,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+65,45,55,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+67,47,57,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+69,49,59,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+71,51,61,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+73,53,63,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+75,55,65,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+77,57,67,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+79,59,69,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+81,61,71,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+83,63,73,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+85,65,75,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+87,67,77,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+89,69,79,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+91,46,81,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+93,45,83,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+95,44,85,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+57,43,87,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+58,42,89,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+59,41,47,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+60,40,48,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+61,39,49,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+62,38,50,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+63,37,51,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+64,52,52,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+65,51,53,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+66,50,54,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+67,49,55,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+68,48,56,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+69,47,57,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+70,46,58,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+71,45,59,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+72,44,60,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+73,43,45,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+74,42,46,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+75,41,47,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+76,40,48,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+77,39,49,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+78,38,50,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+51,37,51,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+53,43,52,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+45,45,53,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+47,37,54,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+49,39,47,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+51,41,41,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+53,43,43,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+55,35,45,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+57,37,47,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+59,39,49,6,78,26,1680,1800,Malda,Red & Laterite Soil,Groundnut
+86,46,66,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+88,48,68,5.8,85,24,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+90,50,70,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+92,52,72,5.8,85,26,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+94,54,74,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+96,56,76,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+98,58,78,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+85,60,80,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+86,62,82,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+84,64,84,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+86,66,86,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+98,68,66,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+110,47,67,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+112,48,68,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+114,49,69,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+116,50,70,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+118,51,71,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+120,52,57,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+122,53,62,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+124,54,64,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+126,56,66,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+128,68,68,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+85,60,60,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+86,52,65,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+87,54,66,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+88,66,67,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+89,61,68,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+90,62,69,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+91,63,70,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+92,64,71,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+93,65,72,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+94,46,73,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+95,47,74,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+96,48,75,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+94,49,65,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+96,50,66,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+98,51,67,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+90,52,68,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+89,54,69,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+84,53,70,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+86,55,71,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+88,56,48,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+80,57,50,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+82,58,52,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+84,59,54,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+86,60,56,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+88,46,58,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+80,49,60,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+82,42,62,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+84,44,64,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+86,46,66,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+88,48,68,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+90,50,70,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+91,52,72,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+90,54,74,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+89,56,76,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+88,58,78,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+87,60,80,5.8,85,23,1800,8600,Malda,Red & Laterite Soil,Sugarcane
+50,30,40,5.8,82,28,1400,900,Purulia,Red Soil,Pearl Millet
+48,28,38,5.6,80,26,1350,880,Purulia,Red Soil,Pearl Millet
+55,35,45,6,84,30,980,950,Purulia,Red Soil,Pearl Millet
+52,32,42,5.9,83,29,1250,920,Purulia,Red Soil,Pearl Millet
+58,38,48,6.2,86,32,1550,980,Purulia,Red Soil,Pearl Millet
+56,36,46,6.1,85,31,1520,960,Purulia,Red Soil,Pearl Millet
+54,34,44,6,84,30,1480,940,Purulia,Red Soil,Pearl Millet
+60,40,50,6.3,87,33,1180,800,Purulia,Red Soil,Pearl Millet
+62,42,52,6.4,88,34,1220,1020,Purulia,Red Soil,Pearl Millet
+65,45,55,6.5,89,25,1370,1020,Purulia,Red Soil,Pearl Millet
+64,44,54,6.4,88,24,1150,1020,Purulia,Red Soil,Pearl Millet
+68,48,58,6.7,91,27,1120,1020,Purulia,Red Soil,Pearl Millet
+66,46,56,6.6,90,26,1190,1020,Purulia,Red Soil,Pearl Millet
+70,30,60,6.8,92,28,1150,1020,Purulia,Red Soil,Pearl Millet
+72,32,62,6.3,93,29,1280,1020,Purulia,Red Soil,Pearl Millet
+75,45,65,5.8,94,20,1230,1020,Purulia,Red Soil,Pearl Millet
+74,49,64,6.9,93,30,1110,1020,Purulia,Red Soil,Pearl Millet
+78,50,68,5.8,96,32,1280,1020,Purulia,Red Soil,Pearl Millet
+76,56,66,7.1,95,33,1250,1020,Purulia,Red Soil,Pearl Millet
+80,60,40,5.8,97,23,920,1020,Purulia,Red Soil,Pearl Millet
+82,62,42,6.9,98,24,1000,1020,Purulia,Red Soil,Pearl Millet
+85,65,45,6.8,99,25,1000,1020,Purulia,Red Soil,Pearl Millet
+84,64,44,5.8,82,24,1000,1020,Purulia,Red Soil,Pearl Millet
+88,68,58,5.8,83,27,1000,1020,Purulia,Red Soil,Pearl Millet
+86,66,46,5.8,84,26,1000,1020,Purulia,Red Soil,Pearl Millet
+90,51,50,5.8,85,28,1000,1020,Purulia,Red Soil,Pearl Millet
+92,52,52,5.8,86,29,1000,1020,Purulia,Red Soil,Pearl Millet
+95,53,55,5.9,87,20,1000,1020,Purulia,Red Soil,Pearl Millet
+94,74,54,6,88,29,1000,1020,Purulia,Red Soil,Pearl Millet
+98,78,58,6,89,22,1000,1020,Purulia,Red Soil,Pearl Millet
+96,76,56,5.8,90,21,1000,1020,Purulia,Red Soil,Pearl Millet
+58,60,59,5.9,91,23,1000,1020,Purulia,Red Soil,Pearl Millet
+59,62,52,6,92,24,1000,1020,Purulia,Red Soil,Pearl Millet
+65,65,65,6.1,93,25,1000,1020,Purulia,Red Soil,Pearl Millet
+69,64,64,6.2,94,24,1000,1020,Purulia,Red Soil,Pearl Millet
+70,68,68,6.3,81,27,1000,1020,Purulia,Red Soil,Pearl Millet
+75,66,66,6.4,82,26,1000,1020,Purulia,Red Soil,Pearl Millet
+80,70,60,6.5,83,28,1000,1020,Purulia,Red Soil,Pearl Millet
+85,69,62,6.6,84,29,1000,1020,Purulia,Red Soil,Pearl Millet
+55,68,65,6.7,85,20,1000,1020,Purulia,Red Soil,Pearl Millet
+84,64,64,6,86,29,1000,1020,Purulia,Red Soil,Pearl Millet
+78,55,68,6.1,87,22,1000,1020,Purulia,Red Soil,Pearl Millet
+66,56,66,6.2,88,21,1000,1020,Purulia,Red Soil,Pearl Millet
+60,57,50,6.3,89,23,1000,1020,Purulia,Red Soil,Pearl Millet
+62,58,52,6.4,90,24,1000,1020,Purulia,Red Soil,Pearl Millet
+75,59,55,6.5,91,25,1000,1020,Purulia,Red Soil,Pearl Millet
+64,60,64,6.6,92,24,1000,1020,Purulia,Red Soil,Pearl Millet
+58,30,58,6.3,93,27,1000,1020,Purulia,Red Soil,Pearl Millet
+56,36,51,6.2,94,26,1000,1020,Purulia,Red Soil,Pearl Millet
+73,41,52,6.1,84,28,1000,1020,Purulia,Red Soil,Pearl Millet
+75,52,53,6,85,29,1000,1020,Purulia,Red Soil,Pearl Millet
+65,55,54,6.8,86,20,1000,1020,Purulia,Red Soil,Pearl Millet
+74,54,55,6.7,87,29,1000,1020,Purulia,Red Soil,Pearl Millet
+68,58,56,6.6,88,22,1000,1020,Purulia,Red Soil,Pearl Millet
+66,56,57,6.5,89,21,1000,1020,Purulia,Red Soil,Pearl Millet
+74,50,58,6.4,90,23,1000,1020,Purulia,Red Soil,Pearl Millet
+72,52,59,6.3,91,24,1000,1020,Purulia,Red Soil,Pearl Millet
+85,55,65,6.2,85,25,1000,1020,Purulia,Red Soil,Pearl Millet
+81,44,64,6.1,88,24,1000,1020,Purulia,Red Soil,Pearl Millet
+82,48,68,6.8,91,27,1000,1020,Purulia,Red Soil,Pearl Millet
+80,46,66,6.7,90,26,1000,1020,Purulia,Red Soil,Pearl Millet
+50,30,60,6.6,92,28,1000,1020,Purulia,Red Soil,Pearl Millet
+52,32,62,6.5,83,29,1000,1020,Purulia,Red Soil,Pearl Millet
+55,35,65,6.4,94,20,1000,1020,Purulia,Red Soil,Pearl Millet
+54,34,64,6.3,93,29,1000,1020,Purulia,Red Soil,Pearl Millet
+58,38,68,6.2,86,22,1000,1020,Purulia,Red Soil,Pearl Millet
+56,36,66,6.1,85,21,1000,1020,Purulia,Red Soil,Pearl Millet
+60,40,40,6,87,23,1000,1020,Purulia,Red Soil,Pearl Millet
+62,42,41,6.8,84,24,1000,1020,Purulia,Red Soil,Pearl Millet
+65,45,42,6.7,83,25,1000,1020,Purulia,Red Soil,Pearl Millet
+64,49,43,6.8,89,24,1000,1020,Purulia,Red Soil,Pearl Millet
+68,48,44,6.8,90,27,1000,1020,Purulia,Red Soil,Pearl Millet
+66,46,45,6.7,88,26,1000,1020,Purulia,Red Soil,Pearl Millet
+70,50,46,6.6,87,28,1000,1020,Purulia,Red Soil,Pearl Millet
+72,52,47,6.5,86,29,1000,1020,Purulia,Red Soil,Pearl Millet
+75,55,48,6.4,85,20,1000,1020,Purulia,Red Soil,Pearl Millet
+74,34,49,6.3,84,29,1000,1020,Purulia,Red Soil,Pearl Millet
+78,38,50,6.2,83,22,1000,1020,Purulia,Red Soil,Pearl Millet
+76,45,51,6.1,82,21,1000,1020,Purulia,Red Soil,Pearl Millet
+80,46,52,6,94,23,1000,1020,Purulia,Red Soil,Pearl Millet
+82,42,53,6.6,93,24,1000,1020,Purulia,Red Soil,Pearl Millet
+85,35,54,6.5,92,,1000,1020,Purulia,Red Soil,Pearl Millet
+84,34,55,6.4,91,24,1000,1020,Purulia,Red Soil,Pearl Millet
+88,38,56,6.3,90,27,1000,1020,Purulia,Red Soil,Pearl Millet
+86,36,57,6.2,89,26,1000,1020,Purulia,Red Soil,Pearl Millet
+60,37,58,6.1,88,28,1000,1020,Purulia,Red Soil,Pearl Millet
+52,32,59,6,87,29,1000,1020,Purulia,Red Soil,Pearl Millet
+51,45,60,5.9,86,100,1000,1020,Purulia,Red Soil,Pearl Millet
+50,40,61,5.8,85,99,1000,1020,Purulia,Red Soil,Pearl Millet
+45,20,30,5.7,79,24,1250,700,Purulia,Red Soil,Finger Millet
+42,17,27,5.8,80,23,1250,700,Purulia,Red Soil,Finger Millet
+48,22,32,5.9,81,25,1250,700,Purulia,Red Soil,Finger Millet
+47,21,31,5.8,80,24,1250,700,Purulia,Red Soil,Finger Millet
+50,24,34,6,82,26,1300,700,Purulia,Red Soil,Finger Millet
+44,19,29,5.8,80,23,1225,700,Purulia,Red Soil,Finger Millet
+52,26,36,6.1,83,27,1325,700,Purulia,Red Soil,Finger Millet
+49,23,33,6,82,25,1285,700,Purulia,Red Soil,Finger Millet
+55,28,38,6.2,84,28,1375,700,Purulia,Red Soil,Finger Millet
+46,20,30,5.9,81,24,1240,700,Purulia,Red Soil,Finger Millet
+60,21,42,6.3,85,30,1475,700,Purulia,Red Soil,Finger Millet
+57,22,39,6.2,83,28,1400,700,Purulia,Red Soil,Finger Millet
+62,23,44,6.4,86,31,1525,700,Purulia,Red Soil,Finger Millet
+58,24,40,6.3,84,29,1425,700,Purulia,Red Soil,Finger Millet
+65,25,47,6.5,87,32,1600,700,Purulia,Red Soil,Finger Millet
+63,26,45,6.4,86,31,1550,700,Purulia,Red Soil,Finger Millet
+68,27,30,6.6,88,34,1200,700,Purulia,Red Soil,Finger Millet
+66,28,48,6.5,87,33,1150,700,Purulia,Red Soil,Finger Millet
+45,29,32,6.7,89,35,1175,580,Purulia,Red Soil,Finger Millet
+46,17,34,5.6,90,36,1125,580,Purulia,Red Soil,Finger Millet
+47,18,37,5.7,91,37,1125,580,Purulia,Red Soil,Finger Millet
+48,19,40,5.8,92,38,1025,580,Purulia,Red Soil,Finger Millet
+49,20,42,5.9,93,39,1075,580,Purulia,Red Soil,Finger Millet
+50,21,44,6,94,40,1123,580,Purulia,Red Soil,Finger Millet
+51,22,47,7.3,95,41,1225,580,Purulia,Red Soil,Finger Millet
+52,23,30,7.4,96,42,1325,580,Purulia,Red Soil,Finger Millet
+53,24,33,7.5,97,43,1125,580,Purulia,Red Soil,Finger Millet
+54,25,34,7.6,98,44,1125,580,Purulia,Red Soil,Finger Millet
+45,17,37,7.7,99,45,1025,580,Purulia,Red Soil,Finger Millet
+46,18,40,5.8,100,46,1125,580,Purulia,Red Soil,Finger Millet
+47,19,42,5.9,101,47,1175,580,Purulia,Red Soil,Finger Millet
+48,20,44,8,102,48,1125,580,Purulia,Red Soil,Finger Millet
+49,21,47,6.1,103,49,1600,580,Purulia,Red Soil,Finger Millet
+50,22,40,6.2,104,50,1125,580,Purulia,Red Soil,Finger Millet
+51,23,33,6.3,105,51,1175,580,Purulia,Red Soil,Finger Millet
+52,24,34,6.4,106,52,1025,580,Purulia,Red Soil,Finger Millet
+43,25,37,6.5,107,53,1125,580,Purulia,Red Soil,Finger Millet
+44,17,35,6.6,108,54,1225,580,Purulia,Red Soil,Finger Millet
+45,18,36,6.7,109,55,1275,580,Purulia,Red Soil,Finger Millet
+46,19,34,5.8,110,56,1335,580,Purulia,Red Soil,Finger Millet
+47,20,41,5.9,111,57,1425,580,Purulia,Red Soil,Finger Millet
+48,21,43,6,112,58,1525,580,Purulia,Red Soil,Finger Millet
+49,22,42,6.1,113,59,1575,580,Purulia,Red Soil,Finger Millet
+50,23,44,6.2,114,60,1625,580,Purulia,Red Soil,Finger Millet
+51,24,47,6.3,115,61,1725,580,Purulia,Red Soil,Finger Millet
+52,25,42,6.4,116,62,1825,580,Purulia,Red Soil,Finger Millet
+53,20,34,6.5,117,63,1875,580,Purulia,Red Soil,Finger Millet
+54,19,37,5.6,118,64,1225,580,Purulia,Red Soil,Finger Millet
+45,18,27,5.7,119,65,1025,580,Purulia,Red Soil,Finger Millet
+44,17,30,5.8,120,66,1425,580,Purulia,Red Soil,Finger Millet
+43,21,32,5.9,121,67,1175,580,Purulia,Red Soil,Finger Millet
+46,25,35,5.4,122,68,1274,580,Purulia,Red Soil,Finger Millet
+47,28,38,6.1,123,69,1375,580,Purulia,Red Soil,Finger Millet
+48,22,40,6.2,124,70,1425,580,Purulia,Red Soil,Finger Millet
+49,23,42,6.3,125,71,1475,580,Purulia,Red Soil,Finger Millet
+50,24,45,6.4,126,72,1575,580,Purulia,Red Soil,Finger Millet
+51,25,48,6.2,127,73,1675,580,Purulia,Red Soil,Finger Millet
+52,17,35,6.1,128,74,1725,580,Purulia,Red Soil,Finger Millet
+53,18,34,6,129,75,1775,580,Purulia,Red Soil,Finger Millet
+54,19,33,5.9,130,76,1275,580,Purulia,Red Soil,Finger Millet
+55,20,32,5.8,131,77,1475,580,Purulia,Red Soil,Finger Millet
+56,21,31,5.7,132,78,1025,580,Purulia,Red Soil,Finger Millet
+57,27,30,5.6,133,79,1075,580,Purulia,Red Soil,Finger Millet
+58,26,37,5.5,134,80,1175,580,Purulia,Red Soil,Finger Millet
+59,25,38,5.4,135,81,1275,580,Purulia,Red Soil,Finger Millet
+40,25,35,5.9,78,27,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+45,30,40,6.1,80,28,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+38,23,33,5.8,77,26,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+42,28,37,6,79,27,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+36,22,32,5.7,76,25,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+50,35,45,6.2,82,29,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+55,40,50,6.4,84,30,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+48,33,43,6.1,81,28,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+52,38,48,6.3,83,29,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+46,31,41,6,80,27,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+60,45,55,6.5,86,31,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+65,50,60,6.7,88,32,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+58,43,53,6.4,85,30,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+62,48,58,6.6,87,31,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+56,41,51,6.3,84,29,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+60,55,65,6.8,90,33,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+65,60,70,7,92,34,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+68,53,63,6.7,89,32,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+67,58,68,6.9,91,33,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+66,51,61,6.6,88,31,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+58,65,75,7.1,94,35,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+55,70,80,7.3,96,36,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+58,63,73,7,93,34,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+52,68,78,7.2,95,35,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+46,61,71,6.9,92,33,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+66,75,85,7.5,78,37,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+65,80,90,6.3,79,38,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+58,73,83,6.4,99,36,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+52,78,88,6.6,91,37,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+60,71,81,6.7,88,35,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+41,85,85,6.8,84,39,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+43,90,70,6.9,87,40,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+45,83,73,6.7,86,38,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+47,88,71,6.6,85,39,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+55,81,70,7,84,37,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+44,95,69,6.9,83,41,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+43,100,68,6.8,82,42,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+42,93,67,6.7,81,40,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+41,98,66,6.6,80,41,1150,580,Purulia,Red Soil,Sorghum (Jowar)
+32,16,24,5.8,83,25,1050,440,Purulia,Red Soil,Mung Bean
+35,28,27,5.9,85,26,1050,440,Purulia,Red Soil,Mung Bean
+38,20,30,6,87,27,1050,440,Purulia,Red Soil,Mung Bean
+40,22,32,6.1,89,28,1050,440,Purulia,Red Soil,Mung Bean
+42,24,34,6.2,91,29,1050,440,Purulia,Red Soil,Mung Bean
+45,26,36,6.3,93,30,1050,440,Purulia,Red Soil,Mung Bean
+48,28,38,6.4,95,31,1050,440,Purulia,Red Soil,Mung Bean
+50,30,40,6.5,97,32,1050,440,Purulia,Red Soil,Mung Bean
+52,32,42,6.6,99,33,1050,440,Purulia,Red Soil,Mung Bean
+55,34,24,6.7,84,34,1050,440,Purulia,Red Soil,Mung Bean
+58,26,26,6.8,85,35,1050,440,Purulia,Red Soil,Mung Bean
+40,18,25,6.9,86,36,1050,440,Purulia,Red Soil,Mung Bean
+41,20,35,7,87,37,1050,440,Purulia,Red Soil,Mung Bean
+45,22,32,5.8,88,38,1050,440,Purulia,Red Soil,Mung Bean
+48,24,34,5.9,89,39,1050,440,Purulia,Red Soil,Mung Bean
+40,26,36,6,90,40,1050,440,Purulia,Red Soil,Mung Bean
+42,28,38,6.4,91,41,1050,440,Purulia,Red Soil,Mung Bean
+45,20,30,6.5,92,42,1050,440,Purulia,Red Soil,Mung Bean
+48,22,32,6.6,83,43,1050,440,Purulia,Red Soil,Mung Bean
+40,24,34,6.7,84,44,1050,440,Purulia,Red Soil,Mung Bean
+42,26,36,6.8,85,45,1050,440,Purulia,Red Soil,Mung Bean
+45,28,38,5.9,86,46,1050,440,Purulia,Red Soil,Mung Bean
+48,20,40,6,87,47,1050,440,Purulia,Red Soil,Mung Bean
+40,22,42,6.1,88,48,1050,440,Purulia,Red Soil,Mung Bean
+42,24,34,6.2,89,49,1050,440,Purulia,Red Soil,Mung Bean
+45,28,36,6.3,90,50,1050,440,Purulia,Red Soil,Mung Bean
+48,26,38,6.4,95,51,1050,440,Purulia,Red Soil,Mung Bean
+49,17,39,6.5,87,52,1050,440,Purulia,Red Soil,Mung Bean
+42,22,40,6.6,89,53,1050,440,Purulia,Red Soil,Mung Bean
+45,24,41,6.7,94,54,1050,440,Purulia,Red Soil,Mung Bean
+48,26,31,5.8,84,55,1050,440,Purulia,Red Soil,Mung Bean
+40,28,32,5.9,85,56,1050,440,Purulia,Red Soil,Mung Bean
+42,20,33,6,87,57,1050,440,Purulia,Red Soil,Mung Bean
+45,12,32,6.1,92,58,1050,440,Purulia,Red Soil,Mung Bean
+41,14,34,6.2,91,59,1050,440,Purulia,Red Soil,Mung Bean
+37,16,36,6.3,93,60,1050,440,Purulia,Red Soil,Mung Bean
+32,28,38,6.4,91,61,1050,440,Purulia,Red Soil,Mung Bean
+35,20,41,6.5,90,62,1050,440,Purulia,Red Soil,Mung Bean
+38,22,40,6.6,89,63,1050,440,Purulia,Red Soil,Mung Bean
+30,24,39,6.7,88,64,1050,440,Purulia,Red Soil,Mung Bean
+32,16,29,5.8,87,65,1050,440,Purulia,Red Soil,Mung Bean
+35,18,28,5.9,86,66,1050,440,Purulia,Red Soil,Mung Bean
+38,20,27,6.1,85,67,1050,440,Purulia,Red Soil,Mung Bean
+32,16,24,5.8,83,27,1020,440,Purulia,Red Soil,Black Gram
+35,18,28,6,85,25,1060,460,Purulia,Red Soil,Black Gram
+38,20,30,6.2,87,23,1060,460,Purulia,Red Soil,Black Gram
+40,22,32,6.3,88,22,1060,460,Purulia,Red Soil,Black Gram
+42,24,34,6.5,90,20,1060,460,Purulia,Red Soil,Black Gram
+45,26,36,6.7,92,18,1060,460,Purulia,Red Soil,Black Gram
+48,28,38,6.8,93,17,1060,460,Purulia,Red Soil,Black Gram
+50,30,40,7,83,26,1060,460,Purulia,Red Soil,Black Gram
+52,32,42,7.2,84,27,1060,460,Purulia,Red Soil,Black Gram
+55,34,44,7.4,85,25,1060,460,Purulia,Red Soil,Black Gram
+58,36,46,7.5,86,24,1060,460,Purulia,Red Soil,Black Gram
+60,38,48,6.7,87,23,1060,460,Purulia,Red Soil,Black Gram
+62,40,50,6.9,88,29,1060,460,Purulia,Red Soil,Black Gram
+65,42,52,6.1,89,28,1060,460,Purulia,Red Soil,Black Gram
+68,44,54,6.3,90,21,1060,460,Purulia,Red Soil,Black Gram
+70,46,56,6.4,91,26,1060,460,Purulia,Red Soil,Black Gram
+72,48,58,6.6,86,25,1060,460,Purulia,Red Soil,Black Gram
+75,50,60,6.8,84,24,1060,460,Purulia,Red Soil,Black Gram
+78,52,62,6,85,23,1060,460,Purulia,Red Soil,Black Gram
+50,30,32,6.8,83,27,1060,460,Purulia,Red Soil,Black Gram
+38,23,33,5.8,84,22,1150,770,Purulia,Red Soil,Tomatoes
+40,25,35,6,86,20,1200,800,Purulia,Red Soil,Tomatoes
+42,27,37,6.2,88,28,1250,830,Purulia,Red Soil,Tomatoes
+45,30,40,6.3,89,27,1300,860,Purulia,Red Soil,Tomatoes
+48,33,43,6.5,91,25,1350,890,Purulia,Red Soil,Tomatoes
+50,35,45,6.7,93,23,1400,920,Purulia,Red Soil,Tomatoes
+52,37,47,6.8,94,22,1450,950,Purulia,Red Soil,Tomatoes
+55,30,50,7,96,20,1500,980,Purulia,Red Soil,Tomatoes
+58,33,53,5.2,98,28,1550,1010,Purulia,Red Soil,Tomatoes
+50,35,55,5.3,99,27,1550,1040,Purulia,Red Soil,Tomatoes
+52,27,57,7.5,85,25,1550,1070,Purulia,Red Soil,Tomatoes
+55,30,40,5.7,83,23,1550,1100,Purulia,Red Soil,Tomatoes
+48,33,43,6.8,82,22,1550,1130,Purulia,Red Soil,Tomatoes
+47,26,45,6.9,84,26,1550,1160,Purulia,Red Soil,Tomatoes
+43,29,48,5.9,85,22,1550,1190,Purulia,Red Soil,Tomatoes
+45,31,40,6,86,23,1550,1220,Purulia,Red Soil,Tomatoes
+46,26,43,6.1,87,25,1550,1250,Purulia,Red Soil,Tomatoes
+47,27,45,6.3,88,27,1550,1280,Purulia,Red Soil,Tomatoes
+48,29,47,6.2,89,28,1550,1310,Purulia,Red Soil,Tomatoes
+49,30,38,5.7,90,20,1550,1340,Purulia,Red Soil,Tomatoes
+50,31,39,6.1,91,22,1550,1370,Purulia,Red Soil,Tomatoes
+51,38,40,6.3,92,23,1550,1400,Purulia,Red Soil,Tomatoes
+38,37,51,6.5,93,25,1550,1430,Purulia,Red Soil,Tomatoes
+39,36,42,6.7,94,19,1550,1460,Purulia,Red Soil,Tomatoes
+40,35,41,6.8,95,18,1550,1490,Purulia,Red Soil,Tomatoes
+41,34,40,6,96,20,1550,1520,Purulia,Red Soil,Tomatoes
+42,33,52,6.2,85,22,1550,1550,Purulia,Red Soil,Tomatoes
+43,32,53,6.3,86,23,1550,1580,Purulia,Red Soil,Tomatoes
+44,31,35,6.5,87,25,1550,1610,Purulia,Red Soil,Tomatoes
+45,30,36,6.7,88,27,1550,1640,Purulia,Red Soil,Tomatoes
+44,29,37,6.8,89,28,1550,1670,Purulia,Red Soil,Tomatoes
+43,34,38,6.9,90,30,1550,1700,Purulia,Red Soil,Tomatoes
+42,33,39,6.2,91,32,1550,1730,Purulia,Red Soil,Tomatoes
+41,35,40,6.3,89,33,1550,1760,Purulia,Red Soil,Tomatoes
+40,38,48,6.5,91,35,1550,1790,Purulia,Red Soil,Tomatoes
+39,30,42,6.7,93,37,1550,1820,Purulia,Red Soil,Tomatoes
+38,23,51,6,85,38,1550,1850,Purulia,Red Soil,Tomatoes
+30,25,55,5.8,86,24,1550,1880,Purulia,Red Soil,Tomatoes
+33,28,48,5.9,88,22,1550,1910,Purulia,Red Soil,Tomatoes
+35,20,43,6.2,89,23,1550,1940,Purulia,Red Soil,Tomatoes
+38,23,44,6.8,81,26,1550,1970,Purulia,Red Soil,Tomatoes
+40,25,45,6.7,83,27,1550,2000,Purulia,Red Soil,Tomatoes
+42,28,46,6.4,85,24,1550,2030,Purulia,Red Soil,Tomatoes
+41,30,47,6.3,87,25,1550,2060,Purulia,Red Soil,Tomatoes
+40,33,43,6.1,89,26,1550,2090,Purulia,Red Soil,Tomatoes
+39,35,45,6,90,23,1550,2120,Purulia,Red Soil,Tomatoes
+38,21,31,5.7,77,26,1125,780,Purulia,Red Soil,Beans
+42,25,35,5.9,79,27,1125,820,Purulia,Red Soil,Beans
+36,19,29,5.6,76,25,1125,790,Purulia,Red Soil,Beans
+39,22,32,5.8,78,26,1125,810,Purulia,Red Soil,Beans
+33,16,26,5.4,74,24,1125,760,Purulia,Red Soil,Beans
+44,27,37,6.1,82,28,1125,870,Purulia,Red Soil,Beans
+49,32,42,6.3,84,29,1125,920,Purulia,Red Soil,Beans
+41,24,34,6,80,27,1125,850,Purulia,Red Soil,Beans
+46,29,39,6.2,83,28,1125,890,Purulia,Red Soil,Beans
+48,31,41,6.2,83,28,1125,880,Purulia,Red Soil,Beans
+47,30,40,6.2,83,28,1125,870,Purulia,Red Soil,Beans
+43,26,36,6.1,82,28,1125,860,Purulia,Red Soil,Beans
+45,28,38,6.1,82,28,1125,880,Purulia,Red Soil,Beans
+51,33,43,6.4,85,30,1125,930,Purulia,Red Soil,Beans
+55,37,47,6.6,87,31,1125,980,Purulia,Red Soil,Beans
+50,32,42,6.5,86,30,1125,940,Purulia,Red Soil,Beans
+54,36,46,6.5,86,30,1125,960,Purulia,Red Soil,Beans
+52,34,44,6.4,85,30,1125,950,Purulia,Red Soil,Beans
+53,35,45,6.5,86,30,1125,970,Purulia,Red Soil,Beans
+59,41,51,6.8,89,32,1125,1040,Purulia,Red Soil,Beans
+63,45,55,7,91,33,1125,1090,Purulia,Red Soil,Beans
+57,39,49,6.7,88,31,1125,990,Purulia,Red Soil,Beans
+60,42,52,6.8,89,32,1125,1050,Purulia,Red Soil,Beans
+56,38,48,6.7,88,31,1125,980,Purulia,Red Soil,Beans
+58,40,50,6.8,89,32,1125,1020,Purulia,Red Soil,Beans
+62,44,54,6.9,90,32,1125,1080,Purulia,Red Soil,Beans
+65,47,57,7.1,92,33,1125,1130,Purulia,Red Soil,Beans
+61,43,53,6.9,90,32,1125,1060,Purulia,Red Soil,Beans
+64,46,56,7,91,33,1125,1110,Purulia,Red Soil,Beans
+66,48,58,7.1,92,33,1125,1150,Purulia,Red Soil,Beans
+67,49,59,7.2,93,34,1125,1160,Purulia,Red Soil,Beans
+69,51,61,7.3,94,34,1125,1180,Purulia,Red Soil,Beans
+70,52,62,6,95,35,1125,1190,Purulia,Red Soil,Beans
+68,50,60,7.3,94,34,1125,1170,Purulia,Red Soil,Beans
+71,53,63,6.5,96,35,1125,1200,Purulia,Red Soil,Beans
+73,55,65,6.6,97,36,1125,1220,Purulia,Red Soil,Beans
+72,54,64,6.5,96,35,1125,1210,Purulia,Red Soil,Beans
+74,56,66,6.7,98,36,1125,1230,Purulia,Red Soil,Beans
+75,57,67,6,99,36,1125,1240,Purulia,Red Soil,Beans
+76,58,68,5.9,85,37,1125,1250,Purulia,Red Soil,Beans
+77,59,69,5.8,86,37,1125,1260,Purulia,Red Soil,Beans
+79,61,71,5.7,87,38,1125,1280,Purulia,Red Soil,Beans
+80,62,72,6.4,88,38,1125,1290,Purulia,Red Soil,Beans
+78,60,70,6.3,89,37,1125,1270,Purulia,Red Soil,Beans
+81,63,73,6.2,90,39,1125,1300,Purulia,Red Soil,Beans
+83,65,75,6.1,91,26,1125,1320,Purulia,Red Soil,Beans
+82,64,74,6,92,27,1125,1310,Purulia,Red Soil,Beans
+84,66,76,5.9,93,28,1125,1330,Purulia,Red Soil,Beans
+85,67,77,5.8,94,29,1125,1340,Purulia,Red Soil,Beans
+86,68,78,5.7,95,30,1125,1350,Purulia,Red Soil,Beans
+45,27,38,5.8,82,28,1800,1400,Purulia,Red & Laterite Soil,Beans
+50,30,42,5.8,82,29,1800,1450,Purulia,Red & Laterite Soil,Beans
+42,24,34,5.8,82,28,1800,1350,Purulia,Red & Laterite Soil,Beans
+48,29,39,5.8,82,26,1800,1420,Purulia,Red & Laterite Soil,Beans
+40,22,32,5.8,82,27,1800,1300,Purulia,Red & Laterite Soil,Beans
+44,26,36,5.8,82,28,1800,1380,Purulia,Red & Laterite Soil,Beans
+49,31,43,5.8,82,23,1800,1460,Purulia,Red & Laterite Soil,Beans
+41,23,33,5.8,82,28,1800,1330,Purulia,Red & Laterite Soil,Beans
+47,28,37,5.8,82,25,1800,1410,Purulia,Red & Laterite Soil,Beans
+39,21,31,5.8,82,27,1800,1290,Purulia,Red & Laterite Soil,Beans
+43,25,35,5.8,82,28,1800,1370,Purulia,Red & Laterite Soil,Beans
+48,29,39,5.8,82,22,1800,1430,Purulia,Red & Laterite Soil,Beans
+42,24,34,5.8,82,28,1800,1360,Purulia,Red & Laterite Soil,Beans
+47,28,37,5.8,82,28,1800,1420,Purulia,Red & Laterite Soil,Beans
+39,21,31,5.8,82,26,1800,1300,Purulia,Red & Laterite Soil,Beans
+45,27,38,5.8,82,28,1800,1390,Purulia,Red & Laterite Soil,Beans
+41,23,33,5.8,82,24,1800,1330,Purulia,Red & Laterite Soil,Beans
+46,28,38,5.8,82,28,1800,1410,Purulia,Red & Laterite Soil,Beans
+38,20,30,5.8,82,28,1800,1280,Purulia,Red & Laterite Soil,Beans
+44,26,36,5.8,82,25,1800,1370,Purulia,Red & Laterite Soil,Beans
+49,31,43,5.8,82,28,1800,1460,Purulia,Red & Laterite Soil,Beans
+43,25,35,5.8,82,28,1800,1360,Purulia,Red & Laterite Soil,Beans
+48,29,39,5.8,82,28,1800,1440,Purulia,Red & Laterite Soil,Beans
+40,22,32,5.8,82,28,1800,1300,Purulia,Red & Laterite Soil,Beans
+46,28,38,5.8,82,27,1800,1400,Purulia,Red & Laterite Soil,Beans
+42,24,34,5.8,82,28,1800,1350,Purulia,Red & Laterite Soil,Beans
+47,28,37,5.8,82,26,1800,1410,Purulia,Red & Laterite Soil,Beans
+39,21,31,5.8,82,28,1800,1290,Purulia,Red & Laterite Soil,Beans
+44,26,36,5.8,82,28,1800,1380,Purulia,Red & Laterite Soil,Beans
+49,31,43,5.8,82,30,1800,1470,Purulia,Red & Laterite Soil,Beans
+41,23,33,5.8,82,28,1800,1330,Purulia,Red & Laterite Soil,Beans
+45,27,38,5.8,82,28,1800,1390,Purulia,Red & Laterite Soil,Beans
+37,19,29,5.8,82,28,1800,1270,Purulia,Red & Laterite Soil,Beans
+43,25,35,5.8,82,28,1800,1360,Purulia,Red & Laterite Soil,Beans
+38,20,30,5.8,82,28,1800,1280,Purulia,Red & Laterite Soil,Beans
+50,25,35,6,85,28,1300,1000,Purulia,Red Soil,Mango
+55,30,40,6.2,87,26,1400,1100,Purulia,Red Soil,Mango
+48,23,33,5.8,83,27,1250,950,Purulia,Red Soil,Mango
+52,28,38,6.1,86,25,1350,1050,Purulia,Red Soil,Mango
+45,20,30,5.7,82,24,1200,900,Purulia,Red Soil,Mango
+49,24,34,5.9,84,28,1300,980,Purulia,Red Soil,Mango
+54,29,39,6.3,88,26,1400,1080,Purulia,Red Soil,Mango
+47,22,32,5.8,83,27,1250,940,Purulia,Red Soil,Mango
+51,26,36,6,86,25,1350,1030,Purulia,Red Soil,Mango
+44,19,29,5.6,81,24,1200,880,Purulia,Red Soil,Mango
+50,25,35,6.1,85,28,1300,1000,Purulia,Red Soil,Mango
+55,30,40,6.4,87,26,1400,1100,Purulia,Red Soil,Mango
+48,23,33,6,83,27,1250,950,Purulia,Red Soil,Mango
+52,28,38,6.2,86,25,1350,1050,Purulia,Red Soil,Mango
+45,20,30,5.8,82,24,1200,900,Purulia,Red Soil,Mango
+49,24,34,6,84,28,1300,980,Purulia,Red Soil,Mango
+54,29,39,6.5,88,26,1400,1080,Purulia,Red Soil,Mango
+47,22,32,6,83,27,1250,940,Purulia,Red Soil,Mango
+51,26,36,6.2,86,25,1350,1030,Purulia,Red Soil,Mango
+44,19,29,5.9,81,24,1200,880,Purulia,Red Soil,Mango
+50,25,35,6.3,85,28,1300,1000,Purulia,Red Soil,Mango
+55,30,40,6.6,87,26,1400,1100,Purulia,Red Soil,Mango
+48,23,33,6.1,83,27,1250,950,Purulia,Red Soil,Mango
+52,28,38,6.3,86,25,1350,1050,Purulia,Red Soil,Mango
+45,20,30,6,82,24,1200,900,Purulia,Red Soil,Mango
+49,24,34,6.1,84,28,1300,980,Purulia,Red Soil,Mango
+54,29,39,6.7,88,26,1400,1080,Purulia,Red Soil,Mango
+47,22,32,6.1,83,27,1250,940,Purulia,Red Soil,Mango
+51,26,36,6.4,86,25,1350,1030,Purulia,Red Soil,Mango
+44,19,29,6,81,24,1200,880,Purulia,Red Soil,Mango
+50,25,35,6.5,85,28,1300,1000,Purulia,Red Soil,Mango
+55,30,40,6.8,87,26,1400,1100,Purulia,Red Soil,Mango
+48,23,33,6.2,83,27,1250,950,Purulia,Red Soil,Mango
+52,28,38,6.4,86,25,1350,1050,Purulia,Red Soil,Mango
+45,20,30,6.1,82,24,1200,900,Purulia,Red Soil,Mango
+49,24,34,6.2,84,28,1300,980,Purulia,Red Soil,Mango
+54,29,39,6.9,88,26,1400,1080,Purulia,Red Soil,Mango
+47,22,32,6.2,83,27,1250,940,Purulia,Red Soil,Mango
+51,26,36,6.5,86,25,1350,1030,Purulia,Red Soil,Mango
+44,19,29,6.1,81,24,1200,880,Purulia,Red Soil,Mango
+50,25,35,6.7,85,28,1300,1000,Purulia,Red Soil,Mango
+55,30,40,7,87,26,1400,1100,Purulia,Red Soil,Mango
+48,23,33,6.3,83,27,1250,950,Purulia,Red Soil,Mango
+52,28,38,6.5,86,25,1350,1050,Purulia,Red Soil,Mango
+45,20,30,6.2,82,24,1200,900,Purulia,Red Soil,Mango
+49,24,34,6.3,84,28,1300,980,Purulia,Red Soil,Mango
+54,29,39,7.1,88,26,1400,1080,Purulia,Red Soil,Mango
+47,22,32,6.3,83,27,1250,940,Purulia,Red Soil,Mango
+51,26,36,6.6,86,25,1350,1030,Purulia,Red Soil,Mango
+44,19,29,6.2,81,24,1200,880,Purulia,Red Soil,Mango
+60,35,45,6.1,82,28,1800,1700,Purulia,Red & Laterite Soil,Mango
+55,40,50,6.3,84,28,1900,1800,Purulia,Red & Laterite Soil,Mango
+59,32,42,6,83,28,1800,1650,Purulia,Red & Laterite Soil,Mango
+54,37,47,6.2,85,28,1800,1750,Purulia,Red & Laterite Soil,Mango
+61,29,39,5.9,82,28,1800,1600,Purulia,Red & Laterite Soil,Mango
+52,34,44,6,82,28,1800,1680,Purulia,Red & Laterite Soil,Mango
+56,39,49,6.3,84,28,1900,1780,Purulia,Red & Laterite Soil,Mango
+59,31,41,5.8,83,28,1800,1630,Purulia,Red & Laterite Soil,Mango
+57,36,46,6.2,85,28,1800,1730,Purulia,Red & Laterite Soil,Mango
+58,28,38,5.7,82,28,1800,1580,Purulia,Red & Laterite Soil,Mango
+61,33,43,6.1,82,28,1800,1670,Purulia,Red & Laterite Soil,Mango
+58,38,48,6.4,84,28,1900,1770,Purulia,Red & Laterite Soil,Mango
+61,30,40,5.8,83,28,1800,1620,Purulia,Red & Laterite Soil,Mango
+55,35,45,6.3,82,28,1800,1710,Purulia,Red & Laterite Soil,Mango
+52,40,50,6.5,84,28,1900,1810,Purulia,Red & Laterite Soil,Mango
+60,32,42,6.1,83,28,1800,1660,Purulia,Red & Laterite Soil,Mango
+59,37,47,6.3,85,28,1800,1760,Purulia,Red & Laterite Soil,Mango
+57,29,39,5.9,82,28,1800,1610,Purulia,Red & Laterite Soil,Mango
+58,34,44,6.1,82,28,1800,1690,Purulia,Red & Laterite Soil,Mango
+61,39,49,6.5,84,28,1900,1790,Purulia,Red & Laterite Soil,Mango
+54,31,41,5.8,83,28,1800,1640,Purulia,Red & Laterite Soil,Mango
+56,36,46,6.2,85,28,1800,1740,Purulia,Red & Laterite Soil,Mango
+62,28,38,5.7,82,28,1800,1590,Purulia,Red & Laterite Soil,Mango
+53,33,43,6.1,82,28,1800,1680,Purulia,Red & Laterite Soil,Mango
+55,38,48,6.5,84,28,1900,1780,Purulia,Red & Laterite Soil,Mango
+60,30,40,5.8,83,28,1800,1630,Purulia,Red & Laterite Soil,Mango
+61,35,45,6.3,82,28,1800,1720,Purulia,Red & Laterite Soil,Mango
+56,40,50,6.7,84,28,1900,1820,Purulia,Red & Laterite Soil,Mango
+57,32,42,6.2,83,28,1800,1670,Purulia,Red & Laterite Soil,Mango
+58,37,47,6.4,85,28,1800,1770,Purulia,Red & Laterite Soil,Mango
+61,29,39,6,82,28,1800,1620,Purulia,Red & Laterite Soil,Mango
+54,34,44,6.2,82,28,1800,1700,Purulia,Red & Laterite Soil,Mango
+56,39,49,6.7,84,28,1900,1800,Purulia,Red & Laterite Soil,Mango
+62,31,41,6,83,28,1800,1650,Purulia,Red & Laterite Soil,Mango
+53,36,46,6.3,85,28,1800,1750,Purulia,Red & Laterite Soil,Mango
+55,28,38,5.9,82,28,1800,1600,Purulia,Red & Laterite Soil,Mango
+60,33,43,6.2,82,28,1800,1690,Purulia,Red & Laterite Soil,Mango
+61,38,48,6.8,84,28,1900,1790,Purulia,Red & Laterite Soil,Mango
+56,30,40,6,83,28,1800,1640,Purulia,Red & Laterite Soil,Mango
+57,35,45,6.4,82,28,1800,1730,Purulia,Red & Laterite Soil,Mango
+58,40,50,6.8,84,28,1900,1830,Purulia,Red & Laterite Soil,Mango
+61,32,42,6.3,83,28,1800,1680,Purulia,Red & Laterite Soil,Mango
+58,37,47,6.5,85,28,1800,1780,Purulia,Red & Laterite Soil,Mango
+56,29,39,6.1,82,28,1800,1630,Purulia,Red & Laterite Soil,Mango
+61,34,44,6.3,82,28,1800,1710,Purulia,Red & Laterite Soil,Mango
+57,39,49,6.9,84,28,1900,1810,Purulia,Red & Laterite Soil,Mango
+56,31,41,6.1,83,28,1800,1660,Purulia,Red & Laterite Soil,Mango
+58,36,46,6.4,85,28,1800,1760,Purulia,Red & Laterite Soil,Mango
+56,28,38,6,82,28,1800,1610,Purulia,Red & Laterite Soil,Mango
+55,33,43,6.3,82,28,1800,1700,Purulia,Red & Laterite Soil,Mango
+59,38,48,7,84,28,1900,1800,Purulia,Red & Laterite Soil,Mango
+60,30,40,6.2,83,28,1800,1650,Purulia,Red & Laterite Soil,Mango
+56,35,45,6.5,82,28,1800,1740,Purulia,Red & Laterite Soil,Mango
+54,40,50,7.1,84,28,1900,1840,Purulia,Red & Laterite Soil,Mango
+61,32,42,6.5,83,28,1800,1690,Purulia,Red & Laterite Soil,Mango
+56,37,47,6.6,85,28,1800,1790,Purulia,Red & Laterite Soil,Mango
+58,29,39,6.2,82,28,1800,1640,Purulia,Red & Laterite Soil,Mango
+56,34,44,6.5,82,28,1800,1720,Purulia,Red & Laterite Soil,Mango
+57,39,49,7.2,84,28,1900,1820,Purulia,Red & Laterite Soil,Mango
+61,31,41,6.3,83,28,1800,1670,Purulia,Red & Laterite Soil,Mango
+56,36,46,6.6,85,28,1800,1770,Purulia,Red & Laterite Soil,Mango
+58,28,38,6.1,82,28,1800,1620,Purulia,Red & Laterite Soil,Mango
+54,33,43,6.5,82,28,1800,1710,Purulia,Red & Laterite Soil,Mango
+55,38,48,7.3,84,28,1900,1810,Purulia,Red & Laterite Soil,Mango
+58,30,40,6.4,83,28,1800,1660,Purulia,Red & Laterite Soil,Mango
+60,35,45,6.7,82,28,1800,1750,Purulia,Red & Laterite Soil,Mango
+59,40,50,7.4,84,28,1900,1850,Purulia,Red & Laterite Soil,Mango
+45,20,30,5.7,82,24,1200,900,Purulia,Red Soil,Guava
+50,25,35,6,85,26,1300,950,Purulia,Red Soil,Guava
+42,18,28,5.6,81,25,1150,870,Purulia,Red Soil,Guava
+48,23,33,5.9,84,23,1250,920,Purulia,Red Soil,Guava
+40,17,27,5.5,80,22,1100,850,Purulia,Red Soil,Guava
+44,19,29,5.8,82,24,1200,890,Purulia,Red Soil,Guava
+49,24,34,6,85,26,1300,940,Purulia,Red Soil,Guava
+41,18,28,5.4,81,25,1150,860,Purulia,Red Soil,Guava
+47,22,32,5.8,84,23,1250,910,Purulia,Red Soil,Guava
+39,16,26,5.3,80,22,1100,840,Purulia,Red Soil,Guava
+43,19,29,5.7,82,24,1200,880,Purulia,Red Soil,Guava
+48,23,33,6.1,85,26,1300,930,Purulia,Red Soil,Guava
+40,17,27,5.5,80,22,1150,860,Purulia,Red Soil,Guava
+45,20,30,6,82,24,1200,900,Purulia,Red Soil,Guava
+49,24,34,6.2,85,26,1300,950,Purulia,Red Soil,Guava
+41,18,28,5.6,81,25,1150,870,Purulia,Red Soil,Guava
+46,21,31,6.1,84,23,1250,920,Purulia,Red Soil,Guava
+38,15,25,5.2,80,22,1100,830,Purulia,Red Soil,Guava
+42,19,29,5.8,82,24,1200,890,Purulia,Red Soil,Guava
+47,22,32,6,85,26,1300,940,Purulia,Red Soil,Guava
+39,16,26,5.4,81,25,1150,860,Purulia,Red Soil,Guava
+43,19,29,5.9,82,24,1200,880,Purulia,Red Soil,Guava
+48,23,33,6.3,85,26,1300,930,Purulia,Red Soil,Guava
+40,17,27,5.5,80,22,1150,860,Purulia,Red Soil,Guava
+44,20,30,6.2,82,24,1200,900,Purulia,Red Soil,Guava
+49,24,34,6.4,85,26,1300,950,Purulia,Red Soil,Guava
+41,18,28,5.6,81,25,1150,870,Purulia,Red Soil,Guava
+46,21,31,6.2,84,23,1250,920,Purulia,Red Soil,Guava
+38,15,25,5.3,80,22,1100,830,Purulia,Red Soil,Guava
+42,19,29,5.8,82,24,1200,890,Purulia,Red Soil,Guava
+47,22,32,6,85,26,1300,940,Purulia,Red Soil,Guava
+39,16,26,5.4,81,25,1150,860,Purulia,Red Soil,Guava
+43,19,29,5.9,82,24,1200,880,Purulia,Red Soil,Guava
+48,23,33,6.1,85,26,1300,930,Purulia,Red Soil,Guava
+40,17,27,5.5,80,22,1150,860,Purulia,Red Soil,Guava
+44,20,30,6.2,82,24,1200,900,Purulia,Red Soil,Guava
+49,24,34,6.3,85,26,1300,950,Purulia,Red Soil,Guava
+41,18,28,5.6,81,25,1150,870,Purulia,Red Soil,Guava
+46,21,31,6.2,84,23,1250,920,Purulia,Red Soil,Guava
+38,15,25,5.3,80,22,1100,830,Purulia,Red Soil,Guava
+42,19,29,5.8,82,24,1200,890,Purulia,Red Soil,Guava
+47,22,32,6,85,26,1300,940,Purulia,Red Soil,Guava
+39,16,26,5.4,81,25,1150,860,Purulia,Red Soil,Guava
+43,19,29,5.9,82,24,1200,880,Purulia,Red Soil,Guava
+48,23,33,6.3,85,26,1300,930,Purulia,Red Soil,Guava
+40,17,27,5.5,80,22,1150,860,Purulia,Red Soil,Guava
+44,20,30,6.2,82,24,1200,900,Purulia,Red Soil,Guava
+49,24,34,6.4,85,26,1300,950,Purulia,Red Soil,Guava
+41,18,28,5.6,81,25,1150,870,Purulia,Red Soil,Guava
+46,21,31,6.2,84,23,1250,920,Purulia,Red Soil,Guava
+38,15,25,5.3,80,22,1100,830,Purulia,Red Soil,Guava
+42,19,29,5.8,82,24,1200,890,Purulia,Red Soil,Guava
+47,22,32,6,85,26,1300,940,Purulia,Red Soil,Guava
+39,16,26,5.4,81,25,1150,860,Purulia,Red Soil,Guava
+43,19,29,5.9,82,24,1200,880,Purulia,Red Soil,Guava
+48,23,33,6.1,85,26,1300,930,Purulia,Red Soil,Guava
+40,17,27,5.5,80,22,1150,860,Purulia,Red Soil,Guava
+44,20,30,6.2,82,24,1200,900,Purulia,Red Soil,Guava
+49,24,34,6.3,85,26,1300,950,Purulia,Red Soil,Guava
+41,18,28,5.6,81,25,1150,870,Purulia,Red Soil,Guava
+46,21,31,6.2,84,23,1250,920,Purulia,Red Soil,Guava
+38,15,25,5.3,80,22,1100,830,Purulia,Red Soil,Guava
+42,19,29,5.8,82,24,1200,890,Purulia,Red Soil,Guava
+47,22,32,6,85,26,1300,940,Purulia,Red Soil,Guava
+39,16,26,5.4,81,25,1150,860,Purulia,Red Soil,Guava
+43,19,29,5.9,82,24,1200,880,Purulia,Red Soil,Guava
+48,23,33,6.3,85,26,1300,930,Purulia,Red Soil,Guava
+40,17,27,5.5,80,22,1150,860,Purulia,Red Soil,Guava
+44,20,30,6.2,82,24,1200,900,Purulia,Red Soil,Guava
+49,24,34,6.4,85,26,1300,950,Purulia,Red Soil,Guava
+55,27,37,6,82,28,1800,1500,Purulia,Red & Laterite Soil,Guava
+60,30,40,6.2,84,28,1900,1600,Purulia,Red & Laterite Soil,Guava
+52,24,34,5.8,83,28,1800,1450,Purulia,Red & Laterite Soil,Guava
+58,29,39,6.1,85,28,1800,1550,Purulia,Red & Laterite Soil,Guava
+50,22,32,5.9,82,28,1800,1400,Purulia,Red & Laterite Soil,Guava
+54,26,36,6,82,28,1800,1480,Purulia,Red & Laterite Soil,Guava
+59,31,41,6.3,84,28,1900,1580,Purulia,Red & Laterite Soil,Guava
+51,23,33,5.8,83,28,1800,1430,Purulia,Red & Laterite Soil,Guava
+56,28,38,6.2,85,28,1800,1530,Purulia,Red & Laterite Soil,Guava
+48,20,30,5.7,82,28,1800,1380,Purulia,Red & Laterite Soil,Guava
+53,25,35,6.1,82,28,1800,1470,Purulia,Red & Laterite Soil,Guava
+58,29,39,6.4,85,28,1900,1570,Purulia,Red & Laterite Soil,Guava
+50,22,32,5.9,82,28,1800,1420,Purulia,Red & Laterite Soil,Guava
+55,27,37,6,82,28,1800,1520,Purulia,Red & Laterite Soil,Guava
+60,30,40,6.5,84,28,1900,1620,Purulia,Red & Laterite Soil,Guava
+52,24,34,6.1,83,28,1800,1470,Purulia,Red & Laterite Soil,Guava
+58,29,39,6.3,85,28,1800,1570,Purulia,Red & Laterite Soil,Guava
+50,22,32,5.9,82,28,1800,1420,Purulia,Red & Laterite Soil,Guava
+55,27,37,6.1,82,28,1800,1520,Purulia,Red & Laterite Soil,Guava
+60,30,40,6.6,84,28,1900,1620,Purulia,Red & Laterite Soil,Guava
+52,24,34,6.2,83,28,1800,1470,Purulia,Red & Laterite Soil,Guava
+58,29,39,6.5,85,28,1800,1570,Purulia,Red & Laterite Soil,Guava
+50,22,32,6,82,28,1800,1420,Purulia,Red & Laterite Soil,Guava
+55,27,37,6.2,82,28,1800,1520,Purulia,Red & Laterite Soil,Guava
+60,30,40,6.7,84,28,1900,1620,Purulia,Red & Laterite Soil,Guava
+52,24,34,6.3,83,28,1800,1470,Purulia,Red & Laterite Soil,Guava
+58,29,39,6.6,85,28,1800,1570,Purulia,Red & Laterite Soil,Guava
+50,22,32,6.1,82,28,1800,1420,Purulia,Red & Laterite Soil,Guava
+55,27,37,6.3,82,28,1800,1520,Purulia,Red & Laterite Soil,Guava
+60,30,40,6.8,84,28,1900,1620,Purulia,Red & Laterite Soil,Guava
+52,24,34,6.4,83,28,1800,1470,Purulia,Red & Laterite Soil,Guava
+58,29,39,6.7,85,28,1800,1570,Purulia,Red & Laterite Soil,Guava
+50,22,32,6.2,82,28,1800,1420,Purulia,Red & Laterite Soil,Guava
+55,27,37,6.4,82,28,1800,1520,Purulia,Red & Laterite Soil,Guava
+60,30,40,6.9,84,28,1900,1620,Purulia,Red & Laterite Soil,Guava
+52,24,34,6.5,83,28,1800,1470,Purulia,Red & Laterite Soil,Guava
+58,29,39,6.8,85,28,1800,1570,Purulia,Red & Laterite Soil,Guava
+50,22,32,6.3,82,28,1800,1420,Purulia,Red & Laterite Soil,Guava
+55,27,37,6.5,82,28,1800,1520,Purulia,Red & Laterite Soil,Guava
+60,30,40,7,84,28,1900,1620,Purulia,Red & Laterite Soil,Guava
+52,24,34,6.6,83,28,1800,1470,Purulia,Red & Laterite Soil,Guava
+58,29,39,6.9,85,28,1800,1570,Purulia,Red & Laterite Soil,Guava
+50,22,32,6.4,82,28,1800,1420,Purulia,Red & Laterite Soil,Guava
+55,27,37,6.6,82,28,1800,1520,Purulia,Red & Laterite Soil,Guava
+60,30,40,7.1,84,28,1900,1620,Purulia,Red & Laterite Soil,Guava
+28,14,22,5.6,81,23,980,400,Purulia,Red Soil,Sesame
+32,18,27,5.9,84,23,1050,420,Purulia,Red Soil,Sesame
+25,12,20,5.5,80,24,950,380,Purulia,Red Soil,Sesame
+30,15,25,5.8,83,22,1000,400,Purulia,Red Soil,Sesame
+22,10,18,5.3,78,25,900,350,Purulia,Red Soil,Sesame
+26,13,21,5.7,81,23,980,390,Purulia,Red Soil,Sesame
+31,16,24,6,84,23,1050,410,Purulia,Red Soil,Sesame
+24,11,19,5.4,80,24,950,370,Purulia,Red Soil,Sesame
+29,15,23,5.7,83,22,1000,390,Purulia,Red Soil,Sesame
+21,9,17,5.2,78,25,900,340,Purulia,Red Soil,Sesame
+27,14,22,5.6,81,23,980,400,Purulia,Red Soil,Sesame
+32,18,27,6.1,84,23,1050,420,Purulia,Red Soil,Sesame
+25,12,20,5.5,80,24,950,380,Purulia,Red Soil,Sesame
+30,15,25,5.9,83,22,1000,400,Purulia,Red Soil,Sesame
+22,10,18,5.3,78,25,900,350,Purulia,Red Soil,Sesame
+26,13,21,5.7,81,23,980,390,Purulia,Red Soil,Sesame
+31,16,24,6,84,23,1050,410,Purulia,Red Soil,Sesame
+24,11,19,5.4,80,24,950,370,Purulia,Red Soil,Sesame
+29,15,23,5.7,83,22,1000,390,Purulia,Red Soil,Sesame
+21,9,17,5.2,78,25,900,340,Purulia,Red Soil,Sesame
+27,14,22,5.6,81,23,980,400,Purulia,Red Soil,Sesame
+32,18,27,6.2,84,23,1050,420,Purulia,Red Soil,Sesame
+25,12,20,5.5,80,24,950,380,Purulia,Red Soil,Sesame
+30,15,25,6,83,22,1000,400,Purulia,Red Soil,Sesame
+22,10,18,5.3,78,25,900,350,Purulia,Red Soil,Sesame
+26,13,21,5.7,81,23,980,390,Purulia,Red Soil,Sesame
+31,16,24,6,84,23,1050,410,Purulia,Red Soil,Sesame
+24,11,19,5.4,80,24,950,370,Purulia,Red Soil,Sesame
+29,15,23,5.7,83,22,1000,390,Purulia,Red Soil,Sesame
+21,9,17,5.2,78,25,900,340,Purulia,Red Soil,Sesame
+27,14,22,5.6,81,23,980,400,Purulia,Red Soil,Sesame
+32,18,27,6.3,84,23,1050,420,Purulia,Red Soil,Sesame
+25,12,20,5.5,80,24,950,380,Purulia,Red Soil,Sesame
+30,15,25,6.1,83,22,1000,400,Purulia,Red Soil,Sesame
+22,10,18,5.3,78,25,900,350,Purulia,Red Soil,Sesame
+26,13,21,5.7,81,23,980,390,Purulia,Red Soil,Sesame
+31,16,24,6.2,84,23,1050,410,Purulia,Red Soil,Sesame
+24,11,19,5.4,80,24,950,370,Purulia,Red Soil,Sesame
+29,15,23,5.7,83,22,1000,390,Purulia,Red Soil,Sesame
+21,9,17,5.2,78,25,900,340,Purulia,Red Soil,Sesame
+27,14,22,5.6,81,23,980,400,Purulia,Red Soil,Sesame
+32,18,27,6.3,84,23,1050,420,Purulia,Red Soil,Sesame
+25,12,20,5.5,80,24,950,380,Purulia,Red Soil,Sesame
+30,15,25,6.1,83,22,1000,400,Purulia,Red Soil,Sesame
+22,10,18,5.3,78,25,900,350,Purulia,Red Soil,Sesame
+26,13,21,5.7,81,23,980,390,Purulia,Red Soil,Sesame
+31,16,24,6.2,84,23,1050,410,Purulia,Red Soil,Sesame
+24,11,19,5.4,80,24,950,370,Purulia,Red Soil,Sesame
+29,15,23,5.7,83,22,1000,390,Purulia,Red Soil,Sesame
+21,9,17,5.2,78,25,900,340,Purulia,Red Soil,Sesame
+45,22,32,5.8,82,28,800,700,Purulia,Red & Laterite Soil,Sesame
+50,25,35,5.8,82,28,810,750,Purulia,Red & Laterite Soil,Sesame
+42,20,30,5.8,82,28,820,680,Purulia,Red & Laterite Soil,Sesame
+48,24,34,5.8,82,28,825,720,Purulia,Red & Laterite Soil,Sesame
+40,18,28,5.8,82,28,815,670,Purulia,Red & Laterite Soil,Sesame
+44,21,31,5.8,82,28,801,710,Purulia,Red & Laterite Soil,Sesame
+49,26,36,5.8,82,28,800,760,Purulia,Red & Laterite Soil,Sesame
+41,19,29,5.8,82,28,800,690,Purulia,Red & Laterite Soil,Sesame
+46,23,33,5.8,82,28,800,730,Purulia,Red & Laterite Soil,Sesame
+38,17,27,5.8,82,28,806,660,Purulia,Red & Laterite Soil,Sesame
+43,20,30,5.8,82,28,800,700,Purulia,Red & Laterite Soil,Sesame
+48,25,35,5.8,82,28,808,750,Purulia,Red & Laterite Soil,Sesame
+40,18,28,5.8,82,28,800,680,Purulia,Red & Laterite Soil,Sesame
+45,22,32,5.8,82,28,800,720,Purulia,Red & Laterite Soil,Sesame
+50,25,35,5.8,82,28,870,770,Purulia,Red & Laterite Soil,Sesame
+42,20,30,5.8,82,28,800,700,Purulia,Red & Laterite Soil,Sesame
+47,24,34,5.8,82,28,800,740,Purulia,Red & Laterite Soil,Sesame
+39,17,27,5.8,82,28,860,670,Purulia,Red & Laterite Soil,Sesame
+44,21,31,5.8,82,28,800,710,Purulia,Red & Laterite Soil,Sesame
+49,26,36,5.8,82,28,800,760,Purulia,Red & Laterite Soil,Sesame
+41,19,29,5.8,82,28,800,690,Purulia,Red & Laterite Soil,Sesame
+46,23,33,5.8,82,28,805,730,Purulia,Red & Laterite Soil,Sesame
+38,17,27,5.8,82,28,800,660,Purulia,Red & Laterite Soil,Sesame
+43,20,30,5.8,82,28,890,700,Purulia,Red & Laterite Soil,Sesame
+48,25,35,5.8,82,28,800,750,Purulia,Red & Laterite Soil,Sesame
+40,18,28,5.8,82,28,800,680,Purulia,Red & Laterite Soil,Sesame
+45,22,32,5.8,82,28,800,720,Purulia,Red & Laterite Soil,Sesame
+50,25,35,5.8,82,28,800,770,Purulia,Red & Laterite Soil,Sesame
+42,20,30,5.8,82,28,800,700,Purulia,Red & Laterite Soil,Sesame
+47,24,34,5.8,82,28,800,740,Purulia,Red & Laterite Soil,Sesame
+39,17,27,5.8,82,28,800,670,Purulia,Red & Laterite Soil,Sesame
+44,21,31,5.8,82,28,800,710,Purulia,Red & Laterite Soil,Sesame
+49,26,36,5.8,82,28,800,760,Purulia,Red & Laterite Soil,Sesame
+41,19,29,5.8,82,28,800,690,Purulia,Red & Laterite Soil,Sesame
+46,23,33,5.8,82,28,800,730,Purulia,Red & Laterite Soil,Sesame
+38,17,27,5.8,82,28,800,660,Purulia,Red & Laterite Soil,Sesame
+43,20,30,5.8,82,28,800,700,Purulia,Red & Laterite Soil,Sesame
+48,25,35,5.8,82,28,800,750,Purulia,Red & Laterite Soil,Sesame
+40,18,28,5.8,82,28,800,680,Purulia,Red & Laterite Soil,Sesame
+45,22,32,5.8,82,28,800,720,Purulia,Red & Laterite Soil,Sesame
+50,25,35,5.8,82,28,800,770,Purulia,Red & Laterite Soil,Sesame
+42,20,30,5.8,82,28,800,700,Purulia,Red & Laterite Soil,Sesame
+47,24,34,5.8,82,28,800,740,Purulia,Red & Laterite Soil,Sesame
+39,17,27,5.8,82,28,800,670,Purulia,Red & Laterite Soil,Sesame
+44,21,31,5.8,82,28,800,710,Purulia,Red & Laterite Soil,Sesame
+49,26,36,5.8,82,28,800,760,Purulia,Red & Laterite Soil,Sesame
+41,19,29,5.8,82,28,800,690,Purulia,Red & Laterite Soil,Sesame
+46,23,33,5.8,82,28,800,730,Purulia,Red & Laterite Soil,Sesame
+38,17,27,5.8,82,28,800,660,Purulia,Red & Laterite Soil,Sesame
+43,20,30,5.8,82,28,800,700,Purulia,Red & Laterite Soil,Sesame
+48,25,35,5.8,82,28,800,750,Purulia,Red & Laterite Soil,Sesame
+40,18,28,5.8,82,28,800,680,Purulia,Red & Laterite Soil,Sesame
+45,22,32,5.8,82,28,800,720,Purulia,Red & Laterite Soil,Sesame
+50,25,35,5.8,82,28,800,770,Purulia,Red & Laterite Soil,Sesame
+42,20,30,5.8,82,28,800,700,Purulia,Red & Laterite Soil,Sesame
+47,24,34,5.8,82,28,800,740,Purulia,Red & Laterite Soil,Sesame
+39,17,27,5.8,82,28,800,670,Purulia,Red & Laterite Soil,Sesame
+44,21,31,5.8,82,28,800,710,Purulia,Red & Laterite Soil,Sesame
+49,26,36,5.8,82,28,800,760,Purulia,Red & Laterite Soil,Sesame
+41,19,29,5.8,82,28,800,690,Purulia,Red & Laterite Soil,Sesame
+46,23,33,5.8,82,28,800,730,Purulia,Red & Laterite Soil,Sesame
+38,17,27,5.8,82,28,800,660,Purulia,Red & Laterite Soil,Sesame
+43,20,30,5.8,82,28,830,700,Purulia,Red & Laterite Soil,Sesame
+48,25,35,5.8,82,28,800,750,Purulia,Red & Laterite Soil,Sesame
+40,18,28,5.8,82,28,800,680,Purulia,Red & Laterite Soil,Sesame
+45,22,32,5.8,82,28,800,720,Purulia,Red & Laterite Soil,Sesame
+50,25,35,5.8,82,28,800,770,Purulia,Red & Laterite Soil,Sesame
+42,20,30,5.8,82,28,800,700,Purulia,Red & Laterite Soil,Sesame
+47,24,34,5.8,82,28,869,740,Purulia,Red & Laterite Soil,Sesame
+39,17,27,5.8,82,28,800,670,Purulia,Red & Laterite Soil,Sesame
+44,21,31,5.8,82,28,800,710,Purulia,Red & Laterite Soil,Sesame
+49,26,36,5.8,82,28,800,760,Purulia,Red & Laterite Soil,Sesame
+41,19,29,5.8,82,28,800,690,Purulia,Red & Laterite Soil,Sesame
+46,23,33,5.8,82,28,811,730,Purulia,Red & Laterite Soil,Sesame
+38,17,27,5.8,82,28,800,660,Purulia,Red & Laterite Soil,Sesame
+43,20,30,5.8,82,28,814,700,Purulia,Red & Laterite Soil,Sesame
+48,25,35,5.8,82,28,800,750,Purulia,Red & Laterite Soil,Sesame
+40,18,28,5.8,82,28,800,680,Purulia,Red & Laterite Soil,Sesame
+45,22,32,5.8,82,28,800,720,Purulia,Red & Laterite Soil,Sesame
+50,25,35,5.8,82,28,800,770,Purulia,Red & Laterite Soil,Sesame
+42,20,30,5.8,82,28,800,700,Purulia,Red & Laterite Soil,Sesame
+47,24,34,5.8,82,28,800,740,Purulia,Red & Laterite Soil,Sesame
+39,17,27,5.8,82,28,800,670,Purulia,Red & Laterite Soil,Sesame
+44,21,31,5.8,82,28,800,710,Purulia,Red & Laterite Soil,Sesame
+49,26,36,5.8,82,28,800,760,Purulia,Red & Laterite Soil,Sesame
+41,19,29,5.8,82,28,800,690,Purulia,Red & Laterite Soil,Sesame
+46,23,33,5.8,82,28,800,730,Purulia,Red & Laterite Soil,Sesame
+38,17,27,5.8,82,28,800,660,Purulia,Red & Laterite Soil,Sesame
+43,20,30,5.8,82,28,800,700,Purulia,Red & Laterite Soil,Sesame
+48,25,35,5.8,82,28,800,750,Purulia,Red & Laterite Soil,Sesame
+40,18,28,5.8,82,28,800,680,Purulia,Red & Laterite Soil,Sesame
+45,22,32,5.8,82,28,800,720,Purulia,Red & Laterite Soil,Sesame
+50,25,35,5.8,82,28,800,770,Purulia,Red & Laterite Soil,Sesame
+42,20,30,5.8,82,28,800,700,Purulia,Red & Laterite Soil,Sesame
+47,24,34,5.8,82,28,800,740,Purulia,Red & Laterite Soil,Sesame
+39,17,27,5.8,82,28,800,670,Purulia,Red & Laterite Soil,Sesame
+44,21,31,5.8,82,28,800,710,Purulia,Red & Laterite Soil,Sesame
+49,26,36,5.8,82,28,800,760,Purulia,Red & Laterite Soil,Sesame
+41,19,29,5.8,82,28,800,690,Purulia,Red & Laterite Soil,Sesame
+46,23,33,5.8,82,28,855,730,Purulia,Red & Laterite Soil,Sesame
+38,17,27,5.8,82,28,800,660,Purulia,Red & Laterite Soil,Sesame
+43,20,30,5.8,82,28,800,700,Purulia,Red & Laterite Soil,Sesame
+48,25,35,5.8,82,28,864,750,Purulia,Red & Laterite Soil,Sesame
+40,18,28,5.8,82,28,800,680,Purulia,Red & Laterite Soil,Sesame
+45,22,32,5.8,82,28,800,720,Purulia,Red & Laterite Soil,Sesame
+50,25,35,5.8,82,28,843,770,Purulia,Red & Laterite Soil,Sesame
+42,20,30,5.8,82,28,800,700,Purulia,Red & Laterite Soil,Sesame
+47,24,34,5.8,82,28,800,740,Purulia,Red & Laterite Soil,Sesame
+39,17,27,5.8,82,28,854,670,Purulia,Red & Laterite Soil,Sesame
+44,21,31,5.8,82,28,800,710,Purulia,Red & Laterite Soil,Sesame
+49,26,36,5.8,82,28,800,760,Purulia,Red & Laterite Soil,Sesame
+41,19,29,5.8,82,28,800,690,Purulia,Red & Laterite Soil,Sesame
+32,18,27,5.7,82,24,1050,500,Purulia,Red Soil,Sunflower
+37,23,33,6,84,26,1150,550,Purulia,Red Soil,Sunflower
+30,15,25,5.6,80,25,1000,480,Purulia,Red Soil,Sunflower
+35,20,30,5.9,83,23,1100,520,Purulia,Red Soil,Sunflower
+28,13,23,5.5,79,22,950,450,Purulia,Red Soil,Sunflower
+31,17,26,5.8,81,24,1030,490,Purulia,Red Soil,Sunflower
+36,22,32,5.7,82,24,1080,530,Purulia,Red Soil,Sunflower
+29,14,24,5.6,80,23,970,460,Purulia,Red Soil,Sunflower
+34,19,29,5.9,83,22,1070,500,Purulia,Red Soil,Sunflower
+27,12,22,5.5,79,21,930,440,Purulia,Red Soil,Sunflower
+33,18,28,5.7,82,24,1060,510,Purulia,Red Soil,Sunflower
+38,23,34,6,84,26,1160,560,Purulia,Red Soil,Sunflower
+31,17,26,5.8,81,24,1030,490,Purulia,Red Soil,Sunflower
+36,22,32,5.7,82,24,1080,530,Purulia,Red Soil,Sunflower
+29,14,24,5.6,80,23,970,460,Purulia,Red Soil,Sunflower
+34,19,29,5.9,83,22,1070,500,Purulia,Red Soil,Sunflower
+27,12,22,5.5,79,21,930,440,Purulia,Red Soil,Sunflower
+32,18,27,5.7,82,24,1050,500,Purulia,Red Soil,Sunflower
+37,23,33,6,84,26,1150,550,Purulia,Red Soil,Sunflower
+30,15,25,5.6,80,25,1000,480,Purulia,Red Soil,Sunflower
+35,20,30,5.9,83,23,1100,520,Purulia,Red Soil,Sunflower
+28,13,23,5.5,79,22,950,450,Purulia,Red Soil,Sunflower
+31,17,26,5.8,81,24,1030,490,Purulia,Red Soil,Sunflower
+36,22,32,5.7,82,24,1080,530,Purulia,Red Soil,Sunflower
+29,14,24,5.6,80,23,970,460,Purulia,Red Soil,Sunflower
+34,19,29,5.9,83,22,1070,500,Purulia,Red Soil,Sunflower
+27,12,22,5.5,79,21,930,440,Purulia,Red Soil,Sunflower
+33,18,28,5.7,82,24,1060,510,Purulia,Red Soil,Sunflower
+38,23,34,6,84,26,1160,560,Purulia,Red Soil,Sunflower
+31,17,26,5.8,81,24,1030,490,Purulia,Red Soil,Sunflower
+36,22,32,5.7,82,24,1080,530,Purulia,Red Soil,Sunflower
+29,14,24,5.6,80,23,970,460,Purulia,Red Soil,Sunflower
+34,19,29,5.9,83,22,1070,500,Purulia,Red Soil,Sunflower
+27,12,22,5.5,79,21,930,440,Purulia,Red Soil,Sunflower
+32,18,27,5.7,82,24,1050,500,Purulia,Red Soil,Sunflower
+37,23,33,6,84,26,1150,550,Purulia,Red Soil,Sunflower
+30,15,25,5.6,80,25,1000,480,Purulia,Red Soil,Sunflower
+35,20,30,5.9,83,23,1100,520,Purulia,Red Soil,Sunflower
+28,13,23,5.5,79,22,950,450,Purulia,Red Soil,Sunflower
+31,17,26,5.8,81,24,1030,490,Purulia,Red Soil,Sunflower
+36,22,32,5.7,82,24,1080,530,Purulia,Red Soil,Sunflower
+29,14,24,5.6,80,23,970,460,Purulia,Red Soil,Sunflower
+34,19,29,5.9,83,22,1070,500,Purulia,Red Soil,Sunflower
+27,12,22,5.5,79,21,930,440,Purulia,Red Soil,Sunflower
+33,18,28,5.7,82,24,1060,510,Purulia,Red Soil,Sunflower
+38,23,34,6,84,26,1160,560,Purulia,Red Soil,Sunflower
+31,17,26,5.8,81,24,1030,490,Purulia,Red Soil,Sunflower
+45,25,35,5.8,82,28,1800,800,Purulia,Red & Laterite Soil,Sunflower
+50,30,40,5.8,82,28,1800,850,Purulia,Red & Laterite Soil,Sunflower
+42,22,32,5.8,82,28,1800,780,Purulia,Red & Laterite Soil,Sunflower
+48,28,38,5.8,82,28,1800,820,Purulia,Red & Laterite Soil,Sunflower
+40,20,30,5.8,82,28,1800,770,Purulia,Red & Laterite Soil,Sunflower
+44,24,34,5.8,82,28,1800,810,Purulia,Red & Laterite Soil,Sunflower
+49,29,39,5.8,82,28,1800,860,Purulia,Red & Laterite Soil,Sunflower
+41,21,31,5.8,82,28,1800,790,Purulia,Red & Laterite Soil,Sunflower
+46,26,36,5.8,82,28,1800,830,Purulia,Red & Laterite Soil,Sunflower
+38,18,28,5.8,82,28,1800,760,Purulia,Red & Laterite Soil,Sunflower
+43,23,33,5.8,82,28,1800,800,Purulia,Red & Laterite Soil,Sunflower
+48,28,38,5.8,82,28,1800,850,Purulia,Red & Laterite Soil,Sunflower
+40,20,30,5.8,82,28,1800,780,Purulia,Red & Laterite Soil,Sunflower
+45,25,35,5.8,82,28,1800,820,Purulia,Red & Laterite Soil,Sunflower
+50,30,40,5.8,82,28,1800,870,Purulia,Red & Laterite Soil,Sunflower
+42,22,32,5.8,82,28,1800,800,Purulia,Red & Laterite Soil,Sunflower
+47,27,37,5.8,82,28,1800,840,Purulia,Red & Laterite Soil,Sunflower
+39,19,29,5.8,82,28,1800,770,Purulia,Red & Laterite Soil,Sunflower
+44,24,34,5.8,82,28,1800,810,Purulia,Red & Laterite Soil,Sunflower
+49,29,39,5.8,82,28,1800,860,Purulia,Red & Laterite Soil,Sunflower
+41,21,31,5.8,82,28,1800,790,Purulia,Red & Laterite Soil,Sunflower
+46,26,36,5.8,82,28,1800,830,Purulia,Red & Laterite Soil,Sunflower
+38,18,28,5.8,82,28,1800,760,Purulia,Red & Laterite Soil,Sunflower
+43,23,33,5.8,82,28,1800,800,Purulia,Red & Laterite Soil,Sunflower
+48,28,38,5.8,82,28,1800,850,Purulia,Red & Laterite Soil,Sunflower
+40,20,30,5.8,82,28,1800,780,Purulia,Red & Laterite Soil,Sunflower
+45,25,35,5.8,82,28,1800,820,Purulia,Red & Laterite Soil,Sunflower
+50,30,40,5.8,82,28,1800,870,Purulia,Red & Laterite Soil,Sunflower
+42,22,32,5.8,82,28,1800,800,Purulia,Red & Laterite Soil,Sunflower
+47,27,37,5.8,82,28,1800,840,Purulia,Red & Laterite Soil,Sunflower
+39,19,29,5.8,82,28,1800,770,Purulia,Red & Laterite Soil,Sunflower
+44,24,34,5.8,82,28,1800,810,Purulia,Red & Laterite Soil,Sunflower
+49,29,39,5.8,82,28,1800,860,Purulia,Red & Laterite Soil,Sunflower
+41,21,31,5.8,82,28,1800,790,Purulia,Red & Laterite Soil,Sunflower
+46,26,36,5.8,82,28,1800,830,Purulia,Red & Laterite Soil,Sunflower
+38,18,28,5.8,82,28,1800,760,Purulia,Red & Laterite Soil,Sunflower
+43,23,33,5.8,82,28,1800,800,Purulia,Red & Laterite Soil,Sunflower
+48,28,38,5.8,82,28,1800,850,Purulia,Red & Laterite Soil,Sunflower
+40,20,30,5.8,78,26,800,600,Purulia,Red Soil,Cotton
+45,25,35,6,80,28,800,650,Purulia,Red Soil,Cotton
+38,18,28,5.6,76,25,850,580,Purulia,Red Soil,Cotton
+42,22,32,5.9,79,25,850,620,Purulia,Red Soil,Cotton
+37,17,27,5.5,75,24,800,550,Purulia,Red Soil,Cotton
+41,19,29,5.7,77,26,780,590,Purulia,Red Soil,Cotton
+46,26,36,6.1,81,28,780,670,Purulia,Red Soil,Cotton
+39,16,26,5.4,74,23,730,540,Purulia,Red Soil,Cotton
+43,21,31,6,79,27,730,630,Purulia,Red Soil,Cotton
+36,15,25,6.3,73,22,780,510,Purulia,Red Soil,Cotton
+40,20,30,5.8,78,26,700,600,Purulia,Red Soil,Cotton
+45,25,35,6,80,28,800,650,Purulia,Red Soil,Cotton
+38,18,28,5.6,76,25,750,580,Purulia,Red Soil,Cotton
+42,22,32,5.9,79,25,750,620,Purulia,Red Soil,Cotton
+37,17,27,6.5,75,24,800,550,Purulia,Red Soil,Cotton
+41,19,29,5.7,77,26,780,590,Purulia,Red Soil,Cotton
+46,26,36,6.1,81,28,780,670,Purulia,Red Soil,Cotton
+39,16,26,6.4,74,23,730,540,Purulia,Red Soil,Cotton
+43,21,31,6,79,27,730,630,Purulia,Red Soil,Cotton
+36,15,25,5.3,73,22,780,510,Purulia,Red Soil,Cotton
+40,20,30,5.8,78,26,800,600,Purulia,Red Soil,Cotton
+45,25,35,6,80,28,800,650,Purulia,Red Soil,Cotton
+38,18,28,6.6,76,25,800,580,Purulia,Red Soil,Cotton
+42,22,32,5.9,79,25,800,620,Purulia,Red Soil,Cotton
+37,17,27,6.5,75,24,800,550,Purulia,Red Soil,Cotton
+41,19,29,6.7,77,26,800,590,Purulia,Red Soil,Cotton
+46,26,36,6.1,81,28,800,670,Purulia,Red Soil,Cotton
+39,16,26,6.4,74,23,800,540,Purulia,Red Soil,Cotton
+43,21,31,6,79,27,800,630,Purulia,Red Soil,Cotton
+36,15,25,6.3,73,22,800,510,Purulia,Red Soil,Cotton
+40,20,30,5.8,78,26,800,600,Purulia,Red Soil,Cotton
+45,25,35,6,80,28,800,650,Purulia,Red Soil,Cotton
+38,18,28,5.6,76,25,800,580,Purulia,Red Soil,Cotton
+42,22,32,5.9,79,25,800,620,Purulia,Red Soil,Cotton
+37,17,27,5.5,75,24,800,550,Purulia,Red Soil,Cotton
+41,19,29,5.7,77,26,800,590,Purulia,Red Soil,Cotton
+46,26,36,6.1,81,28,800,670,Purulia,Red Soil,Cotton
+39,16,26,5.4,74,23,800,540,Purulia,Red Soil,Cotton
+40,20,30,5.8,78,26,800,600,Purulia,Red Soil,Cotton
+45,25,35,6,80,28,800,650,Purulia,Red Soil,Cotton
+38,18,28,5.6,76,25,800,580,Purulia,Red Soil,Cotton
+42,22,32,5.9,79,25,800,620,Purulia,Red Soil,Cotton
+37,17,27,5.5,75,24,800,550,Purulia,Red Soil,Cotton
+40,20,30,5.8,78,26,800,600,Purulia,Red Soil,Cotton
+45,25,35,6,80,28,800,650,Purulia,Red Soil,Cotton
+38,18,28,5.6,76,25,800,580,Purulia,Red Soil,Cotton
+50,28,38,5.8,82,28,800,900,Purulia,Red & Laterite Soil,Cotton
+55,32,42,6,82,28,700,950,Purulia,Red & Laterite Soil,Cotton
+48,24,34,7.5,82,28,800,880,Purulia,Red & Laterite Soil,Cotton
+52,30,40,7,82,28,680,920,Purulia,Red & Laterite Soil,Cotton
+45,22,32,6.8,82,28,690,850,Purulia,Red & Laterite Soil,Cotton
+51,29,39,6.5,82,28,700,910,Purulia,Red & Laterite Soil,Cotton
+56,33,43,6.6,82,28,750,960,Purulia,Red & Laterite Soil,Cotton
+49,25,35,7.1,82,28,770,890,Purulia,Red & Laterite Soil,Cotton
+53,31,41,5.8,82,28,780,930,Purulia,Red & Laterite Soil,Cotton
+46,23,33,5.8,82,28,790,860,Purulia,Red & Laterite Soil,Cotton
+50,28,38,5.8,82,28,800,900,Purulia,Red & Laterite Soil,Cotton
+55,32,42,5.8,82,28,800,950,Purulia,Red & Laterite Soil,Cotton
+48,24,34,6.9,82,28,800,880,Purulia,Red & Laterite Soil,Cotton
+52,30,40,6.2,82,28,800,920,Purulia,Red & Laterite Soil,Cotton
+45,22,32,5.8,82,28,800,850,Purulia,Red & Laterite Soil,Cotton
+51,29,39,5.8,82,28,800,910,Purulia,Red & Laterite Soil,Cotton
+56,33,43,6.5,82,28,800,960,Purulia,Red & Laterite Soil,Cotton
+49,25,35,5.8,82,28,800,890,Purulia,Red & Laterite Soil,Cotton
+53,31,41,6.7,82,28,800,930,Purulia,Red & Laterite Soil,Cotton
+46,23,33,5.8,82,28,800,860,Purulia,Red & Laterite Soil,Cotton
+50,28,38,5.8,82,28,800,900,Purulia,Red & Laterite Soil,Cotton
+55,32,42,5.8,82,28,800,950,Purulia,Red & Laterite Soil,Cotton
+48,24,34,5.8,82,28,800,880,Purulia,Red & Laterite Soil,Cotton
+52,30,40,7.3,82,28,800,920,Purulia,Red & Laterite Soil,Cotton
+45,22,32,5.8,82,28,800,850,Purulia,Red & Laterite Soil,Cotton
+51,29,39,6.3,82,28,800,910,Purulia,Red & Laterite Soil,Cotton
+56,33,43,6.4,82,28,800,960,Purulia,Red & Laterite Soil,Cotton
+49,25,35,5.8,82,28,800,890,Purulia,Red & Laterite Soil,Cotton
+53,31,41,6.4,82,28,800,930,Purulia,Red & Laterite Soil,Cotton
+46,23,33,5.8,82,28,800,860,Purulia,Red & Laterite Soil,Cotton
+50,28,38,6.8,82,28,800,900,Purulia,Red & Laterite Soil,Cotton
+55,32,42,5.8,82,28,800,950,Purulia,Red & Laterite Soil,Cotton
+48,24,34,5.8,82,28,800,880,Purulia,Red & Laterite Soil,Cotton
+52,30,40,6.3,82,28,800,920,Purulia,Red & Laterite Soil,Cotton
+45,22,32,6.2,82,28,800,850,Purulia,Red & Laterite Soil,Cotton
+51,29,39,6.1,82,28,800,910,Purulia,Red & Laterite Soil,Cotton
+56,33,43,5.8,82,28,800,960,Purulia,Red & Laterite Soil,Cotton
+49,25,35,6.9,82,28,800,890,Purulia,Red & Laterite Soil,Cotton
+53,31,41,5.8,82,28,800,930,Purulia,Red & Laterite Soil,Cotton
+46,23,33,5.8,82,28,800,860,Purulia,Red & Laterite Soil,Cotton
+100,50,70,5.9,81,23,1750,2050,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+105,52,72,5.6,85,23,1800,2100,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+98,48,66,6,79,27,1700,2000,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+110,55,75,5.7,82,24,1700,1900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+92,46,62,5.9,77,24,1550,1950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+99,49,67,5.8,80,25,1725,2025,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+104,51,71,5.7,84,26,1775,2075,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+97,47,65,5.9,78,26,1675,1975,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+109,54,74,5.8,81,23,1675,1875,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+91,45,61,6,76,27,1525,1925,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+96,48,66,5.9,79,24,1700,2000,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+101,53,73,5.6,83,24,1750,2050,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+94,47,63,5.8,78,25,1600,2000,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+103,50,69,5.7,82,25,1700,1950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+95,46,64,5.9,77,23,1625,1975,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+102,49,68,5.8,80,26,1725,2025,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+93,45,61,6,76,27,1550,1950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+98,48,66,5.9,79,24,1700,2000,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+103,50,69,5.7,82,25,1700,1950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+96,48,66,5.9,79,24,1700,2000,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+101,53,73,5.6,83,24,1750,2050,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+94,47,63,5.8,78,25,1600,2000,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+99,49,67,5.8,80,25,1725,2025,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+104,51,71,5.7,84,26,1775,2075,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+97,47,65,5.9,78,26,1675,1975,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+102,49,68,5.8,80,26,1725,2025,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+95,46,64,5.9,77,23,1625,1975,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+100,50,70,5.9,81,23,1750,2050,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+105,52,72,5.6,85,23,1800,2100,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+98,48,66,6,79,27,1700,2000,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+110,55,75,5.7,82,24,1700,1900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Rice
+80,40,60,6.1,79,27,1000,1800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+85,42,55,6,76,25,1100,1900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+78,38,58,6.2,80,26,1250,1750,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+82,40,62,6.3,78,28,1650,1700,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+81,39,61,6.35,78.5,27.5,1625,1675,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+79,38.5,59,6.15,79.2,27.3,1610,1780,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+84,41.5,56,6.05,76.5,25.5,1525,1875,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+77,37.5,57,6.25,80.2,26.7,1575,1725,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+81,39.8,61.2,6.3,78.8,28.2,1660,1710,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+83,40.3,62.8,6.1,79.5,27.8,1235,1685,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+80,40,60,6.1,79,27,1100,1800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+85,42,55,6,76,25,1000,1900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+78,38,58,6.2,80,26,1250,1750,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+82,40,62,6.3,78,28,950,1700,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+81,39,61,6.35,78.5,27.5,925,1675,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+79,38.5,59,6.15,79.2,27.3,910,1780,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+84,41.5,56,6.05,76.5,25.5,925,1875,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+77,37.5,57,6.25,80.2,26.7,975,1725,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+81,39.8,61.2,6.3,78.8,28.2,960,1710,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+83,40.3,62.8,6.1,79.5,27.8,935,1685,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+80,40,60,6.1,79,27,1100,1800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+85,42,55,6,76,25,900,1900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+78,38,58,6.2,80,26,950,1750,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+82,40,62,6.3,78,28,990,1700,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+81,39,61,6.35,78.5,27.5,1225,1675,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+79,38.5,59,6.15,79.2,27.3,1110,1780,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+84,41.5,56,6.05,76.5,25.5,1125,1875,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+77,37.5,57,6.25,80.2,26.7,1275,1725,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+81,39.8,61.2,6.3,78.8,28.2,1160,1710,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+83,40.3,62.8,6.1,79.5,27.8,1135,1685,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Maize
+90,45,65,6.1,79,27,550,2000,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+95,48,60,6,82,25,600,2100,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+88,42,58,6.2,78,26,500,1900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+92,46,62,6.3,80,28,650,1950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+85,40,60,6,77,24,450,1800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+91,44,64,6.15,79.5,27.5,575,2050,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+96,49,59,6.05,82.5,25.5,625,2150,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+89,43,57,6.25,78.2,26.7,525,1950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+93,47,61.2,6.3,80.8,28.2,670,2000,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+86,41,59.8,6.1,77.5,27.8,475,1850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+90,45,65,6.1,79,27,550,2000,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+95,48,60,6,82,25,600,2100,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+88,42,58,6.2,78,26,500,1900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+92,46,62,6.3,80,28,650,1950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+85,40,60,6,77,24,450,1800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+91,44,64,6.15,79.5,27.5,575,2050,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+96,49,59,6.05,82.5,25.5,625,2150,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+89,43,57,6.25,78.2,26.7,800,1950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Wheat,Wheat
+93,47,61.2,6.3,80.8,28.2,770,2000,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Wheat
+86,41,59.8,6.1,77.5,27.8,775,1850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Wheat,Wheat
+90,45,65,6.1,79,27,550,2000,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Wheat,Wheat
+95,48,60,6,82,25,600,2100,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Wheat,Wheat
+88,42,58,6.2,78,26,500,1900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Wheat,Wheat
+92,46,62,6.3,80,28,650,1950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Wheat,Wheat
+85,40,60,6,77,24,450,1800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Wheat,Wheat
+91,44,64,6.15,79.5,27.5,575,2050,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Wheat,Wheat
+96,49,59,6.05,82.5,25.5,625,2150,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Wheat,Wheat
+89,43,57,6.25,78.2,26.7,525,1950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Wheat,Wheat
+93,47,61.2,6.3,80.8,28.2,670,2000,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Wheat,Wheat
+86,41,59.8,6.1,77.5,27.8,475,1850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Wheat,Wheat
+50,25,40,6.5,85,23,1200,900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+55,28,43,6.6,86,27,1250,950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+48,22,38,6.4,83,26,1100,850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+52,30,45,6.7,88,24,1300,800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+45,20,35,6.9,89,24,1150,950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+51,26,42,6.3,84,25,1225,925,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+56,29,45,6.8,87,28,1275,975,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+49,23,40,6.6,82,27,1125,875,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+53,31,47,6.9,90,25,1325,825,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+46,21,37,6.7,91,25,1175,975,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+50,25,40,6.5,85,23,1200,900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+55,28,43,6.6,86,27,1250,950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+48,22,38,6.4,83,26,1100,850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+52,30,45,6.7,88,24,1300,800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+45,20,35,6.9,89,24,1150,950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+51,26,42,6.3,84,25,1225,925,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+56,29,45,6.8,87,28,1275,975,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+49,23,40,6.6,82,27,1125,875,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+53,31,47,6.9,90,25,1325,825,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+46,21,37,6.7,91,25,1175,975,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+50,25,40,6.5,85,23,1200,900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+55,28,43,6.6,86,27,1250,950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+48,22,38,6.4,83,26,1100,850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+52,30,45,6.7,88,24,1300,800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+45,20,35,6.9,89,24,1150,950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+51,26,42,6.3,84,25,1225,925,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+56,29,45,6.8,87,28,1275,975,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+49,23,40,6.6,82,27,1125,875,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+53,31,47,6.9,90,25,1325,825,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+46,21,37,6.7,91,25,1175,975,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+50,25,40,6.5,85,23,1200,900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+55,28,43,6.6,86,27,1250,950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+48,22,38,6.4,83,26,1100,850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+52,30,45,6.7,88,24,1300,800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+45,20,35,6.9,89,24,1150,950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+51,26,42,6.3,84,25,1225,925,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+56,29,45,6.8,87,28,1275,975,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+49,23,40,6.6,82,27,1125,875,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+53,31,47,6.9,90,25,1325,825,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+46,21,37,6.7,91,25,1175,975,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+50,25,40,6.5,85,23,1200,900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+55,28,43,6.6,86,27,1250,950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+48,22,38,6.4,83,26,1100,850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+52,30,45,6.7,88,24,1300,800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+45,20,35,6.9,89,24,1150,950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+51,26,42,6.3,84,25,1225,925,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+56,29,45,6.8,87,28,1275,975,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+49,23,40,6.6,82,27,1125,875,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+53,31,47,6.9,90,25,1325,825,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+46,21,37,6.7,91,25,1175,975,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+50,25,40,6.5,85,23,1200,900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+55,28,43,6.6,86,27,1250,950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+48,22,38,6.4,83,26,1100,850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+52,30,45,6.7,88,24,1300,800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+45,20,35,6.9,89,24,1150,950,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+51,26,42,6.3,84,25,1225,925,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+56,29,45,6.8,87,28,1275,975,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Mustard
+40,20,35,6.9,88,24,850,800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+45,25,40,6.5,85,23,900,850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+38,18,32,7.1,90,25,800,750,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+42,22,38,6.4,83,26,880,900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+35,15,30,7.3,91,24,750,700,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+41,21,36,6.7,87,25,865,825,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+46,26,41,6.3,84,27,920,875,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+39,19,33,7,89,26,830,780,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+43,23,39,6.6,82,28,890,925,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+36,16,31,7.2,92,25,770,725,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+40,20,35,6.9,88,24,850,800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+45,25,40,6.5,85,23,900,850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Pigeon Pea
+38,18,32,7.1,90,25,800,750,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+42,22,38,6.4,83,26,880,900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+35,15,30,7.3,91,24,750,700,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+41,21,36,6.7,87,25,865,825,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+46,26,41,6.3,84,27,920,875,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+39,19,33,7,89,26,830,780,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+43,23,39,6.6,82,28,890,925,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+36,16,31,7.2,92,25,770,725,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+40,20,35,6.9,88,24,850,800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+45,25,40,6.5,85,23,900,850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+38,18,32,7.1,90,25,800,750,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+42,22,38,6.4,83,26,880,900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+35,15,30,7.3,91,24,750,700,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+41,21,36,6.7,87,25,865,825,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+46,26,41,6.3,84,27,920,875,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+39,19,33,7,89,26,830,780,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+43,23,39,6.6,82,28,890,925,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+36,16,31,7.2,92,25,770,725,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+40,20,35,6.9,88,24,850,800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+45,25,40,6.5,85,23,900,850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+38,18,32,7.1,90,25,800,750,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+42,22,38,6.4,83,26,880,900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+35,15,30,7.3,91,24,750,700,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+41,21,36,6.7,87,25,865,825,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+46,26,41,6.3,84,27,920,875,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+39,19,33,7,89,26,830,780,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+43,23,39,6.6,82,28,890,925,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+36,16,31,7.2,92,25,770,725,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+40,20,35,6.9,88,24,850,800,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+45,25,40,6.5,85,23,900,850,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+38,18,32,7.1,90,25,800,750,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+42,22,38,6.4,83,26,880,900,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+35,15,30,7.3,91,24,750,700,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+41,21,36,6.7,87,25,865,825,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+46,26,41,6.3,84,27,920,875,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+39,19,33,7,89,26,830,780,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+43,23,39,6.6,82,28,890,925,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+36,16,31,7.2,92,25,770,725,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Pigeon Pea,Pigeon Pea
+25,10,20,6.5,92,22,600,450,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+28,12,22,6.4,91,21,650,500,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+22,8,18,6.7,93,23,550,400,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+30,15,25,6.2,89,20,700,550,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+20,6,15,6.9,94,24,500,350,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+26,11,21,6.6,90,22,625,475,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+29,13,23,6.3,88,21,675,525,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+23,9,19,6.8,92,23,575,425,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+31,16,26,6.1,87,20,725,575,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+21,7,16,7,93,24,525,375,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+25,10,20,6.5,92,22,600,450,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+28,12,22,6.4,91,21,650,500,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+22,8,18,6.7,93,23,550,400,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+30,15,25,7.2,89,20,700,550,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+20,6,15,6.9,94,24,500,350,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+26,11,21,6,90,22,625,475,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+29,13,23,7.3,88,21,675,525,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+23,9,19,6.8,92,23,575,425,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+31,16,26,7.1,87,20,725,575,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+21,7,16,6.8,93,24,525,375,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+25,10,20,6.5,92,22,600,450,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+28,12,22,6.4,91,21,650,500,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+22,8,18,6.7,93,23,550,400,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+30,15,25,7.2,89,20,700,550,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+20,6,15,5.9,94,24,500,350,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+26,11,21,7,90,22,625,475,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+29,13,23,7.3,88,21,675,525,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+23,9,19,6.8,92,23,575,425,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+31,16,26,7.1,87,20,725,575,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+21,7,16,6.8,93,24,525,375,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+25,10,20,7.1,92,22,600,450,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+28,12,22,7,91,21,650,500,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+22,8,18,6.7,93,23,550,400,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+30,15,25,7.2,89,20,700,550,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+20,6,15,6.9,94,24,500,350,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+26,11,21,6.6,90,22,625,475,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+29,13,23,6.3,88,21,675,525,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Green Gram
+23,9,19,6.8,92,23,575,425,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Green Gram,Green Gram
+31,16,26,7.1,87,20,725,575,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Green Gram,Green Gram
+21,7,16,6.8,93,24,525,375,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Green Gram,Green Gram
+22,10,18,7,93,23,600,400,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+25,12,20,6.7,92,22,650,450,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+20,8,15,6.8,94,24,550,350,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+28,15,25,6.5,91,21,700,500,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+18,6,12,6.2,95,25,500,300,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+23,11,19,6.6,92,23,625,425,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+26,13,22,6.4,91,22,675,475,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+21,9,16,6.9,93,24,575,375,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+29,16,26,7.1,90,21,725,525,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+19,7,13,6.3,96,25,525,325,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+22,10,18,6.8,93,23,600,400,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+25,12,20,6.7,92,22,650,450,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+20,8,15,6,94,24,550,350,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+28,15,25,6.5,91,21,700,500,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+18,6,12,6.2,95,25,500,300,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+23,11,19,7.6,92,23,625,425,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+26,13,22,7.4,91,22,675,475,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+21,9,16,6.9,93,24,575,375,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+29,16,26,7.1,90,21,725,525,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+19,7,13,6.3,96,25,525,325,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+22,10,18,6.8,93,23,600,400,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+25,12,20,6.7,92,22,650,450,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+20,8,15,6,94,24,550,350,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+28,15,25,6.5,91,21,700,500,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+18,6,12,6.2,95,25,500,300,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+23,11,19,6.6,92,23,625,425,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+26,13,22,7.4,91,22,675,475,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+21,9,16,7.9,93,24,575,375,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+29,16,26,7.1,90,21,725,525,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+19,7,13,6.3,96,25,525,325,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+22,10,18,7.8,93,23,600,400,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+25,12,20,6.7,92,22,650,450,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+20,8,15,7,94,24,550,350,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+28,15,25,6.5,91,21,700,500,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+18,6,12,6.2,95,25,500,300,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+23,11,19,6.6,92,23,625,425,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+26,13,22,7.4,91,22,675,475,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+21,9,16,6.9,93,24,575,375,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+29,16,26,7.1,90,21,725,525,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+19,7,13,6.3,96,25,525,325,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil_Black Gram,Black Gram
+22,10,18,6.8,93,23,600,400,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+25,12,20,6.7,92,22,650,450,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+20,8,15,6,94,24,550,350,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+28,15,25,7.5,91,21,700,500,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+18,6,12,6.2,95,25,500,300,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+23,11,19,6.6,92,23,625,425,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+26,13,22,7.4,91,22,675,475,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+21,9,16,6.9,93,24,575,375,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+29,16,26,7.1,90,21,725,525,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
+19,7,13,6.3,96,25,525,325,Uttar Dinajpur (North Dinajpur),Terai Alluvial Soil,Black Gram
