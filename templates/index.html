@@ -78,6 +78,13 @@
         border: 1px solid #cccccc;
         border-radius: 4px;
       }
+      input[type="number"] {
+        width: 94%;
+        margin-bottom: 10px;
+        padding: 10px;
+        border: 1px solid #cccccc;
+        border-radius: 4px;
+      }
 
       select {
         width: 100%;
@@ -214,12 +221,12 @@
         <form id="prediction-form" action="/predict" method="post">
           <h2>Crop and Yield Prediction Form</h2>
           <input type="text" name="N" placeholder="Nitrogen (N)" value="{{ request.form.N if request.form.N }}" required />
-<input type="text" name="P" placeholder="Phosphorus (P)" value="{{ request.form.P if request.form.P }}" required />
-<input type="text" name="K" placeholder="Potassium (K)" value="{{ request.form.K if request.form.K }}" required />
-<input type="text" name="pH" placeholder="Soil pH" value="{{ request.form.pH if request.form.pH }}" />
-<input type="text" name="Humidity" placeholder="Humidity (%)" value="{{ request.form.Humidity if request.form.Humidity }}" />
-<input type="text" name="Temperature" placeholder="Temperature (°C)" value="{{ request.form.Temperature if request.form.Temperature }}" />
-<input type="text" name="Rainfall" placeholder="Rainfall (mm)" value="{{ request.form.Rainfall if request.form.Rainfall }}" />
+          <input type="text" name="P" placeholder="Phosphorus (P)" value="{{ request.form.P if request.form.P }}" required />
+          <input type="text" name="K" placeholder="Potassium (K)" value="{{ request.form.K if request.form.K }}" required />
+          <input type="text" name="pH" placeholder="Soil pH" value="{{ request.form.pH if request.form.pH }}" />
+          <input type="text" name="Humidity" placeholder="Humidity (%)" value="{{ request.form.Humidity if request.form.Humidity }}" />
+          <input type="text" name="Temperature" placeholder="Temperature (°C)" value="{{ request.form.Temperature if request.form.Temperature }}" />
+          <input type="text" name="Rainfall" placeholder="Rainfall (mm)" value="{{ request.form.Rainfall if request.form.Rainfall }}" />
           <!-- <input type="text" name="District" placeholder="District" />
           <input type="text" name="SoilType" placeholder="Soil Type" /> -->
           <select
@@ -251,7 +258,14 @@
         </form>
       </div>
       <div class="result-container">
-        {% if prediction_text %}
+        {% if prediction_text and (not valid) %}
+        <div class="error-message">
+          <h3>Error: Invalid Input!</h3>
+          <p>{{ prediction_text }}</p>
+          <button class="btn-close" onclick="nav()">CLOSE&nbsp;</button> 
+        </div>
+
+        {% elif prediction_text and valid %}
         <div class="resultdiv">
           <h3>Prediction Results:</h3>
           <p>
