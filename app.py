@@ -55,9 +55,9 @@ def predict():
         'P' : (6.0,  100.0),
         'K' : (12.0,  130.0),
         'pH' : (3.8,  9.6),
-        'Humidity' : (32.0,  135.0),
-        'Temperature' : (4.0,  100.0),
-        'Rainfall' : (450.0,  4150.0)
+        'Humidity' : (32.0,  85.0),
+        'Temperature' : (4.0,  45.0),
+        'Rainfall' : (450.0,  4000.0)
     }
 
     # List of fields that should be treated as numerical
