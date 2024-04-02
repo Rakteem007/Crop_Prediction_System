@@ -47,6 +47,18 @@ def home():
 @app.route('/predict', methods=['POST'])
 def predict():
     input_data = request.form.to_dict()
+    
+    # Edit the range here bhai -->
+    # ? CHECK OUT limit-finder.additional.py TO GENERATE THIS :)
+    numerical_field_ranges = {  
+        'N' : (15.0,  160.0),
+        'P' : (6.0,  100.0),
+        'K' : (12.0,  130.0),
+        'pH' : (3.8,  9.6),
+        'Humidity' : (32.0,  135.0),
+        'Temperature' : (4.0,  100.0),
+        'Rainfall' : (450.0,  4150.0)
+    }
 
     # List of fields that should be treated as numerical
     numerical_fields = ['N', 'P', 'K', 'pH', 'Humidity', 'Temperature', 'Rainfall']
@@ -55,9 +67,14 @@ def predict():
     for key in input_data.keys():
         if key in numerical_fields and input_data[key]:
             input_data[key] = float(input_data[key])
+            allowed_range = numerical_field_ranges.get(key)
+            if not allowed_range or not allowed_range[0] <= input_data[key] <= allowed_range[1]:
+                errorMsg = f"There is a abnormality in {key} data field. Please Check it. Our registered range is {allowed_range[0]} to {allowed_range[1]}"
+                return render_template('index.html', prediction_text=errorMsg, valid=False)
+            
 
     top_crops_with_yield = predict_with_adjusted_yield(input_data, top_n=2)
-    return render_template('index.html', prediction_text=top_crops_with_yield)
+    return render_template('index.html', prediction_text=top_crops_with_yield, valid=True)
 
 
 if __name__ == "__main__":
