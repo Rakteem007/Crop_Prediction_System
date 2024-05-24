@@ -189,6 +189,43 @@
           /* Bigger shadow */
         }
       }
+
+      .loader {
+        font-family: Arial, sans-serif;
+        font-size: 24px;
+        font-weight: bold;
+        display: inline-block;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .loader::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(
+          120deg,
+          transparent,
+          rgba(75, 75, 75, 0.8),
+          transparent
+        );
+        animation: shine 2s infinite;
+      }
+
+      @keyframes shine {
+        0% {
+          left: -100%;
+        }
+        50% {
+          left: 100%;
+        }
+        100% {
+          left: 100%;
+        }
+      }
     </style>
   </head>
 
@@ -220,15 +257,6 @@
       <div class="form-container">
         <form id="prediction-form" action="/predict" method="post">
           <h2>Crop and Yield Prediction Form</h2>
-          <input type="text" name="N" placeholder="Nitrogen (N)" value="{{ request.form.N if request.form.N }}" required />
-          <input type="text" name="P" placeholder="Phosphorus (P)" value="{{ request.form.P if request.form.P }}" required />
-          <input type="text" name="K" placeholder="Potassium (K)" value="{{ request.form.K if request.form.K }}" required />
-          <input type="text" name="pH" placeholder="Soil pH" value="{{ request.form.pH if request.form.pH }}" />
-          <input type="text" name="Humidity" placeholder="Humidity (%)" value="{{ request.form.Humidity if request.form.Humidity }}" />
-          <input type="text" name="Temperature" placeholder="Temperature (°C)" value="{{ request.form.Temperature if request.form.Temperature }}" />
-          <input type="text" name="Rainfall" placeholder="Rainfall (mm)" value="{{ request.form.Rainfall if request.form.Rainfall }}" />
-          <!-- <input type="text" name="District" placeholder="District" />
-          <input type="text" name="SoilType" placeholder="Soil Type" /> -->
           <select
             id="SoilType"
             name="SoilType"
@@ -249,11 +277,86 @@
             <option value="10">Terai Alluvial Soil</option>
           </select>
 
-          <select id="option" name="District" value="{{ request.form.Rainfall if request.form.Rainfall }}" required>
+          <select
+            id="option"
+            name="District"
+            value="{{ request.form.Rainfall if request.form.Rainfall }}"
+            required
+          >
             <option value="none" selected disabled hidden>
               Select District
             </option>
           </select>
+          <input
+            type="text"
+            name="Humidity"
+            placeholder="Humidity (%)"
+            id="humidity"
+            value="{{ request.form.Humidity if request.form.Humidity }}"
+            readonly
+          />
+          <input
+            type="text"
+            name="Temperature"
+            placeholder="Temperature (°C)"
+            id="temp"
+            name="temperature"
+            value="{{ request.form.Temperature if request.form.Temperature }}"
+            readonly
+          />
+          <input
+            type="text"
+            name="Rainfall"
+            placeholder="Rainfall (mm)"
+            value="{{ request.form.Rainfall if request.form.Rainfall }}"
+            id="rainfall"
+          />
+          <input
+            type="text"
+            name="N"
+            placeholder="Nitrogen (N)"
+            value="{{ request.form.N if request.form.N }}"
+            required
+          />
+          <input
+            type="text"
+            name="P"
+            placeholder="Phosphorus (P)"
+            value="{{ request.form.P if request.form.P }}"
+            required
+          />
+          <input
+            type="text"
+            name="K"
+            placeholder="Potassium (K)"
+            value="{{ request.form.K if request.form.K }}"
+            required
+          />
+          <input
+            type="text"
+            name="pH"
+            placeholder="Soil pH"
+            value="{{ request.form.pH if request.form.pH }}"
+          />
+
+          <!-- <input
+            type="text"
+            name="Temperature"
+            placeholder="Temperature (°C)"
+            value="{{ request.form.Temperature if request.form.Temperature }}"
+          /> -->
+
+          <!-- <input
+            type="text"
+            name="Rainfall"
+            placeholder="Rainfall (mm)"
+            id="rainfall"
+            name="rainfall"
+            readonly
+          /> -->
+          <!-- <input type="text" name="District" placeholder="District" />
+          <input type="text" name="SoilType" placeholder="Soil Type" /> -->
+
           <button id="predict-button" type="submit">PREDICT</button>
         </form>
       </div>
@@ -262,55 +365,58 @@
         <div class="error-message">
           <h3>Error: Invalid Input!</h3>
           <p>{{ prediction_text }}</p>
-          <button class="btn-close" onclick="nav()">CLOSE&nbsp;</button> 
+          <button class="btn-close" onclick="nav()">CLOSE&nbsp;</button>
         </div>
 
         {% elif prediction_text and valid %}
-        <div class="resultdiv">
-          <h3>Prediction Results:</h3>
-          <p>
-            Best Fit Crop: {{ prediction_text[0][0] }}, Expected Yield: {{
-            prediction_text[0][1] }} kg/ha
-          </p>
-          {% for crop, yield in prediction_text[1:] %}
-          <p>Alternative Crop: {{ crop }}, Expected Yield: {{ yield }} kg/ha</p>
-          {% endfor %}
+        <h3>Prediction Results:</h3>
+        <p>
+          Best Fit Crop: {{ prediction_text[0][0] }}, Expected Yield: {{
+          prediction_text[0][1] }} kg/ha
+        </p>
+        {% for crop, yield in prediction_text[1:] %}
+        <p>Alternative Crop: {{ crop }}, Expected Yield: {{ yield }} kg/ha</p>
+        {% endfor %}
 
-          <button class="btn-close" onclick="nav()">CLOSE&nbsp;</button>
-        </div>
-        {% else %}
-        <div class="glowing-bar-loader">
-          <div class="bar"></div>
-          <div class="bar"></div>
-          <div class="bar"></div>
-          <div class="bar"></div>
-          <div class="bar"></div>
-        </div>
-        {% endif %}
+        <button class="btn-close" onclick="nav()">CLOSE&nbsp;</button>
       </div>
+      {% else %}
+      <div class="glowing-bar-loader" id="glow-bar">
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+      </div>
+      {% endif %}
     </div>
 
     <script>
       let commonValues = {
         1: [
+          "--Select-District--",
           "Alipurduar",
           "Murshidabad",
-          "Purba Medinipur (East Medinipur)",
+          "Purba_Medinipur",
           "Hooghly",
           "Kolkata",
           "Nadia",
           "Howrah",
-          "Dakshin Dinajpur",
+          "Dakshin_Dinajpur",
         ],
-        2: ["Jalpaiguri", "North 24 Parganas"],
-        3: ["South 24 Parganas"],
-        4: ["Kalimpong", "Darjeeling"],
-        5: ["Paschim Medinipur (West Medinipur)", "Purulia"],
-        6: ["Siliguri", "Birbhum", "Malda", "Purulia"],
-        7: ["Bardhaman", "Cooch Behar"],
-        8: ["Bankura"],
-        9: ["Jhargram"],
-        10: ["Uttar Dinajpur"],
+        2: ["--Select-District--", "Jalpaiguri", "North_24_Parganas"],
+        3: ["--Select-District--", "South_24_Parganas"],
+        4: ["--Select-District--", "Kalimpong", "Darjeeling"],
+        5: [
+          "--Select-District--",
+          "Paschim_Medinipur (West_Medinipur)",
+          "Purulia",
+        ],
+        6: ["--Select-District--", "Siliguri", "Birbhum", "Malda", "Purulia"],
+        7: ["--Select-District--", "Bardhaman", "Cooch_Behar"],
+        8: ["--Select-District--", "Bankura"],
+        9: ["--Select-District--", "Jhargram"],
+        10: ["--Select-District--", "Uttar_Dinajpur"],
       };
 
       function changeDropDownValue(value) {
@@ -327,10 +433,82 @@
         }
       }
 
-      
-      
+      document.addEventListener("DOMContentLoaded", function () {
+        const submitButton = document.getElementById("predict-button");
 
-      
+        submitButton.addEventListener("click", function () {
+          const glowBar = document.getElementById("glow-bar");
+          glowBar.innerHTML = `<h4 class="loader">Analysing...</h4>`;
+          setTimeout(function () {
+            glowBar.innerHTML = `<h4 class="loader">Predicting..</h4>`;
+          }, 4000);
+          setTimeout(function () {}, 3000);
+        });
+
+        const districtSelect = document.getElementById("option");
+        const temperatureInput = document.getElementById("temp");
+        const humidityInput = document.getElementById("humidity");
+
+        districtSelect.addEventListener("change", function () {
+          const district = districtSelect.value;
+          if (district) {
+            fetchWeatherData(district);
+          }
+        });
+
+        function fetchWeatherData(district) {
+          const apiKey = "2f9d1c6d7cb2bab7cae3c0e7511b1377";
+          const coords = getLatLonForDistrict(district);
+          const lat = coords.lat;
+          const lon = coords.lon;
+
+          url = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${apiKey}`;
+
+          fetch(url)
+            .then((res) => res.json())
+            .then((data) => {
+              let temp = Math.round((data.main.temp - 273.15) * 100) / 100;
+              console.log(temp);
+              console.log(districtSelect.value);
+              temperatureInput.value = temp;
+              humidityInput.value = data.main.humidity;
+            });
+
+          // api
+          // rainfallInput.value = "working";
+        }
+
+        function getLatLonForDistrict(district) {
+          const districts = {
+            Alipurduar: { lat: 26.5, lon: 89.5 },
+            Bankura: { lat: 23.25, lon: 87.07 },
+            Birbhum: { lat: 23.83, lon: 87.65 },
+            Cooch_Behar: { lat: 26.32, lon: 89.45 },
+            Dakshin_Dinajpur: { lat: 25.17, lon: 88.77 },
+            Darjeeling: { lat: 27.03, lon: 88.18 },
+            Hooghly: { lat: 22.9, lon: 88.39 },
+            Howrah: { lat: 22.59, lon: 88.31 },
+            Jalpaiguri: { lat: 26.52, lon: 88.73 },
+            Jhargram: { lat: 22.45, lon: 86.98 },
+            Kalimpong: { lat: 27.06, lon: 88.47 },
+            Kolkata: { lat: 22.57, lon: 88.36 },
+            Malda: { lat: 25.0, lon: 88.14 },
+            Murshidabad: { lat: 24.18, lon: 88.27 },
+            Nadia: { lat: 23.48, lon: 88.45 },
+            North_24_Parganas: { lat: 22.64, lon: 88.39 },
+            Paschim_Bardhaman: { lat: 23.68, lon: 87.45 },
+            Paschim_Medinipur: { lat: 22.43, lon: 87.32 },
+            Purba_Bardhaman: { lat: 23.25, lon: 87.85 },
+            Purba_Medinipur: { lat: 22.32, lon: 87.92 },
+            Purulia: { lat: 23.33, lon: 86.37 },
+            South_24_Parganas: { lat: 22.15, lon: 88.4 },
+            Uttar_Dinajpur: { lat: 25.62, lon: 87.82 },
+          };
+
+          return districts[district];
+        }
+      });
+
       function nav() {
         window.location.href = "http://127.0.0.1:8000";
       }

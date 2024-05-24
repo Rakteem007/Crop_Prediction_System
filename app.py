@@ -2,6 +2,7 @@ from flask import Flask, request, render_template
 import pandas as pd
 import numpy as np
 import pickle
+import time
 
 app = Flask(__name__)
 
@@ -46,6 +47,7 @@ def home():
 
 @app.route('/predict', methods=['POST'])
 def predict():
+    time.sleep(7)
     input_data = request.form.to_dict()
     
     # Edit the range here bhai -->
@@ -55,7 +57,7 @@ def predict():
         'P' : (6.0,  100.0),
         'K' : (12.0,  130.0),
         'pH' : (3.8,  9.6),
-        'Humidity' : (32.0,  85.0),
+        'Humidity' : (20.0,  95.0),
         'Temperature' : (4.0,  45.0),
         'Rainfall' : (450.0,  4000.0)
     }
