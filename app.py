@@ -57,7 +57,7 @@ def predict():
         'P' : (6.0,  100.0),
         'K' : (12.0,  130.0),
         'pH' : (3.8,  9.6),
-        'Humidity' : (20.0,  95.0),
+        'Humidity' : (10.0,  95.0),
         'Temperature' : (4.0,  45.0),
         'Rainfall' : (450.0,  4000.0)
     }
@@ -71,7 +71,7 @@ def predict():
             input_data[key] = float(input_data[key])
             allowed_range = numerical_field_ranges.get(key)
             if not allowed_range or not allowed_range[0] <= input_data[key] <= allowed_range[1]:
-                errorMsg = f"There is a abnormality in {key} data field. Please Check it. Our registered range is {allowed_range[0]} to {allowed_range[1]}"
+                errorMsg = f"There is a abnormality in {key} data field. Please check it and try again."
                 return render_template('index.html', prediction_text=errorMsg, valid=False)
             
 
