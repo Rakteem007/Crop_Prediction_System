@@ -82,5 +82,16 @@ def predict_with_balanced_view(input_data, top_n=3):
     
     return top_crops_scores
 
+# Example input
+input_data = {
+    'N': 25, 'P': 30, 'K': 20, 'pH': 6.8, 'Humidity': 80, 'Temperature': 26, 'Rainfall': 120,
+    'District': 'DistrictA', 'SoilType': 'SoilType1'
+}
 
+# Making predictions
+top_crops_scores = predict_with_balanced_view(input_data, top_n=3)
+
+# Displaying the predictions
+for crop, score in top_crops_scores:
+    print(f"Crop: {crop}, Score: {score}")
 
