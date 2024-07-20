@@ -91,4 +91,6 @@ input_data = {
 # Making predictions
 top_crops_scores = predict_with_balanced_view(input_data, top_n=3)
 
-
+# Displaying the predictions
+for crop, score in top_crops_scores:
+    print(f"Crop: {crop}, Score: {score}")
